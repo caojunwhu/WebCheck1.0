@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthenticationService", "AuthenticationService.csproj", "{34D80938-ACC4-4946-871D-4D23577042A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Authentication", "..\Authentication\Authentication.csproj", "{709ABE82-E234-4424-A7C3-43937D0A6FB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseDesignPlus", "..\DatabaseDesignPlus\DatabaseDesignPlus.csproj", "{B72A02C2-BF14-4232-8BCB-2F18AF5779B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34D80938-ACC4-4946-871D-4D23577042A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34D80938-ACC4-4946-871D-4D23577042A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34D80938-ACC4-4946-871D-4D23577042A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34D80938-ACC4-4946-871D-4D23577042A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{709ABE82-E234-4424-A7C3-43937D0A6FB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{709ABE82-E234-4424-A7C3-43937D0A6FB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{709ABE82-E234-4424-A7C3-43937D0A6FB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{709ABE82-E234-4424-A7C3-43937D0A6FB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B72A02C2-BF14-4232-8BCB-2F18AF5779B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B72A02C2-BF14-4232-8BCB-2F18AF5779B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B72A02C2-BF14-4232-8BCB-2F18AF5779B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B72A02C2-BF14-4232-8BCB-2F18AF5779B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

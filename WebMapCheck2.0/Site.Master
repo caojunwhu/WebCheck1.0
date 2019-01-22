@@ -1,0 +1,61 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="WebMapCheck.SiteMaster" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head runat="server">
+    <title></title>
+    <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form runat="server">
+    <div class="page">
+        <div class="header">
+            <div class="title">
+                <h1>
+                    欢迎使用在线地理信息数据协同检查系统V1.0
+                </h1>
+            </div>
+            <div class="loginDisplay">
+                <asp:LoginView ID="HeadLoginView" runat="server" EnableViewState="false">
+                    <AnonymousTemplate>
+                        [ <a href="~/Default.aspx" ID="HeadLoginStatus" runat="server">登录</a> ]
+                    </AnonymousTemplate>
+                    <LoggedInTemplate>
+                        欢迎 <span class="bold"><asp:LoginName ID="HeadLoginName" runat="server" /></span>!
+                        [ <asp:LoginStatus ID="HeadLoginStatus" runat="server" LogoutAction="Redirect" LogoutText="注销" LogoutPageUrl="~/"/> ]
+                    </LoggedInTemplate>
+                </asp:LoginView>
+                </div>
+            <div class="clear hideSkiplink">
+                <asp:Menu ID="NavigationMenu" runat="server" CssClass="menu" 
+                    EnableViewState="false" IncludeStyleBlock="false" Orientation="Horizontal" 
+                    onmenuitemclick="NavigationMenu_MenuItemClick">
+                    <Items>
+                        <asp:MenuItem NavigateUrl="~/Default.aspx" Text="主页"/>
+                        <asp:MenuItem NavigateUrl="~/MyProjects.aspx" Text="所有项目" Value="所有项目">
+                        </asp:MenuItem>
+                        <asp:MenuItem Text="位置精度检测项目信息入库" Value="位置精度检测项目信息入库">
+                        </asp:MenuItem>
+                        <asp:MenuItem Text="平面及高程精度检测点成果入库" Value="平面及高程精度检测点成果入库"></asp:MenuItem>
+                        <asp:MenuItem Text="间距边长精度检测点成果表入库" Value="间距边长精度检测点成果表入库"></asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="~/About.aspx" Text="关于"/>
+                    </Items>
+                </asp:Menu>
+            </div>
+        </div>
+        <div class="main">
+            
+
+            <asp:ContentPlaceHolder ID="MainContent" runat="server"/>
+        </div>
+        <div class="clear">
+        </div>
+    </div>
+    <div class="footer">
+        
+    </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,129 @@
+D:\mycode\trunk\DLGQInfoMS\AuthenticationService\bin\AuthenticationService.dll
+D:\mycode\trunk\DLGQInfoMS\AuthenticationService\bin\AuthenticationService.pdb
+D:\mycode\trunk\DLGQInfoMS\AuthenticationService\bin\Authentication.dll
+D:\mycode\trunk\DLGQInfoMS\AuthenticationService\bin\DatabaseDesignPlus.dll
+D:\mycode\trunk\DLGQInfoMS\AuthenticationService\bin\Npgsql.dll
+D:\mycode\trunk\DLGQInfoMS\AuthenticationService\bin\CSoftAutoUpdater.dll
+D:\mycode\trunk\DLGQInfoMS\AuthenticationService\bin\Newtonsoft.Json.dll
+D:\mycode\trunk\DLGQInfoMS\AuthenticationService\bin\Mono.Security.dll
+D:\mycode\trunk\DLGQInfoMS\AuthenticationService\bin\Authentication.pdb
+D:\mycode\trunk\DLGQInfoMS\AuthenticationService\bin\DatabaseDesignPlus.pdb
+D:\mycode\trunk\DLGQInfoMS\AuthenticationService\bin\CSoftAutoUpdater.pdb
+D:\mycode\trunk\DLGQInfoMS\AuthenticationService\bin\Newtonsoft.Json.xml
+D:\mycode\trunk\DLGQInfoMS\AuthenticationService\obj\Debug\AuthenticationService.csprojResolveAssemblyReference.cache
+D:\mycode\trunk\DLGQInfoMS\AuthenticationService\obj\Debug\AuthenticationService.dll
+D:\mycode\trunk\DLGQInfoMS\AuthenticationService\obj\Debug\AuthenticationService.pdb
+D:\mycode\VS2015\DLGQInfoMS\AuthenticationService\bin\AuthenticationService.dll.config
+D:\mycode\VS2015\DLGQInfoMS\AuthenticationService\bin\AuthenticationService.dll
+D:\mycode\VS2015\DLGQInfoMS\AuthenticationService\bin\AuthenticationService.pdb
+D:\mycode\VS2015\DLGQInfoMS\AuthenticationService\bin\Authentication.dll
+D:\mycode\VS2015\DLGQInfoMS\AuthenticationService\bin\DatabaseDesignPlus.dll
+D:\mycode\VS2015\DLGQInfoMS\AuthenticationService\bin\Npgsql.dll
+D:\mycode\VS2015\DLGQInfoMS\AuthenticationService\bin\CSoftAutoUpdater.dll
+D:\mycode\VS2015\DLGQInfoMS\AuthenticationService\bin\Newtonsoft.Json.dll
+D:\mycode\VS2015\DLGQInfoMS\AuthenticationService\bin\Mono.Security.dll
+D:\mycode\VS2015\DLGQInfoMS\AuthenticationService\bin\Authentication.pdb
+D:\mycode\VS2015\DLGQInfoMS\AuthenticationService\bin\DatabaseDesignPlus.pdb
+D:\mycode\VS2015\DLGQInfoMS\AuthenticationService\bin\CSoftAutoUpdater.pdb
+D:\mycode\VS2015\DLGQInfoMS\AuthenticationService\bin\Newtonsoft.Json.xml
+D:\mycode\VS2015\DLGQInfoMS\AuthenticationService\obj\Debug\AuthenticationService.csprojResolveAssemblyReference.cache
+D:\mycode\VS2015\DLGQInfoMS\AuthenticationService\obj\Debug\AuthenticationService.dll
+D:\mycode\VS2015\DLGQInfoMS\AuthenticationService\obj\Debug\AuthenticationService.pdb
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\AuthenticationService\bin\AuthenticationService.dll.config
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\AuthenticationService\bin\AuthenticationService.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\AuthenticationService\bin\AuthenticationService.pdb
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\AuthenticationService\bin\Authentication.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\AuthenticationService\bin\DatabaseDesignPlus.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\AuthenticationService\bin\Npgsql.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\AuthenticationService\bin\CSoftAutoUpdater.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\AuthenticationService\bin\Newtonsoft.Json.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\AuthenticationService\bin\Mono.Security.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\AuthenticationService\bin\Authentication.pdb
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\AuthenticationService\bin\DatabaseDesignPlus.pdb
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\AuthenticationService\bin\CSoftAutoUpdater.pdb
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\AuthenticationService\bin\Newtonsoft.Json.xml
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\AuthenticationService\obj\Debug\AuthenticationService.csprojResolveAssemblyReference.cache
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\AuthenticationService\obj\Debug\AuthenticationService.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\AuthenticationService\obj\Debug\AuthenticationService.pdb
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\AuthenticationService\bin\AuthenticationService.dll.config
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\AuthenticationService\bin\AuthenticationService.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\AuthenticationService\bin\AuthenticationService.pdb
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\AuthenticationService\bin\Authentication.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\AuthenticationService\bin\DatabaseDesignPlus.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\AuthenticationService\bin\Npgsql.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\AuthenticationService\bin\CSoftAutoUpdater.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\AuthenticationService\bin\Newtonsoft.Json.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\AuthenticationService\bin\Mono.Security.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\AuthenticationService\bin\Authentication.pdb
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\AuthenticationService\bin\DatabaseDesignPlus.pdb
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\AuthenticationService\bin\CSoftAutoUpdater.pdb
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\AuthenticationService\bin\Newtonsoft.Json.xml
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\AuthenticationService\obj\Debug\AuthenticationService.csprojResolveAssemblyReference.cache
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\AuthenticationService\obj\Debug\AuthenticationService.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\AuthenticationService\obj\Debug\AuthenticationService.pdb
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\CommonModule\AuthenticationService\bin\AuthenticationService.dll.config
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\CommonModule\AuthenticationService\bin\AuthenticationService.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\CommonModule\AuthenticationService\bin\AuthenticationService.pdb
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\CommonModule\AuthenticationService\bin\Authentication.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\CommonModule\AuthenticationService\bin\DatabaseDesignPlus.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\CommonModule\AuthenticationService\bin\Npgsql.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\CommonModule\AuthenticationService\bin\CSoftAutoUpdater.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\CommonModule\AuthenticationService\bin\dog_net_windows.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\CommonModule\AuthenticationService\bin\Newtonsoft.Json.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\CommonModule\AuthenticationService\bin\DevComponents.DotNetBar.SuperGrid.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\CommonModule\AuthenticationService\bin\DevComponents.DotNetBar2.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\CommonModule\AuthenticationService\bin\DevComponents.Instrumentation.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\CommonModule\AuthenticationService\bin\Authentication.pdb
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\CommonModule\AuthenticationService\bin\DatabaseDesignPlus.pdb
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\CommonModule\AuthenticationService\bin\CSoftAutoUpdater.pdb
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\CommonModule\AuthenticationService\bin\DevComponents.DotNetBar.SuperGrid.xml
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\CommonModule\AuthenticationService\bin\DevComponents.DotNetBar2.xml
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\CommonModule\AuthenticationService\bin\DevComponents.Instrumentation.xml
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\CommonModule\AuthenticationService\obj\Debug\AuthenticationService.csprojResolveAssemblyReference.cache
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\CommonModule\AuthenticationService\obj\Debug\AuthenticationService.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\CommonModule\AuthenticationService\obj\Debug\AuthenticationService.pdb
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\CommonModule\AuthenticationService\bin\Mono.Security.dll
+G:\JMapProjects\JMapWebCheck2.0\CommonModule\AuthenticationService\bin\AuthenticationService.dll.config
+G:\JMapProjects\JMapWebCheck2.0\CommonModule\AuthenticationService\bin\AuthenticationService.dll
+G:\JMapProjects\JMapWebCheck2.0\CommonModule\AuthenticationService\bin\AuthenticationService.pdb
+G:\JMapProjects\JMapWebCheck2.0\CommonModule\AuthenticationService\bin\Authentication.dll
+G:\JMapProjects\JMapWebCheck2.0\CommonModule\AuthenticationService\bin\DatabaseDesignPlus.dll
+G:\JMapProjects\JMapWebCheck2.0\CommonModule\AuthenticationService\bin\Npgsql.dll
+G:\JMapProjects\JMapWebCheck2.0\CommonModule\AuthenticationService\bin\CSoftAutoUpdater.dll
+G:\JMapProjects\JMapWebCheck2.0\CommonModule\AuthenticationService\bin\dog_net_windows.dll
+G:\JMapProjects\JMapWebCheck2.0\CommonModule\AuthenticationService\bin\Newtonsoft.Json.dll
+G:\JMapProjects\JMapWebCheck2.0\CommonModule\AuthenticationService\bin\DevComponents.DotNetBar.SuperGrid.dll
+G:\JMapProjects\JMapWebCheck2.0\CommonModule\AuthenticationService\bin\DevComponents.DotNetBar2.dll
+G:\JMapProjects\JMapWebCheck2.0\CommonModule\AuthenticationService\bin\DevComponents.Instrumentation.dll
+G:\JMapProjects\JMapWebCheck2.0\CommonModule\AuthenticationService\bin\Authentication.pdb
+G:\JMapProjects\JMapWebCheck2.0\CommonModule\AuthenticationService\bin\DatabaseDesignPlus.pdb
+G:\JMapProjects\JMapWebCheck2.0\CommonModule\AuthenticationService\bin\CSoftAutoUpdater.pdb
+G:\JMapProjects\JMapWebCheck2.0\CommonModule\AuthenticationService\bin\DevComponents.DotNetBar.SuperGrid.xml
+G:\JMapProjects\JMapWebCheck2.0\CommonModule\AuthenticationService\bin\DevComponents.DotNetBar2.xml
+G:\JMapProjects\JMapWebCheck2.0\CommonModule\AuthenticationService\bin\DevComponents.Instrumentation.xml
+G:\JMapProjects\JMapWebCheck2.0\CommonModule\AuthenticationService\obj\Debug\AuthenticationService.csprojResolveAssemblyReference.cache
+G:\JMapProjects\JMapWebCheck2.0\CommonModule\AuthenticationService\obj\Debug\AuthenticationService.dll
+G:\JMapProjects\JMapWebCheck2.0\CommonModule\AuthenticationService\obj\Debug\AuthenticationService.pdb
+G:\JMapProjects\JMapWebCheck2.0\CommonModule\AuthenticationService\bin\Mono.Security.dll
+G:\JMapProjects\JMapWebCheck2.0git\AuthenticationService\bin\AuthenticationService.dll.config
+G:\JMapProjects\JMapWebCheck2.0git\AuthenticationService\bin\AuthenticationService.dll
+G:\JMapProjects\JMapWebCheck2.0git\AuthenticationService\bin\AuthenticationService.pdb
+G:\JMapProjects\JMapWebCheck2.0git\AuthenticationService\bin\Authentication.dll
+G:\JMapProjects\JMapWebCheck2.0git\AuthenticationService\bin\DatabaseDesignPlus.dll
+G:\JMapProjects\JMapWebCheck2.0git\AuthenticationService\bin\Npgsql.dll
+G:\JMapProjects\JMapWebCheck2.0git\AuthenticationService\bin\CSoftAutoUpdater.dll
+G:\JMapProjects\JMapWebCheck2.0git\AuthenticationService\bin\dog_net_windows.dll
+G:\JMapProjects\JMapWebCheck2.0git\AuthenticationService\bin\Newtonsoft.Json.dll
+G:\JMapProjects\JMapWebCheck2.0git\AuthenticationService\bin\DevComponents.DotNetBar.SuperGrid.dll
+G:\JMapProjects\JMapWebCheck2.0git\AuthenticationService\bin\Mono.Security.dll
+G:\JMapProjects\JMapWebCheck2.0git\AuthenticationService\bin\DevComponents.DotNetBar2.dll
+G:\JMapProjects\JMapWebCheck2.0git\AuthenticationService\bin\DevComponents.Instrumentation.dll
+G:\JMapProjects\JMapWebCheck2.0git\AuthenticationService\bin\Authentication.pdb
+G:\JMapProjects\JMapWebCheck2.0git\AuthenticationService\bin\DatabaseDesignPlus.pdb
+G:\JMapProjects\JMapWebCheck2.0git\AuthenticationService\bin\CSoftAutoUpdater.pdb
+G:\JMapProjects\JMapWebCheck2.0git\AuthenticationService\bin\DevComponents.DotNetBar.SuperGrid.xml
+G:\JMapProjects\JMapWebCheck2.0git\AuthenticationService\bin\DevComponents.DotNetBar2.xml
+G:\JMapProjects\JMapWebCheck2.0git\AuthenticationService\bin\DevComponents.Instrumentation.xml
+G:\JMapProjects\JMapWebCheck2.0git\AuthenticationService\obj\Debug\AuthenticationService.csprojResolveAssemblyReference.cache
+G:\JMapProjects\JMapWebCheck2.0git\AuthenticationService\obj\Debug\AuthenticationService.dll
+G:\JMapProjects\JMapWebCheck2.0git\AuthenticationService\obj\Debug\AuthenticationService.pdb

@@ -1,0 +1,349 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Root>
+  <Functions>
+    <Function Tile="地形图位置精度检查成果入库" Folder="" MainDll="" Method="" Class="" Paras="" Key="1" Image="地形图位置精度检查系统.png" ToolTip="地形图位置精度检查系统">
+
+      <Function Tile="新建检测项目信息" Folder="" MainDll="PluginUI.dll" Method="Run" Class="PluginUI.CallClass" Paras="新建检测项目信息" Key="12" Image="新建检测项目信息.png" ToolTip="使用数据入库通用模块新建检测项目信息">
+        <Configs>
+          <!--地形图位置精度检查系统数据库 位置精度检测项目信息表 名称-->
+          <Config Key="ImportDataTableName" Value="检测项目信息表" />
+          <!--地形图位置精度检查系统数据库 位置精度检测项目信息表设计 名称-->
+          <Config Key="DataTableDesignName" Value="检测项目信息表设计" />
+          <!--地形图位置精度检查系统数据库 位置精度检测项目信息表设计 版本-->
+          <Config Key="DataTableDesignVersion" Value="1.3" />
+          <!--用于序列化DataBaseDesign.FieldAttributesName对象，配置数据库表设计中的字段设计表头-->
+          <Config Key="DataTableDesignFieldAttributesName" Value="{'FieldIndex':'序号','FieldName':'名称','FieldCode':'代码','FieldType':'类型','FieldLength':'长度','FieldPrecision':'小数位数','FieldValue':'值域','FieldIsNull':'是否必填','FieldRemarks':'说明','FieldImportType':'导入类型','FieldImportIDCode':'导入识别码'}" />
+          <Config Key="DataTableDesignFieldAttributesNamePlus" Value="{'FieldIndex':'序号','FieldName':'名称','FieldCode':'代码','FieldClass':'属性类别','FieldSource':'属性来源','FieldInput':'输入框','FieldType':'类型','FieldLength':'长度','FieldPrecision':'小数位数','FieldValue':'值域','FieldIsNull':'是否必填','FieldRemarks':'说明','FieldImportType':'导入类型','FieldImportIDCode':'导入识别码'}" />
+        </Configs>
+        <RefDatabases>
+          <RefDatabase Key="SurveryProductCheckDatabase"  />
+        </RefDatabases>
+      </Function>
+      
+      <Function Tile="检测项目信息入库" Folder="" MainDll="PluginUI.dll" Method="Run" Class="PluginUI.CallClass" Paras="检测项目信息入库" Key="12" Image="检测项目信息入库.png" ToolTip="使用数据入库通用模块对检测项目信息入库">
+        <Configs>
+          <!--地形图位置精度检查系统数据库 位置精度检测项目信息表 名称-->
+          <Config Key="ImportDataTableName" Value="位置精度检测项目信息表" />
+          <!--地形图位置精度检查系统数据库 位置精度检测项目信息表设计 名称-->
+          <Config Key="DataTableDesignName" Value="位置精度检测项目信息表设计" />
+          <!--地形图位置精度检查系统数据库 位置精度检测项目信息表设计 版本-->
+          <Config Key="DataTableDesignVersion" Value="1.2" />
+          <!--用于序列化DataBaseDesign.FieldAttributesName对象，配置数据库表设计中的字段设计表头-->
+          <Config Key="DataTableDesignFieldAttributesName" Value="{'FieldIndex':'序号','FieldName':'名称','FieldCode':'代码','FieldType':'类型','FieldLength':'长度','FieldPrecision':'小数位数','FieldValue':'值域','FieldIsNull':'是否必填','FieldRemarks':'说明','FieldImportType':'导入类型','FieldImportIDCode':'导入识别码'}" />
+          <Config Key="DataTableDesignFieldAttributesNamePlus" Value="{'FieldIndex':'序号','FieldName':'名称','FieldCode':'代码','FieldClass':'属性类别','FieldSource':'属性来源','FieldInput':'输入框','FieldType':'类型','FieldLength':'长度','FieldPrecision':'小数位数','FieldValue':'值域','FieldIsNull':'是否必填','FieldRemarks':'说明','FieldImportType':'导入类型','FieldImportIDCode':'导入识别码'}" />
+        </Configs>
+        <RefDatabases>
+          <RefDatabase Key="SurveryProductCheckDatabase"  />
+        </RefDatabases>
+      </Function>
+      
+      <Function Tile="位置精度检测项目信息入库" Folder="" MainDll="PluginUI.dll" Method="Run" Class="PluginUI.CallClass" Paras="位置精度检测项目信息入库" Key="12" Image="位置精度检测项目信息入库.png" ToolTip="使用数据入库通用模块对位置精度检测项目信息入库">
+        <Configs>
+          <!--地形图位置精度检查系统数据库 位置精度检测项目信息表 名称-->
+          <Config Key="ImportDataTableName" Value="位置精度检测项目信息表" />
+          <!--地形图位置精度检查系统数据库 位置精度检测项目信息表设计 名称-->
+          <Config Key="DataTableDesignName" Value="位置精度检测项目信息表设计" />
+          <!--地形图位置精度检查系统数据库 位置精度检测项目信息表设计 版本-->
+          <Config Key="DataTableDesignVersion" Value="1.2" />
+          <!--用于序列化DataBaseDesign.FieldAttributesName对象，配置数据库表设计中的字段设计表头-->
+          <Config Key="DataTableDesignFieldAttributesName" Value="{'FieldIndex':'序号','FieldName':'名称','FieldCode':'代码','FieldType':'类型','FieldLength':'长度','FieldPrecision':'小数位数','FieldValue':'值域','FieldIsNull':'是否必填','FieldRemarks':'说明','FieldImportType':'导入类型','FieldImportIDCode':'导入识别码'}" />
+          <Config Key="DataTableDesignFieldAttributesNamePlus" Value="{'FieldIndex':'序号','FieldName':'名称','FieldCode':'代码','FieldClass':'属性类别','FieldSource':'属性来源','FieldInput':'输入框','FieldType':'类型','FieldLength':'长度','FieldPrecision':'小数位数','FieldValue':'值域','FieldIsNull':'是否必填','FieldRemarks':'说明','FieldImportType':'导入类型','FieldImportIDCode':'导入识别码'}" />
+                  <!-- 数据库类型关系表-->
+          <Config Key="DatatableDataTypeRelationDataTableName" Value="数据类型关系表"></Config>
+        </Configs>
+        <RefDatabases>
+          <RefDatabase Key ="TopographicMapLocationAccuracyCheckDataTableDesign"/>          
+          <RefDatabase Key="SurveryProductCheckDatabase"  />
+        </RefDatabases>
+      </Function>
+
+      <Function Tile="平面及高程精度检测点成果入库" Folder="" MainDll="PluginUI.dll" Method="Run" Class="PluginUI.CallClass" Paras="平面及高程精度检测点成果入库" Key="12" Image="平面及高程精度检测点成果入库.png" ToolTip="使用数据入库通用模块对平面及高程精度检测点成果入库">
+        <Configs>
+          <!--地形图位置精度检查系统数据库 位置精度检测项目信息表 名称-->
+          <Config Key="ImportDataTableName" Value="平面及高程精度检测点成果表" />
+          <!--地形图位置精度检查系统数据库 位置精度检测项目信息表设计 名称-->
+          <Config Key="DataTableDesignName" Value="平面及高程精度检测点成果表设计" />
+          <!--地形图位置精度检查系统数据库 位置精度检测项目信息表设计 版本-->
+          <Config Key="DataTableDesignVersion" Value="1.2" />
+          <!--用于序列化DataBaseDesign.FieldAttributesName对象，配置数据库表设计中的字段设计表头-->
+          <Config Key="DataTableDesignFieldAttributesName" Value="{'FieldIndex':'序号','FieldName':'名称','FieldCode':'代码','FieldType':'类型','FieldLength':'长度','FieldPrecision':'小数位数','FieldValue':'值域','FieldIsNull':'是否必填','FieldRemarks':'说明','FieldImportType':'导入类型','FieldImportIDCode':'导入识别码'}" />
+          <Config Key="DataTableDesignFieldAttributesNamePlus" Value="{'FieldIndex':'序号','FieldName':'名称','FieldCode':'代码','FieldClass':'属性类别','FieldSource':'属性来源','FieldInput':'输入框','FieldType':'类型','FieldLength':'长度','FieldPrecision':'小数位数','FieldValue':'值域','FieldIsNull':'是否必填','FieldRemarks':'说明','FieldImportType':'导入类型','FieldImportIDCode':'导入识别码'}" />
+          <Config Key="DatatableDataTypeRelationDataTableName" Value="数据类型关系表"></Config>
+        </Configs>
+        <RefDatabases>
+          <RefDatabase Key ="TopographicMapLocationAccuracyCheckDataTableDesign"/>
+          <RefDatabase Key="SurveryProductCheckDatabase"  />
+        </RefDatabases>
+      </Function>
+
+      <Function Tile="间距边长精度检测点成果表入库" Folder="" MainDll="PluginUI.dll" Method="Run" Class="PluginUI.CallClass" Paras="间距边长精度检测点成果表入库" Key="12" Image="间距边长精度检测点成果表入库.png" ToolTip="使用数据入库通用模块对间距边长精度检测点成果表入库">
+        <Configs>
+          <!--地形图位置精度检查系统数据库 位置精度检测项目信息表 名称-->
+          <Config Key="ImportDataTableName" Value="间距边长精度检测点成果表" />
+          <!--地形图位置精度检查系统数据库 位置精度检测项目信息表设计 名称-->
+          <Config Key="DataTableDesignName" Value="间距边长精度检测点成果表设计" />
+          <!--地形图位置精度检查系统数据库 位置精度检测项目信息表设计 版本-->
+          <Config Key="DataTableDesignVersion" Value="1.2" />
+          <!--用于序列化DataBaseDesign.FieldAttributesName对象，配置数据库表设计中的字段设计表头-->
+          <Config Key="DataTableDesignFieldAttributesName" Value="{'FieldIndex':'序号','FieldName':'名称','FieldCode':'代码','FieldType':'类型','FieldLength':'长度','FieldPrecision':'小数位数','FieldValue':'值域','FieldIsNull':'是否必填','FieldRemarks':'说明','FieldImportType':'导入类型','FieldImportIDCode':'导入识别码'}" />
+          <Config Key="DataTableDesignFieldAttributesNamePlus" Value="{'FieldIndex':'序号','FieldName':'名称','FieldCode':'代码','FieldClass':'属性类别','FieldSource':'属性来源','FieldInput':'输入框','FieldType':'类型','FieldLength':'长度','FieldPrecision':'小数位数','FieldValue':'值域','FieldIsNull':'是否必填','FieldRemarks':'说明','FieldImportType':'导入类型','FieldImportIDCode':'导入识别码'}" />
+          <Config Key="DatatableDataTypeRelationDataTableName" Value="数据类型关系表"></Config>
+        </Configs>
+        <RefDatabases>
+          <RefDatabase Key ="TopographicMapLocationAccuracyCheckDataTableDesign"/>
+          <RefDatabase Key="SurveryProductCheckDatabase"  />
+        </RefDatabases>
+      </Function>
+    </Function>
+    
+    <Function Tile="地形图位置精度计算" Folder="" MainDll="" Method="" Class="" Paras="" Key="1" Image="地形图位置精度计算.png" ToolTip="地形图位置精度计算">
+      <Function Tile="检测中误差及得分计算" Folder="" MainDll="PluginUI.dll" Method="Run" Class="PluginUI.CallClass" Paras="检测中误差及得分计算" Key="12" Image="检测中误差及得分计算.png" ToolTip="检测中误差及得分计算">
+        <Configs>
+          <!--地形图位置精度检查系统数据库 间距精度检测项目信息表 名称-->
+          <Config Key="RelativeMeanErrorDataTableName" Value="间距边长测值中误差计算表" />
+          <!--地形图位置精度检查系统数据库 高程精度检测项目信息表 名称-->
+          <Config Key="HeightMeanErrorDataTableName" Value="高程检测值中误差计算表" />
+          <!--地形图位置精度检查系统数据库 位置精度检测项目信息表 名称-->
+          <Config Key="PositonMeanErrorDataTableName" Value="点位检测值中误差计算表" />
+          <!--地形图位置精度检查系统数据库 位置精度检测项目信息表设计 名称-->
+          <Config Key="CheckPointsMeanErrorDataTableDesignName" Value="检测值中误差计算表设计" />
+          
+          <!--地形图位置精度检查系统数据库 位置精度检测项目信息表 名称-->
+          <Config Key="TopographicMapLocationAccuracyCheckDataTableName" Value="位置精度检测项目信息表" />
+          <!--地形图位置精度检查系统数据库 位置精度检测项目信息表设计 名称-->
+          <Config Key="TopographicMapLocationAccuracyCheckDataTableDesignName" Value="位置精度检测项目信息表设计" />
+          <!--地形图位置精度检查系统数据库 检测点成果表 名称-->
+          <Config Key="CheckPointsTableName" Value="平面及高程精度检测点成果表" />
+          <!--地形图位置精度检查系统数据库 间距检测点成果表 名称-->
+          <Config Key="RelativeCheckPointsTableName" Value="间距边长精度检测点成果表" />
+          <!--地形图位置精度检查系统数据库 位置精度检测项目信息表设计 名称-->
+          <Config Key="RelativeCheckPointsTableDesignName" Value="间距边长精度检测点成果表设计" />
+          <!--地形图位置精度检查系统数据库 项目名称 字段-->
+          <Config Key="CheckProjectFieldNameCN" Value="项目名称" />
+          <!--地形图位置精度检查系统数据库 图幅号 名称-->
+          <Config Key="MapNumberFieldNameCN" Value="图幅号" />
+          <!--地形图位置精度检查系统数据库 图幅号 名称-->
+          <Config Key="MapNumberFieldName" Value="MAPNUMBER" />
+          <!--地形图位置精度检查系统数据库 位置精度检测项目信息表 名称-->
+          <!--地形图位置精度检查系统数据库 平面及高程精度检测点成果表设计 名称-->
+          <Config Key="CheckPointsDataTableDesignName" Value="平面及高程精度检测点成果表设计" />
+          <Config Key="RelativeDataTablePrintSetting" Value="间距边长误差统计表打印设置表" />
+          <!--地形图位置精度检查系统数据库 位置精度检测项目信息表 名称-->
+          <Config Key="ImportDataTableName" Value="检测点误差统计表打印设置表" />
+          <!--地形图位置精度检查系统数据库 检测点误差统计表打印设置表设计 名称-->
+          <Config Key="DataTableDesignName" Value="检测点误差统计表打印设置表设计" />
+          <!--地形图位置精度检查系统数据库 检测点误差统计表打印设置表设计 版本-->
+          <Config Key="DataTableDesignVersion" Value="1.2" />
+          <!--用于序列化DataBaseDesign.FieldAttributesName对象，配置数据库表设计中的字段设计表头-->
+          <Config Key="DataTableDesignFieldAttributesName" Value="{'FieldIndex':'序号','FieldName':'名称','FieldCode':'代码','FieldType':'类型','FieldLength':'长度','FieldPrecision':'小数位数','FieldValue':'值域','FieldIsNull':'是否必填','FieldRemarks':'说明','FieldImportType':'导入类型','FieldImportIDCode':'导入识别码'}" />
+          <!--地形图位置精度检查系统数据库 打印环境 版本-->
+          <Config Key="RelativeErrorStatisticPrintEnvironment" Value="{'PrintDesignDatabaseFilePath':'CheckPointMeanErrorStatisticDataTableDesign','PrintDesignDataTableName':'DataTableDesignName','PrintSettingDataTableName':'RelativeDataTablePrintSetting','PrintDaTableDesignVersion':'DataTableDesignVersion','SourceDatabaseFileName':'SPIDatabaseFilePath','SourceDatatableName':'RelativeCheckPointsTableName','CheckReportTemplateFilePath':'RelativeCheckReportTemplateFilePath','DataTableDesignFieldAttributesName':'DataTableDesignFieldAttributesName'}" />
+          <Config Key="CheckPointsErrorStatisticPrintEnvironment" Value="{'PrintDesignDatabaseFilePath':'CheckPointMeanErrorStatisticDataTableDesign','PrintDesignDataTableName':'DataTableDesignName','PrintSettingDataTableName':'ImportDataTableName','PrintDaTableDesignVersion':'DataTableDesignVersion','SourceDatabaseFileName':'SPIDatabaseFilePath','SourceDatatableName':'CheckPointsTableName','CheckReportTemplateFilePath':'ReportTemplateFilePath','DataTableDesignFieldAttributesName':'DataTableDesignFieldAttributesName'}" />
+          <Config Key="DatatableDataTypeRelationDataTableName" Value="数据类型关系表"></Config>
+        </Configs>
+        <RefDatabases>
+          <RefDatabase Key ="CheckPointMeanErrorStatisticDataTableDesign"/>
+          <RefDatabase Key ="TopographicMapLocationAccuracyCheckDataTableDesign"/>
+          <RefDatabase Key="CheckPointsMeanErrorDataTableDesignFilePath"/>
+          <RefDatabase Key="SurveryProductCheckDatabase"  />
+          <!--地形图位置精度检查系统数据库 检测点误差统计表.dot 地址-->
+          <RefDatabase Key="ReportTemplateFilePath"  />
+          <!--地形图位置精度检查系统数据库 间距检测点误差统计表.dot 地址-->
+          <RefDatabase Key="RelativeCheckReportTemplateFilePath"  />
+        </RefDatabases>
+      </Function>
+    </Function>    
+      <Function Tile="地形图位置精度统计报表报告打印" Folder="" MainDll="" Method="" Class="" Paras="" Key="1" Image="地形图位置精度统计报表报告打印.png" ToolTip="地形图位置精度统计报表报告打印">
+      <Function Tile="检测点精度统计表打印" Folder="" MainDll="PluginUI.dll" Method="Run" Class="PluginUI.CallClass" Paras="检测点精度统计表打印" Key="12" Image="检测点精度统计表打印.png" ToolTip="使用数据入库通用打印模块检测点精度统计表">
+        <Configs>
+          <!--地形图位置精度检查系统数据库 间距精度检测项目信息表 名称-->
+          <Config Key="RelativeMeanErrorDataTableName" Value="间距边长测值中误差计算表" />
+          <!--地形图位置精度检查系统数据库 高程精度检测项目信息表 名称-->
+          <Config Key="HeightMeanErrorDataTableName" Value="高程检测值中误差计算表" />
+          <!--地形图位置精度检查系统数据库 位置精度检测项目信息表 名称-->
+          <Config Key="PositonMeanErrorDataTableName" Value="点位检测值中误差计算表" />
+          <!--地形图位置精度检查系统数据库 位置精度检测项目信息表设计 名称-->
+          <Config Key="CheckPointsMeanErrorDataTableDesignName" Value="检测值中误差计算表设计" />
+          
+          <!--地形图位置精度检查系统数据库 位置精度检测项目信息表 名称-->
+          <Config Key="TopographicMapLocationAccuracyCheckDataTableName" Value="位置精度检测项目信息表" />
+          <!--地形图位置精度检查系统数据库 位置精度检测项目信息表设计 名称-->
+          <Config Key="TopographicMapLocationAccuracyCheckDataTableDesignName" Value="位置精度检测项目信息表设计" />
+          <!--地形图位置精度检查系统数据库 检测点成果表 名称-->
+          <Config Key="CheckPointsTableName" Value="平面及高程精度检测点成果表" />
+          <!--地形图位置精度检查系统数据库 平面及高程精度检测点成果表设计 名称-->
+          <Config Key="CheckPointsDataTableDesignName" Value="平面及高程精度检测点成果表设计" />
+          <!--地形图位置精度检查系统数据库 间距检测点成果表 名称-->
+          <Config Key="RelativeCheckPointsTableName" Value="间距边长精度检测点成果表" />
+          <!--地形图位置精度检查系统数据库 项目名称 字段-->
+          <Config Key="CheckProjectFieldNameCN" Value="项目名称" />
+          <!--地形图位置精度检查系统数据库 图幅号 名称-->
+          <Config Key="MapNumberFieldNameCN" Value="图幅号" />
+          <!--地形图位置精度检查系统数据库 图幅号 名称-->
+          <Config Key="MapNumberFieldName" Value="MAPNUMBER" />
+          <!--地形图位置精度检查系统数据库 位置精度检测项目信息表 名称-->
+          <Config Key="RelativeDataTablePrintSetting" Value="间距边长误差统计表打印设置表" />
+          <!--地形图位置精度检查系统数据库 位置精度检测项目信息表 名称-->
+          <Config Key="ImportDataTableName" Value="检测点误差统计表打印设置表" />
+          <!--地形图位置精度检查系统数据库 检测点误差统计表打印设置表设计 名称-->
+          <Config Key="DataTableDesignName" Value="检测点误差统计表打印设置表设计" />
+          <!--地形图位置精度检查系统数据库 检测点误差统计表打印设置表设计 版本-->
+          <Config Key="DataTableDesignVersion" Value="1.2" />
+          <!--用于序列化DataBaseDesign.FieldAttributesName对象，配置数据库表设计中的字段设计表头-->
+          <Config Key="DataTableDesignFieldAttributesName" Value="{'FieldIndex':'序号','FieldName':'名称','FieldCode':'代码','FieldType':'类型','FieldLength':'长度','FieldPrecision':'小数位数','FieldValue':'值域','FieldIsNull':'是否必填','FieldRemarks':'说明','FieldImportType':'导入类型','FieldImportIDCode':'导入识别码'}" />
+          <!--地形图位置精度检查系统数据库 打印环境 版本-->
+          <Config Key="RelativeErrorStatisticPrintEnvironment" Value="{'PrintDesignDatabaseFilePath':'CheckPointMeanErrorStatisticDataTableDesign','PrintDesignDataTableName':'DataTableDesignName','PrintSettingDataTableName':'RelativeDataTablePrintSetting','PrintDaTableDesignVersion':'DataTableDesignVersion','SourceDatabaseFileName':'SurveryProductCheckDatabase','SourceDatatableName':'RelativeCheckPointsTableName','CheckReportTemplateFilePath':'RelativeCheckReportTemplateFilePath','DataTableDesignFieldAttributesName':'DataTableDesignFieldAttributesName'}" />
+          <Config Key="CheckPointsErrorStatisticPrintEnvironment" Value="{'PrintDesignDatabaseFilePath':'CheckPointMeanErrorStatisticDataTableDesign','PrintDesignDataTableName':'DataTableDesignName','PrintSettingDataTableName':'ImportDataTableName','PrintDaTableDesignVersion':'DataTableDesignVersion','SourceDatabaseFileName':'SurveryProductCheckDatabase','SourceDatatableName':'CheckPointsTableName','CheckReportTemplateFilePath':'ReportTemplateFilePath','DataTableDesignFieldAttributesName':'DataTableDesignFieldAttributesName'}" />
+          <Config Key="DatatableDataTypeRelationDataTableName" Value="数据类型关系表"></Config>
+        </Configs>
+        <RefDatabases>
+          <RefDatabase Key ="CheckPointMeanErrorStatisticDataTableDesign"/>
+          <RefDatabase Key ="TopographicMapLocationAccuracyCheckDataTableDesign"/>
+          <RefDatabase Key="CheckPointsMeanErrorDataTableDesignFilePath"/>
+          <RefDatabase Key="SurveryProductCheckDatabase"  />
+          <!--地形图位置精度检查系统数据库 检测点误差统计表.dot 地址-->
+          <RefDatabase Key="ReportTemplateFilePath"  />
+          <!--地形图位置精度检查系统数据库 间距检测点误差统计表.dot 地址-->
+          <RefDatabase Key="RelativeCheckReportTemplateFilePath"  />
+        </RefDatabases>
+      </Function>
+    
+       <Function Tile="间距边长误差统计表打印" Folder="" MainDll="PluginUI.dll" Method="Run" Class="PluginUI.CallClass" Paras="间距边长误差统计表打印" Key="12" Image="间距边长误差统计表打印.png" ToolTip="使用数据入库通用打印模块间距边长误差统计表">
+        <Configs>
+          <!--地形图位置精度检查系统数据库 间距精度检测项目信息表 名称-->
+          <Config Key="RelativeMeanErrorDataTableName" Value="间距边长测值中误差计算表" />
+          <!--地形图位置精度检查系统数据库 高程精度检测项目信息表 名称-->
+          <Config Key="HeightMeanErrorDataTableName" Value="高程检测值中误差计算表" />
+          <!--地形图位置精度检查系统数据库 位置精度检测项目信息表 名称-->
+          <Config Key="PositonMeanErrorDataTableName" Value="点位检测值中误差计算表" />
+          <!--地形图位置精度检查系统数据库 位置精度检测项目信息表设计 名称-->
+          <Config Key="CheckPointsMeanErrorDataTableDesignName" Value="检测值中误差计算表设计" />
+
+          <!--地形图位置精度检查系统数据库 位置精度检测项目信息表 名称-->
+          <Config Key="TopographicMapLocationAccuracyCheckDataTableName" Value="位置精度检测项目信息表" />
+          <!--地形图位置精度检查系统数据库 位置精度检测项目信息表设计 名称-->
+          <Config Key="TopographicMapLocationAccuracyCheckDataTableDesignName" Value="位置精度检测项目信息表设计" />
+          <!--地形图位置精度检查系统数据库 检测点成果表 名称-->
+          <Config Key="CheckPointsTableName" Value="平面及高程精度检测点成果表" />
+          <!--地形图位置精度检查系统数据库 间距检测点成果表 名称-->
+          <Config Key="RelativeCheckPointsTableName" Value="间距边长精度检测点成果表" />
+          <!--地形图位置精度检查系统数据库 位置精度检测项目信息表设计 名称-->
+          <Config Key="RelativeCheckPointsTableDesignName" Value="间距边长精度检测点成果表设计" />
+          <!--地形图位置精度检查系统数据库 项目名称 字段-->
+          <Config Key="CheckProjectFieldNameCN" Value="项目名称" />
+          <!--地形图位置精度检查系统数据库 图幅号 名称-->
+          <Config Key="MapNumberFieldNameCN" Value="图幅号" />
+          <!--地形图位置精度检查系统数据库 图幅号 名称-->
+          <Config Key="MapNumberFieldName" Value="MAPNUMBER" />
+          <!--地形图位置精度检查系统数据库 位置精度检测项目信息表 名称-->
+          <Config Key="RelativeDataTablePrintSetting" Value="间距边长误差统计表打印设置表" />
+          <!--地形图位置精度检查系统数据库 位置精度检测项目信息表 名称-->
+          <Config Key="ImportDataTableName" Value="检测点误差统计表打印设置表" />
+          <!--地形图位置精度检查系统数据库 检测点误差统计表打印设置表设计 名称-->
+          <Config Key="DataTableDesignName" Value="检测点误差统计表打印设置表设计" />
+          <!--地形图位置精度检查系统数据库 检测点误差统计表打印设置表设计 版本-->
+          <Config Key="DataTableDesignVersion" Value="1.2" />
+          <!--用于序列化DataBaseDesign.FieldAttributesName对象，配置数据库表设计中的字段设计表头-->
+          <Config Key="DataTableDesignFieldAttributesName" Value="{'FieldIndex':'序号','FieldName':'名称','FieldCode':'代码','FieldType':'类型','FieldLength':'长度','FieldPrecision':'小数位数','FieldValue':'值域','FieldIsNull':'是否必填','FieldRemarks':'说明','FieldImportType':'导入类型','FieldImportIDCode':'导入识别码'}" />
+          <!--地形图位置精度检查系统数据库 打印环境 版本-->
+          <Config Key="RelativeErrorStatisticPrintEnvironment" Value="{'PrintDesignDatabaseFilePath':'CheckPointMeanErrorStatisticDataTableDesign','PrintDesignDataTableName':'DataTableDesignName','PrintSettingDataTableName':'RelativeDataTablePrintSetting','PrintDaTableDesignVersion':'DataTableDesignVersion','SourceDatabaseFileName':'SurveryProductCheckDatabase','SourceDatatableName':'RelativeCheckPointsTableName','CheckReportTemplateFilePath':'RelativeCheckReportTemplateFilePath','DataTableDesignFieldAttributesName':'DataTableDesignFieldAttributesName'}" />
+          <Config Key="CheckPointsErrorStatisticPrintEnvironment" Value="{'PrintDesignDatabaseFilePath':'CheckPointMeanErrorStatisticDataTableDesign','PrintDesignDataTableName':'DataTableDesignName','PrintSettingDataTableName':'ImportDataTableName','PrintDaTableDesignVersion':'DataTableDesignVersion','SourceDatabaseFileName':'SurveryProductCheckDatabase','SourceDatatableName':'CheckPointsTableName','CheckReportTemplateFilePath':'ReportTemplateFilePath','DataTableDesignFieldAttributesName':'DataTableDesignFieldAttributesName'}" />
+          <Config Key="DatatableDataTypeRelationDataTableName" Value="数据类型关系表"></Config>
+        </Configs>
+        <RefDatabases>
+          <RefDatabase Key ="CheckPointMeanErrorStatisticDataTableDesign"/>
+          <RefDatabase Key ="TopographicMapLocationAccuracyCheckDataTableDesign"/>
+          <RefDatabase Key="CheckPointsMeanErrorDataTableDesignFilePath"/>
+          <RefDatabase Key="SurveryProductCheckDatabase"  />
+          <!--地形图位置精度检查系统数据库 检测点误差统计表.dot 地址-->
+          <RefDatabase Key="ReportTemplateFilePath"  />
+          <!--地形图位置精度检查系统数据库 间距检测点误差统计表.dot 地址-->
+          <RefDatabase Key="RelativeCheckReportTemplateFilePath"  />
+        </RefDatabases>
+      </Function>
+      
+      <Function Tile="样本图幅检测精度统计表打印" Folder="" MainDll="PluginUI.dll" Method="Run" Class="PluginUI.CallClass" Paras="样本图幅检测精度统计表打印" Key="12" Image="样本图幅检测精度统计表打印.png" ToolTip="使用数据入库通用打印样本图幅检测精度统计表">
+        <Configs>
+          <!--地形图位置精度检查系统数据库 间距精度检测项目信息表 名称-->
+          <Config Key="RelativeMeanErrorDataTableName" Value="间距边长测值中误差计算表" />
+          <!--地形图位置精度检查系统数据库 高程精度检测项目信息表 名称-->
+          <Config Key="HeightMeanErrorDataTableName" Value="高程检测值中误差计算表" />
+          <!--地形图位置精度检查系统数据库 位置精度检测项目信息表 名称-->
+          <Config Key="PositonMeanErrorDataTableName" Value="点位检测值中误差计算表" />
+          <!--地形图位置精度检查系统数据库 位置精度检测项目信息表设计 名称-->
+          <Config Key="CheckPointsMeanErrorDataTableDesignName" Value="检测值中误差计算表设计" />
+
+          <!--地形图位置精度检查系统数据库 位置精度检测项目信息表 名称-->
+          <Config Key="TopographicMapLocationAccuracyCheckDataTableName" Value="位置精度检测项目信息表" />
+          <!--地形图位置精度检查系统数据库 位置精度检测项目信息表设计 名称-->
+          <Config Key="TopographicMapLocationAccuracyCheckDataTableDesignName" Value="位置精度检测项目信息表设计" />
+          <!--地形图位置精度检查系统数据库 检测点成果表 名称-->
+          <Config Key="CheckPointsTableName" Value="平面及高程精度检测点成果表" />
+          <!--地形图位置精度检查系统数据库 间距检测点成果表 名称-->
+          <Config Key="RelativeCheckPointsTableName" Value="间距边长精度检测点成果表" />
+          <!--地形图位置精度检查系统数据库 位置精度检测项目信息表设计 名称-->
+          <Config Key="RelativeCheckPointsTableDesignName" Value="间距边长精度检测点成果表设计" />
+          <!--地形图位置精度检查系统数据库 项目名称 字段-->
+          <Config Key="CheckProjectFieldNameCN" Value="项目名称" />
+          <!--地形图位置精度检查系统数据库 图幅号 名称-->
+          <Config Key="MapNumberFieldNameCN" Value="图幅号" />
+          <!--地形图位置精度检查系统数据库 图幅号 名称-->
+          <Config Key="MapNumberFieldName" Value="MAPNUMBER" />
+          <!--地形图位置精度检查系统数据库 位置精度检测项目信息表 名称-->
+          <Config Key="RelativeDataTablePrintSetting" Value="间距边长误差统计表打印设置表" />
+          <!--地形图位置精度检查系统数据库 位置精度检测项目信息表 名称-->
+          <Config Key="CheckItemsQulityDataTablePrintSetting" Value="样本图幅检测精度和质量统计表" />          
+          <!--地形图位置精度检查系统数据库 位置精度检测项目信息表 名称-->
+          <Config Key="ImportDataTableName" Value="检测点误差统计表打印设置表" />
+          <!--地形图位置精度检查系统数据库 检测点误差统计表打印设置表设计 名称-->
+          <Config Key="DataTableDesignName" Value="检测点误差统计表打印设置表设计" />
+          <!--地形图位置精度检查系统数据库 检测点误差统计表打印设置表设计 版本-->
+          <Config Key="DataTableDesignVersion" Value="1.2" />
+          <!--用于序列化DataBaseDesign.FieldAttributesName对象，配置数据库表设计中的字段设计表头-->
+          <Config Key="DataTableDesignFieldAttributesName" Value="{'FieldIndex':'序号','FieldName':'名称','FieldCode':'代码','FieldType':'类型','FieldLength':'长度','FieldPrecision':'小数位数','FieldValue':'值域','FieldIsNull':'是否必填','FieldRemarks':'说明','FieldImportType':'导入类型','FieldImportIDCode':'导入识别码'}" />
+          <!--地形图位置精度检查系统数据库 打印环境 版本-->
+          <Config Key="RelativeErrorStatisticPrintEnvironment" Value="{'PrintDesignDatabaseFilePath':'CheckPointMeanErrorStatisticDataTableDesign','PrintDesignDataTableName':'DataTableDesignName','PrintSettingDataTableName':'RelativeDataTablePrintSetting','PrintDaTableDesignVersion':'DataTableDesignVersion','SourceDatabaseFileName':'SPIDatabaseFilePath','SourceDatatableName':'RelativeCheckPointsTableName','CheckReportTemplateFilePath':'RelativeCheckReportTemplateFilePath','DataTableDesignFieldAttributesName':'DataTableDesignFieldAttributesName'}" />
+          <Config Key="CheckPointsErrorStatisticPrintEnvironment" Value="{'PrintDesignDatabaseFilePath':'CheckPointMeanErrorStatisticDataTableDesign','PrintDesignDataTableName':'DataTableDesignName','PrintSettingDataTableName':'ImportDataTableName','PrintDaTableDesignVersion':'DataTableDesignVersion','SourceDatabaseFileName':'SPIDatabaseFilePath','SourceDatatableName':'CheckPointsTableName','CheckReportTemplateFilePath':'ReportTemplateFilePath','DataTableDesignFieldAttributesName':'DataTableDesignFieldAttributesName'}" />
+          <Config Key="PrintCheckItemsQulityReportEnvironment" Value="{'PrintDesignDatabaseFilePath':'CheckPointMeanErrorStatisticDataTableDesign','PrintDesignDataTableName':'DataTableDesignName','PrintSettingDataTableName':'CheckItemsQulityDataTablePrintSetting','PrintDaTableDesignVersion':'DataTableDesignVersion','SourceDatabaseFileName':'SurveryProductCheckDatabase','SourceDatatableName':'TopographicMapLocationAccuracyCheckDataTableName','CheckReportTemplateFilePath':'CheckItemsQulityReportTemplateFilePath','DataTableDesignFieldAttributesName':'DataTableDesignFieldAttributesName'}" />
+          <Config Key="DatatableDataTypeRelationDataTableName" Value="数据类型关系表"></Config>
+        </Configs>
+        <RefDatabases>
+          <RefDatabase Key ="CheckPointMeanErrorStatisticDataTableDesign"/>
+          <RefDatabase Key ="TopographicMapLocationAccuracyCheckDataTableDesign"/>
+          <RefDatabase Key="CheckPointsMeanErrorDataTableDesignFilePath"/>
+          <RefDatabase Key="SurveryProductCheckDatabase"  />
+          <!--地形图位置精度检查系统数据库 检测点误差统计表.dot 地址-->
+          <RefDatabase Key="ReportTemplateFilePath"  />
+          <!--地形图位置精度检查系统数据库 间距检测点误差统计表.dot 地址-->
+          <RefDatabase Key="RelativeCheckReportTemplateFilePath"  />
+          
+          <!--地形图位置精度检查系统数据库 样本图幅检测精度和质量统计表.dot 地址-->
+          <RefDatabase Key="CheckItemsQulityReportTemplateFilePath"  />         
+        </RefDatabases>
+      </Function>    
+      
+      </Function>
+    <Function Tile="地形图位置精度检查系统日志及帮助" Folder="" MainDll="" Method="" Class="" Paras="" Key="1" Image="地形图位置精度检查系统日志及帮助.png" ToolTip="地形图位置精度检查系统日志及帮助">
+   
+      <Function Tile="查看系统日志" Folder="SPIRepoter" MainDll="地形图位置精度检查模块.dll" Method="Run" Class="SPIRepoter.CallClass" Paras="查看系统日志" Key="12" Image="查看系统日志.png" ToolTip="查看系统日志">
+        <Configs>
+        </Configs>
+        <RefDatabases>
+          <!--系统日志 名称-->
+          <RefDatabase Key="ApplicationLogFilePath" />
+        </RefDatabases>
+      </Function>
+    </Function>
+
+  </Functions>
+  <Databases>
+    <!--帮助文件-->
+    <Database Key="ApplicationLogFilePath" Value="{*}\系统日志.log"/>
+    <Database Key="ReportTemplateFilePath" Value="{*}\Template\检测点误差统计表.dot"/>
+    <Database Key="RelativeCheckReportTemplateFilePath" Value="{*}\Template\间距边长误差统计表.dot"/>
+    <Database Key="CheckItemsQulityReportTemplateFilePath" Value="{*}\Template\样本图幅检测精度和质量统计表.dot"/>
+    <Database Key="SurveryProductCheckDatabase" Value="Server=localhost;Port=5432;Database=SurveryProductCheckDatabase;uid=postgres;password=JMapCheckStation2017;"/>
+    <Database Key="CheckPointMeanErrorStatisticDataTableDesign" Value="Server=localhost;Port=5432;Database=SurveryProductCheckDatabase;uid=postgres;password=JMapCheckStation2017;"/>
+    
+  </Databases>
+</Root>

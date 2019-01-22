@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B72A02C2-BF14-4232-8BCB-2F18AF5779B9}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DatabaseDesignPlus</RootNamespace>
+    <AssemblyName>DatabaseDesignPlus</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevComponents.DotNetBar.SuperGrid, Version=12.7.0.10, Culture=neutral, PublicKeyToken=c39c3242a43eee2b, processorArchitecture=MSIL" />
+    <Reference Include="DevComponents.DotNetBar2, Version=12.7.0.10, Culture=neutral, PublicKeyToken=c39c3242a43eee2b" />
+    <Reference Include="DevComponents.Instrumentation, Version=12.7.0.10, Culture=neutral, PublicKeyToken=bc4a9d761ea44ef0" />
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\Code\SharpMap\2012-05-07\ExternalReferences\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Npgsql">
+      <HintPath>..\Code\SharpMap\2012-05-07\ExternalReferences\References4SharpMap.Extensions\Npgsql.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="class\ByteToBinary.cs" />
+    <None Include="class\CallClass.cs~" />
+    <Compile Include="class\ClsExcel.cs" />
+    <Compile Include="class\ClsFormular.cs" />
+    <Compile Include="class\Clsmdb.cs" />
+    <Compile Include="class\ClsPostgreSql.cs" />
+    <Compile Include="class\DataBaseConfigs.cs" />
+    <Compile Include="class\DataBaseDesign.cs" />
+    <Compile Include="class\DatabaseReaderWriterFactory.cs" />
+    <Compile Include="class\DataTableDesign.cs" />
+    <Compile Include="class\DataValueQuery.cs" />
+    <Compile Include="class\FieldAttributesName.cs" />
+    <Compile Include="class\FieldDesign.cs" />
+    <Compile Include="class\IDatabaseReaderWriter.cs" />
+    <Compile Include="class\IQuery.cs" />
+    <Compile Include="class\MergeDataTableQuery.cs" />
+    <Compile Include="class\QueryFactory.cs" />
+    <Compile Include="FrmDatabaseDesignChoose.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDatabaseDesignChoose.Designer.cs">
+      <DependentUpon>FrmDatabaseDesignChoose.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDataTableSelector.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDataTableSelector.Designer.cs">
+      <DependentUpon>FrmDataTableSelector.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDatatableViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDatatableViewer.Designer.cs">
+      <DependentUpon>FrmDatatableViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPostgresSetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPostgresSetting.Designer.cs">
+      <DependentUpon>FrmPostgresSetting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GPdata\GPAttribute.cs" />
+    <Compile Include="GPdata\GPDataDictionary.cs" />
+    <Compile Include="GPdata\GPDataset.cs" />
+    <Compile Include="GPdata\GPElement.cs" />
+    <Compile Include="GPdata\GPLayer.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FrmDatabaseDesignChoose.resx">
+      <DependentUpon>FrmDatabaseDesignChoose.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDataTableSelector.resx">
+      <DependentUpon>FrmDataTableSelector.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDatatableViewer.resx">
+      <DependentUpon>FrmDatatableViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPostgresSetting.resx">
+      <DependentUpon>FrmPostgresSetting.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

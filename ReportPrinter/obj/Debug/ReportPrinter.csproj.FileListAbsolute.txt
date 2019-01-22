@@ -1,0 +1,405 @@
+D:\曹俊\开盘\质检报告批处理系统20141217\AppMain\bin\Debug\ReportPrinter.dll
+D:\曹俊\开盘\质检报告批处理系统20141217\AppMain\bin\Debug\ReportPrinter.pdb
+D:\曹俊\开盘\质检报告批处理系统20141217\ReportPrinter\obj\Debug\ReportPrinter.dll
+D:\曹俊\开盘\质检报告批处理系统20141217\ReportPrinter\obj\Debug\ReportPrinter.pdb
+D:\曹俊\开盘\质检报告批处理系统20141217\ReportPrinter\obj\Debug\ReportPrinter.csprojResolveAssemblyReference.cache
+D:\曹俊\开盘\质检报告批处理系统20141217\ReportPrinter\obj\Debug\ReportPrinter.ReportPrintButtonForm.resources
+D:\曹俊\开盘\质检报告批处理系统20141217\ReportPrinter\obj\Debug\ReportPrinter.csproj.GenerateResource.Cache
+D:\曹俊\开盘\质检报告批处理系统20141217\ReportPrinter\obj\Debug\ReportPrinter.WordPrewview.resources
+D:\曹俊\开盘\质检报告批处理系统20141217\ReportPrinter\obj\Debug\Interop.DSOFramer.dll
+D:\曹俊\开盘\质检报告批处理系统20141217\ReportPrinter\obj\Debug\AxInterop.DSOFramer.dll
+D:\曹俊\开盘\质检报告批处理系统20141217\ReportPrinter\obj\Debug\ReportPrinter.csproj.ResolveComReference.cache
+D:\曹俊\开盘\质检报告批处理系统20141217\AppMain\bin\Debug\class\Log4Net.config
+D:\软件更新\测绘成果质量检查与验收评价系统\质检报告批处理系统20141217\ReportPrinter\obj\Debug\ReportPrinter.csprojResolveAssemblyReference.cache
+D:\软件更新\测绘成果质量检查与验收评价系统\质检报告批处理系统20141217\ReportPrinter\obj\Debug\ReportPrinter.csproj.ResolveComReference.cache
+D:\软件更新\测绘成果质量检查与验收评价系统\质检报告批处理系统20141217\ReportPrinter\obj\Debug\ReportPrinter.ReportPrintButtonForm.resources
+D:\软件更新\测绘成果质量检查与验收评价系统\质检报告批处理系统20141217\ReportPrinter\obj\Debug\ReportPrinter.WordPrewview.resources
+D:\软件更新\测绘成果质量检查与验收评价系统\质检报告批处理系统20141217\ReportPrinter\obj\Debug\ReportPrinter.csproj.GenerateResource.Cache
+D:\软件更新\测绘成果质量检查与验收评价系统\质检报告批处理系统20141217\ReportPrinter\obj\Debug\ReportPrinter.dll
+D:\软件更新\测绘成果质量检查与验收评价系统\质检报告批处理系统20141217\ReportPrinter\obj\Debug\ReportPrinter.pdb
+D:\软件更新\测绘成果质量检查与验收评价系统\质检报告批处理系统20141217\AppMain\bin\Debug\class\Log4Net.config
+D:\软件更新\测绘成果质量检查与验收评价系统\质检报告批处理系统20141217\AppMain\bin\Debug\ReportPrinter.dll
+D:\软件更新\测绘成果质量检查与验收评价系统\质检报告批处理系统20141217\AppMain\bin\Debug\ReportPrinter.pdb
+D:\软件更新\质检报告批处理系统20141217\AppMain\bin\Debug\class\Log4Net.config
+D:\软件更新\质检报告批处理系统20141217\AppMain\bin\Debug\ReportPrinter.dll
+D:\软件更新\质检报告批处理系统20141217\AppMain\bin\Debug\ReportPrinter.pdb
+D:\软件更新\质检报告批处理系统20141217\ReportPrinter\obj\Debug\ReportPrinter.csprojResolveAssemblyReference.cache
+D:\软件更新\质检报告批处理系统20141217\ReportPrinter\obj\Debug\ReportPrinter.csproj.ResolveComReference.cache
+D:\软件更新\质检报告批处理系统20141217\ReportPrinter\obj\Debug\ReportPrinter.ReportPrintButtonForm.resources
+D:\软件更新\质检报告批处理系统20141217\ReportPrinter\obj\Debug\ReportPrinter.WordPrewview.resources
+D:\软件更新\质检报告批处理系统20141217\ReportPrinter\obj\Debug\ReportPrinter.csproj.GenerateResource.Cache
+D:\软件更新\质检报告批处理系统20141217\ReportPrinter\obj\Debug\ReportPrinter.dll
+D:\软件更新\质检报告批处理系统20141217\ReportPrinter\obj\Debug\ReportPrinter.pdb
+D:\GDAL\SurveryProductCheckWorkSpace\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\class\Log4Net.config
+D:\GDAL\SurveryProductCheckWorkSpace\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.dll
+D:\GDAL\SurveryProductCheckWorkSpace\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.pdb
+D:\GDAL\SurveryProductCheckWorkSpace\ReportPrinter\obj\Debug\ReportPrinter.csprojResolveAssemblyReference.cache
+D:\GDAL\SurveryProductCheckWorkSpace\ReportPrinter\obj\Debug\ReportPrinter.csproj.ResolveComReference.cache
+D:\GDAL\SurveryProductCheckWorkSpace\ReportPrinter\obj\Debug\ReportPrinter.ReportPrintButtonForm.resources
+D:\GDAL\SurveryProductCheckWorkSpace\ReportPrinter\obj\Debug\ReportPrinter.WordPrewview.resources
+D:\GDAL\SurveryProductCheckWorkSpace\ReportPrinter\obj\Debug\ReportPrinter.csproj.GenerateResource.Cache
+D:\GDAL\SurveryProductCheckWorkSpace\ReportPrinter\obj\Debug\ReportPrinter.dll
+D:\GDAL\SurveryProductCheckWorkSpace\ReportPrinter\obj\Debug\ReportPrinter.pdb
+C:\工作数据\GDAL2.28\GDAL\SurveryProductCheckWorkSpace\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\class\Log4Net.config
+C:\工作数据\GDAL2.28\GDAL\SurveryProductCheckWorkSpace\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.dll
+C:\工作数据\GDAL2.28\GDAL\SurveryProductCheckWorkSpace\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.pdb
+C:\工作数据\GDAL2.28\GDAL\SurveryProductCheckWorkSpace\ReportPrinter\obj\Debug\ReportPrinter.csprojResolveAssemblyReference.cache
+C:\工作数据\GDAL2.28\GDAL\SurveryProductCheckWorkSpace\ReportPrinter\obj\Debug\ReportPrinter.csproj.ResolveComReference.cache
+C:\工作数据\GDAL2.28\GDAL\SurveryProductCheckWorkSpace\ReportPrinter\obj\Debug\ReportPrinter.ReportPrintButtonForm.resources
+C:\工作数据\GDAL2.28\GDAL\SurveryProductCheckWorkSpace\ReportPrinter\obj\Debug\ReportPrinter.WordPrewview.resources
+C:\工作数据\GDAL2.28\GDAL\SurveryProductCheckWorkSpace\ReportPrinter\obj\Debug\ReportPrinter.csproj.GenerateResource.Cache
+C:\工作数据\GDAL2.28\GDAL\SurveryProductCheckWorkSpace\ReportPrinter\obj\Debug\ReportPrinter.dll
+C:\工作数据\GDAL2.28\GDAL\SurveryProductCheckWorkSpace\ReportPrinter\obj\Debug\ReportPrinter.pdb
+C:\GDAL2.28\GDAL\SurveryProductCheckWorkSpace\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\class\Log4Net.config
+C:\GDAL2.28\GDAL\SurveryProductCheckWorkSpace\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.dll
+C:\GDAL2.28\GDAL\SurveryProductCheckWorkSpace\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.pdb
+C:\GDAL2.28\GDAL\SurveryProductCheckWorkSpace\ReportPrinter\obj\Debug\ReportPrinter.csprojResolveAssemblyReference.cache
+C:\GDAL2.28\GDAL\SurveryProductCheckWorkSpace\ReportPrinter\obj\Debug\ReportPrinter.csproj.ResolveComReference.cache
+C:\GDAL2.28\GDAL\SurveryProductCheckWorkSpace\ReportPrinter\obj\Debug\ReportPrinter.ReportPrintButtonForm.resources
+C:\GDAL2.28\GDAL\SurveryProductCheckWorkSpace\ReportPrinter\obj\Debug\ReportPrinter.WordPrewview.resources
+C:\GDAL2.28\GDAL\SurveryProductCheckWorkSpace\ReportPrinter\obj\Debug\ReportPrinter.csproj.GenerateResource.Cache
+C:\GDAL2.28\GDAL\SurveryProductCheckWorkSpace\ReportPrinter\obj\Debug\ReportPrinter.dll
+C:\GDAL2.28\GDAL\SurveryProductCheckWorkSpace\ReportPrinter\obj\Debug\ReportPrinter.pdb
+D:\gdal3.23\GDAL2.28\GDAL\SurveryProductCheckWorkSpace3.29\SurveryProductCheckWorkSpace\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\class\Log4Net.config
+D:\gdal3.23\GDAL2.28\GDAL\SurveryProductCheckWorkSpace3.29\SurveryProductCheckWorkSpace\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.dll
+D:\gdal3.23\GDAL2.28\GDAL\SurveryProductCheckWorkSpace3.29\SurveryProductCheckWorkSpace\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.pdb
+D:\gdal3.23\GDAL2.28\GDAL\SurveryProductCheckWorkSpace3.29\SurveryProductCheckWorkSpace\ReportPrinter\obj\Debug\ReportPrinter.csprojResolveAssemblyReference.cache
+D:\gdal3.23\GDAL2.28\GDAL\SurveryProductCheckWorkSpace3.29\SurveryProductCheckWorkSpace\ReportPrinter\obj\Debug\ReportPrinter.csproj.ResolveComReference.cache
+D:\gdal3.23\GDAL2.28\GDAL\SurveryProductCheckWorkSpace3.29\SurveryProductCheckWorkSpace\ReportPrinter\obj\Debug\ReportPrinter.ReportPrintButtonForm.resources
+D:\gdal3.23\GDAL2.28\GDAL\SurveryProductCheckWorkSpace3.29\SurveryProductCheckWorkSpace\ReportPrinter\obj\Debug\ReportPrinter.WordPrewview.resources
+D:\gdal3.23\GDAL2.28\GDAL\SurveryProductCheckWorkSpace3.29\SurveryProductCheckWorkSpace\ReportPrinter\obj\Debug\ReportPrinter.csproj.GenerateResource.Cache
+D:\gdal3.23\GDAL2.28\GDAL\SurveryProductCheckWorkSpace3.29\SurveryProductCheckWorkSpace\ReportPrinter\obj\Debug\ReportPrinter.dll
+D:\gdal3.23\GDAL2.28\GDAL\SurveryProductCheckWorkSpace3.29\SurveryProductCheckWorkSpace\ReportPrinter\obj\Debug\ReportPrinter.pdb
+C:\GDAL2.28\GDAL\SurveryProductCheckWorkSpace3.30\SurveryProductCheckWorkSpace\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\class\Log4Net.config
+C:\GDAL2.28\GDAL\SurveryProductCheckWorkSpace3.30\SurveryProductCheckWorkSpace\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.dll
+C:\GDAL2.28\GDAL\SurveryProductCheckWorkSpace3.30\SurveryProductCheckWorkSpace\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.pdb
+C:\GDAL2.28\GDAL\SurveryProductCheckWorkSpace3.30\SurveryProductCheckWorkSpace\ReportPrinter\obj\Debug\ReportPrinter.csprojResolveAssemblyReference.cache
+C:\GDAL2.28\GDAL\SurveryProductCheckWorkSpace3.30\SurveryProductCheckWorkSpace\ReportPrinter\obj\Debug\ReportPrinter.csproj.ResolveComReference.cache
+C:\GDAL2.28\GDAL\SurveryProductCheckWorkSpace3.30\SurveryProductCheckWorkSpace\ReportPrinter\obj\Debug\ReportPrinter.ReportPrintButtonForm.resources
+C:\GDAL2.28\GDAL\SurveryProductCheckWorkSpace3.30\SurveryProductCheckWorkSpace\ReportPrinter\obj\Debug\ReportPrinter.WordPrewview.resources
+C:\GDAL2.28\GDAL\SurveryProductCheckWorkSpace3.30\SurveryProductCheckWorkSpace\ReportPrinter\obj\Debug\ReportPrinter.csproj.GenerateResource.Cache
+C:\GDAL2.28\GDAL\SurveryProductCheckWorkSpace3.30\SurveryProductCheckWorkSpace\ReportPrinter\obj\Debug\ReportPrinter.dll
+C:\GDAL2.28\GDAL\SurveryProductCheckWorkSpace3.30\SurveryProductCheckWorkSpace\ReportPrinter\obj\Debug\ReportPrinter.pdb
+D:\gdal3.23\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.6\SurveryProductCheckWorkSpace3.30\SurveryProductCheckWorkSpace\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\class\Log4Net.config
+D:\gdal3.23\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.6\SurveryProductCheckWorkSpace3.30\SurveryProductCheckWorkSpace\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.dll
+D:\gdal3.23\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.6\SurveryProductCheckWorkSpace3.30\SurveryProductCheckWorkSpace\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.pdb
+D:\gdal3.23\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.6\SurveryProductCheckWorkSpace3.30\SurveryProductCheckWorkSpace\ReportPrinter\obj\Debug\ReportPrinter.csprojResolveAssemblyReference.cache
+D:\gdal3.23\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.6\SurveryProductCheckWorkSpace3.30\SurveryProductCheckWorkSpace\ReportPrinter\obj\Debug\ReportPrinter.csproj.ResolveComReference.cache
+D:\gdal3.23\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.6\SurveryProductCheckWorkSpace3.30\SurveryProductCheckWorkSpace\ReportPrinter\obj\Debug\ReportPrinter.ReportPrintButtonForm.resources
+D:\gdal3.23\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.6\SurveryProductCheckWorkSpace3.30\SurveryProductCheckWorkSpace\ReportPrinter\obj\Debug\ReportPrinter.WordPrewview.resources
+D:\gdal3.23\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.6\SurveryProductCheckWorkSpace3.30\SurveryProductCheckWorkSpace\ReportPrinter\obj\Debug\ReportPrinter.csproj.GenerateResource.Cache
+D:\gdal3.23\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.6\SurveryProductCheckWorkSpace3.30\SurveryProductCheckWorkSpace\ReportPrinter\obj\Debug\ReportPrinter.dll
+D:\gdal3.23\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.6\SurveryProductCheckWorkSpace3.30\SurveryProductCheckWorkSpace\ReportPrinter\obj\Debug\ReportPrinter.pdb
+C:\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.17\SurveryProductCheckWorkSpace\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\class\Log4Net.config
+C:\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.17\SurveryProductCheckWorkSpace\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.dll
+C:\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.17\SurveryProductCheckWorkSpace\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.pdb
+C:\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.17\SurveryProductCheckWorkSpace\ReportPrinter\obj\Debug\ReportPrinter.csprojResolveAssemblyReference.cache
+C:\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.17\SurveryProductCheckWorkSpace\ReportPrinter\obj\Debug\ReportPrinter.csproj.ResolveComReference.cache
+C:\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.17\SurveryProductCheckWorkSpace\ReportPrinter\obj\Debug\ReportPrinter.ReportPrintButtonForm.resources
+C:\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.17\SurveryProductCheckWorkSpace\ReportPrinter\obj\Debug\ReportPrinter.WordPrewview.resources
+C:\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.17\SurveryProductCheckWorkSpace\ReportPrinter\obj\Debug\ReportPrinter.csproj.GenerateResource.Cache
+C:\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.17\SurveryProductCheckWorkSpace\ReportPrinter\obj\Debug\ReportPrinter.dll
+C:\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.17\SurveryProductCheckWorkSpace\ReportPrinter\obj\Debug\ReportPrinter.pdb
+C:\快盘\湖北省测绘质检站\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.26\SurveryProductCheckWorkSpace\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\class\Log4Net.config
+C:\快盘\湖北省测绘质检站\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.26\SurveryProductCheckWorkSpace\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.dll
+C:\快盘\湖北省测绘质检站\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.26\SurveryProductCheckWorkSpace\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.pdb
+C:\快盘\湖北省测绘质检站\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.26\SurveryProductCheckWorkSpace\ReportPrinter\obj\Debug\ReportPrinter.csprojResolveAssemblyReference.cache
+C:\快盘\湖北省测绘质检站\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.26\SurveryProductCheckWorkSpace\ReportPrinter\obj\Debug\ReportPrinter.csproj.ResolveComReference.cache
+C:\快盘\湖北省测绘质检站\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.26\SurveryProductCheckWorkSpace\ReportPrinter\obj\Debug\ReportPrinter.ReportPrintButtonForm.resources
+C:\快盘\湖北省测绘质检站\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.26\SurveryProductCheckWorkSpace\ReportPrinter\obj\Debug\ReportPrinter.WordPrewview.resources
+C:\快盘\湖北省测绘质检站\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.26\SurveryProductCheckWorkSpace\ReportPrinter\obj\Debug\ReportPrinter.csproj.GenerateResource.Cache
+C:\快盘\湖北省测绘质检站\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.26\SurveryProductCheckWorkSpace\ReportPrinter\obj\Debug\ReportPrinter.dll
+C:\快盘\湖北省测绘质检站\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.26\SurveryProductCheckWorkSpace\ReportPrinter\obj\Debug\ReportPrinter.pdb
+C:\快盘\湖北省测绘质检站\SOFT1.0\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.26\SurveryProductCheckWorkSpace\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\class\Log4Net.config
+C:\快盘\湖北省测绘质检站\SOFT1.0\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.26\SurveryProductCheckWorkSpace\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.dll
+C:\快盘\湖北省测绘质检站\SOFT1.0\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.26\SurveryProductCheckWorkSpace\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.pdb
+C:\快盘\湖北省测绘质检站\SOFT1.0\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.26\SurveryProductCheckWorkSpace\ReportPrinter\obj\Debug\ReportPrinter.csprojResolveAssemblyReference.cache
+C:\快盘\湖北省测绘质检站\SOFT1.0\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.26\SurveryProductCheckWorkSpace\ReportPrinter\obj\Debug\ReportPrinter.csproj.ResolveComReference.cache
+C:\快盘\湖北省测绘质检站\SOFT1.0\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.26\SurveryProductCheckWorkSpace\ReportPrinter\obj\Debug\ReportPrinter.ReportPrintButtonForm.resources
+C:\快盘\湖北省测绘质检站\SOFT1.0\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.26\SurveryProductCheckWorkSpace\ReportPrinter\obj\Debug\ReportPrinter.WordPrewview.resources
+C:\快盘\湖北省测绘质检站\SOFT1.0\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.26\SurveryProductCheckWorkSpace\ReportPrinter\obj\Debug\ReportPrinter.csproj.GenerateResource.Cache
+C:\快盘\湖北省测绘质检站\SOFT1.0\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.26\SurveryProductCheckWorkSpace\ReportPrinter\obj\Debug\ReportPrinter.dll
+C:\快盘\湖北省测绘质检站\SOFT1.0\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.26\SurveryProductCheckWorkSpace\ReportPrinter\obj\Debug\ReportPrinter.pdb
+C:\Users\zjz\Desktop\DLGQInfoMS\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\class\Log4Net.config
+C:\Users\zjz\Desktop\DLGQInfoMS\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.dll
+C:\Users\zjz\Desktop\DLGQInfoMS\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.pdb
+C:\Users\zjz\Desktop\DLGQInfoMS\ReportPrinter\obj\Debug\ReportPrinter.csprojResolveAssemblyReference.cache
+C:\Users\zjz\Desktop\DLGQInfoMS\ReportPrinter\obj\Debug\ReportPrinter.csproj.ResolveComReference.cache
+C:\Users\zjz\Desktop\DLGQInfoMS\ReportPrinter\obj\Debug\ReportPrinter.ReportPrintButtonForm.resources
+C:\Users\zjz\Desktop\DLGQInfoMS\ReportPrinter\obj\Debug\ReportPrinter.WordPrewview.resources
+C:\Users\zjz\Desktop\DLGQInfoMS\ReportPrinter\obj\Debug\ReportPrinter.csproj.GenerateResource.Cache
+C:\Users\zjz\Desktop\DLGQInfoMS\ReportPrinter\obj\Debug\ReportPrinter.dll
+C:\Users\zjz\Desktop\DLGQInfoMS\ReportPrinter\obj\Debug\ReportPrinter.pdb
+C:\Users\zjz\Desktop\Code\DLGQInfoMS\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\class\Log4Net.config
+C:\Users\zjz\Desktop\Code\DLGQInfoMS\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.dll
+C:\Users\zjz\Desktop\Code\DLGQInfoMS\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.pdb
+C:\Users\zjz\Desktop\Code\DLGQInfoMS\ReportPrinter\obj\Debug\ReportPrinter.csprojResolveAssemblyReference.cache
+C:\Users\zjz\Desktop\Code\DLGQInfoMS\ReportPrinter\obj\Debug\ReportPrinter.csproj.ResolveComReference.cache
+C:\Users\zjz\Desktop\Code\DLGQInfoMS\ReportPrinter\obj\Debug\ReportPrinter.ReportPrintButtonForm.resources
+C:\Users\zjz\Desktop\Code\DLGQInfoMS\ReportPrinter\obj\Debug\ReportPrinter.WordPrewview.resources
+C:\Users\zjz\Desktop\Code\DLGQInfoMS\ReportPrinter\obj\Debug\ReportPrinter.csproj.GenerateResource.Cache
+C:\Users\zjz\Desktop\Code\DLGQInfoMS\ReportPrinter\obj\Debug\ReportPrinter.dll
+C:\Users\zjz\Desktop\Code\DLGQInfoMS\ReportPrinter\obj\Debug\ReportPrinter.pdb
+D:\mycode\trunk\DLGQInfoMS\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\class\Log4Net.config
+D:\mycode\trunk\DLGQInfoMS\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.dll
+D:\mycode\trunk\DLGQInfoMS\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.pdb
+D:\mycode\trunk\DLGQInfoMS\ReportPrinter\obj\Debug\ReportPrinter.csprojResolveAssemblyReference.cache
+D:\mycode\trunk\DLGQInfoMS\ReportPrinter\obj\Debug\ReportPrinter.csproj.ResolveComReference.cache
+D:\mycode\trunk\DLGQInfoMS\ReportPrinter\obj\Debug\ReportPrinter.WordPrewview.resources
+D:\mycode\trunk\DLGQInfoMS\ReportPrinter\obj\Debug\ReportPrinter.csproj.GenerateResource.Cache
+D:\mycode\trunk\DLGQInfoMS\ReportPrinter\obj\Debug\ReportPrinter.dll
+D:\mycode\trunk\DLGQInfoMS\ReportPrinter\obj\Debug\ReportPrinter.pdb
+C:\DLGQInfoMS\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\class\Log4Net.config
+C:\DLGQInfoMS\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.dll
+C:\DLGQInfoMS\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.pdb
+C:\DLGQInfoMS\ReportPrinter\obj\Debug\ReportPrinter.csprojResolveAssemblyReference.cache
+C:\DLGQInfoMS\ReportPrinter\obj\Debug\ReportPrinter.csproj.ResolveComReference.cache
+C:\DLGQInfoMS\ReportPrinter\obj\Debug\ReportPrinter.WordPrewview.resources
+C:\DLGQInfoMS\ReportPrinter\obj\Debug\ReportPrinter.csproj.GenerateResource.Cache
+C:\DLGQInfoMS\ReportPrinter\obj\Debug\ReportPrinter.dll
+C:\DLGQInfoMS\ReportPrinter\obj\Debug\ReportPrinter.pdb
+C:\Users\cjun.whu\Desktop\DLGQInfoMS\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\class\Log4Net.config
+C:\Users\cjun.whu\Desktop\DLGQInfoMS\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.dll
+C:\Users\cjun.whu\Desktop\DLGQInfoMS\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.pdb
+C:\Users\cjun.whu\Desktop\DLGQInfoMS\ReportPrinter\obj\Debug\ReportPrinter.csprojResolveAssemblyReference.cache
+C:\Users\cjun.whu\Desktop\DLGQInfoMS\ReportPrinter\obj\Debug\ReportPrinter.csproj.ResolveComReference.cache
+C:\Users\cjun.whu\Desktop\DLGQInfoMS\ReportPrinter\obj\Debug\ReportPrinter.WordPrewview.resources
+C:\Users\cjun.whu\Desktop\DLGQInfoMS\ReportPrinter\obj\Debug\ReportPrinter.csproj.GenerateResource.Cache
+C:\Users\cjun.whu\Desktop\DLGQInfoMS\ReportPrinter\obj\Debug\ReportPrinter.dll
+C:\Users\cjun.whu\Desktop\DLGQInfoMS\ReportPrinter\obj\Debug\ReportPrinter.pdb
+D:\mycode\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\class\Log4Net.config
+D:\mycode\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.dll
+D:\mycode\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.pdb
+D:\mycode\ReportPrinter\obj\Debug\ReportPrinter.csprojResolveAssemblyReference.cache
+D:\mycode\ReportPrinter\obj\Debug\ReportPrinter.csproj.ResolveComReference.cache
+D:\mycode\ReportPrinter\obj\Debug\ReportPrinter.WordPrewview.resources
+D:\mycode\ReportPrinter\obj\Debug\ReportPrinter.csproj.GenerateResource.Cache
+D:\mycode\ReportPrinter\obj\Debug\ReportPrinter.dll
+D:\mycode\ReportPrinter\obj\Debug\ReportPrinter.pdb
+D:\mycode\VS2015\DLGQInfoMS\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\class\Log4Net.config
+D:\mycode\VS2015\DLGQInfoMS\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.dll
+D:\mycode\VS2015\DLGQInfoMS\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.pdb
+D:\mycode\VS2015\DLGQInfoMS\ReportPrinter\obj\Debug\ReportPrinter.csprojResolveAssemblyReference.cache
+D:\mycode\VS2015\DLGQInfoMS\ReportPrinter\obj\Debug\ReportPrinter.csproj.ResolveComReference.cache
+D:\mycode\VS2015\DLGQInfoMS\ReportPrinter\obj\Debug\ReportPrinter.WordPrewview.resources
+D:\mycode\VS2015\DLGQInfoMS\ReportPrinter\obj\Debug\ReportPrinter.csproj.GenerateResource.Cache
+D:\mycode\VS2015\DLGQInfoMS\ReportPrinter\obj\Debug\ReportPrinter.dll
+D:\mycode\VS2015\DLGQInfoMS\ReportPrinter\obj\Debug\ReportPrinter.pdb
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\class\Log4Net.config
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.pdb
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\ReportPrinter\obj\Debug\ReportPrinter.csprojResolveAssemblyReference.cache
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\ReportPrinter\obj\Debug\ReportPrinter.csproj.ResolveComReference.cache
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\ReportPrinter\obj\Debug\ReportPrinter.WordPrewview.resources
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\ReportPrinter\obj\Debug\ReportPrinter.csproj.GenerateResource.Cache
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\ReportPrinter\obj\Debug\ReportPrinter.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\ReportPrinter\obj\Debug\ReportPrinter.pdb
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\class\Log4Net.config
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.pdb
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\ReportPrinter\obj\Debug\ReportPrinter.csprojResolveAssemblyReference.cache
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\ReportPrinter\obj\Debug\ReportPrinter.csproj.ResolveComReference.cache
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\ReportPrinter\obj\Debug\ReportPrinter.WordPrewview.resources
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\ReportPrinter\obj\Debug\ReportPrinter.csproj.GenerateResource.Cache
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\ReportPrinter\obj\Debug\ReportPrinter.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\ReportPrinter\obj\Debug\ReportPrinter.pdb
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\ReportPrinter\obj\Debug\ReportPrinter.csprojResolveAssemblyReference.cache
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\ReportPrinter\obj\Debug\ReportPrinter.csproj.ResolveComReference.cache
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\ReportPrinter\obj\Debug\ReportPrinter.WordPrewview.resources
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\ReportPrinter\obj\Debug\ReportPrinter.csproj.GenerateResource.Cache
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\ReportPrinter\obj\Debug\ReportPrinter.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\ReportPrinter\obj\Debug\ReportPrinter.pdb
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\class\Log4Net.config
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.pdb
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\class\Log4Net.config
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.pdb
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\ReportPrinter\obj\Debug\ReportPrinter.csproj.ResolveComReference.cache
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\ReportPrinter\obj\Debug\ReportPrinter.WordPrewview.resources
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\ReportPrinter\obj\Debug\ReportPrinter.csproj.GenerateResource.Cache
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\ReportPrinter\obj\Debug\ReportPrinter.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\ReportPrinter\obj\Debug\ReportPrinter.pdb
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\ReportPrinter\obj\Debug\ReportPrinter.csprojResolveAssemblyReference.cache
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\ReportPrinter\obj\Debug\ReportPrinter.csprojResolveAssemblyReference.cache
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\ReportPrinter\obj\Debug\ReportPrinter.csproj.ResolveComReference.cache
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\ReportPrinter\obj\Debug\ReportPrinter.WordPrewview.resources
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\ReportPrinter\obj\Debug\ReportPrinter.csproj.GenerateResource.Cache
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\ReportPrinter\obj\Debug\ReportPrinter.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\ReportPrinter\obj\Debug\ReportPrinter.pdb
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\ReportPrinter\obj\Debug\ReportPrinter.csprojFakesResolveAssemblyReference.cache
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\ReportPrinter\obj\Debug\ReportPrinter.csprojResolveAssemblyReference.cache
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\ReportPrinter\obj\Debug\ReportPrinter.csproj.ResolveComReference.cache
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\ReportPrinter\obj\Debug\ReportPrinter.WordPrewview.resources
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\ReportPrinter\obj\Debug\ReportPrinter.csproj.GenerateResource.Cache
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\ReportPrinter\obj\Debug\ReportPrinter.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\ReportPrinter\obj\Debug\ReportPrinter.pdb
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\class\Log4Net.config
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.pdb
+C:\mycode\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.csprojFakesResolveAssemblyReference.cache
+C:\mycode\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.csprojResolveAssemblyReference.cache
+C:\mycode\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.csproj.ResolveComReference.cache
+C:\mycode\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.WordPrewview.resources
+C:\mycode\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.csproj.GenerateResource.Cache
+C:\mycode\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.dll
+C:\mycode\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.pdb
+C:\mycode\JMapProjects\JMapCheckStation\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\class\Log4Net.config
+C:\mycode\JMapProjects\JMapCheckStation\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.dll
+C:\mycode\JMapProjects\JMapCheckStation\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.pdb
+C:\mycode\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\Fakes\fakes.args
+C:\mycode\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\Fakes\l4\b\Authentication.dll
+C:\mycode\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\Fakes\l4\b\Authentication.pdb
+C:\mycode\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\Fakes\l4\b\CSoftAutoUpdater.dll
+C:\mycode\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\Fakes\l4\b\CSoftAutoUpdater.pdb
+C:\mycode\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\Fakes\l4\b\DatabaseDesignPlus.dll
+C:\mycode\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\Fakes\l4\b\DatabaseDesignPlus.pdb
+C:\mycode\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\Fakes\l4\b\DevComponents.DotNetBar.SuperGrid.dll
+C:\mycode\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\Fakes\l4\b\DevComponents.DotNetBar.SuperGrid.xml
+C:\mycode\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\Fakes\l4\b\DevComponents.DotNetBar2.dll
+C:\mycode\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\Fakes\l4\b\DevComponents.DotNetBar2.xml
+C:\mycode\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\Fakes\l4\b\DevComponents.Instrumentation.dll
+C:\mycode\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\Fakes\l4\b\DevComponents.Instrumentation.xml
+C:\mycode\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\Fakes\l4\b\log4net.dll
+C:\mycode\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\Fakes\l4\b\log4net.Fakes.dll
+C:\mycode\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\Fakes\l4\b\log4net.Fakes.fakesconfig
+C:\mycode\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\Fakes\l4\b\log4net.Fakes.pdb
+C:\mycode\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\Fakes\l4\b\log4net.Fakes.xml
+C:\mycode\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\Fakes\l4\b\Microsoft.Office.Interop.Word.dll
+C:\mycode\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\Fakes\l4\b\Microsoft.Office.Interop.Word.xml
+C:\mycode\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\Fakes\l4\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\mycode\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\Fakes\l4\b\Microsoft.Vbe.Interop.dll
+C:\mycode\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\Fakes\l4\b\Mono.Security.dll
+C:\mycode\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\Fakes\l4\b\Newtonsoft.Json.dll
+C:\mycode\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\Fakes\l4\b\Newtonsoft.Json.xml
+C:\mycode\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\Fakes\l4\b\Npgsql.dll
+C:\mycode\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\Fakes\l4\b\office.dll
+C:\mycode\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\Fakes\l4\b\office.xml
+C:\mycode\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\Fakes\l4\b\stdole.dll
+C:\mycode\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\Fakes\l4\b\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\mycode\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\Fakes\l4\f.ah
+C:\mycode\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\Fakes\l4\f.ch
+C:\mycode\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\Fakes\l4\f.cs
+C:\mycode\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\Fakes\l4\f.csproj
+C:\mycode\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\Fakes\l4\f.fakes
+C:\mycode\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\Fakes\l4\f.fakesconfig
+C:\mycode\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\Fakes\l4\f.snk
+C:\mycode\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\Fakes\l4\o\f.csproj.FileListAbsolute.txt
+C:\mycode\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\Fakes\l4\o\f.csprojResolveAssemblyReference.cache
+C:\mycode\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\Fakes\l4\o\log4net.Fakes.dll
+C:\mycode\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\Fakes\l4\o\log4net.Fakes.pdb
+D:\mycode\JMapProjects\JMapCheckStation\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\class\Log4Net.config
+D:\mycode\JMapProjects\JMapCheckStation\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.dll
+D:\mycode\JMapProjects\JMapCheckStation\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.pdb
+D:\mycode\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.csprojFakesResolveAssemblyReference.cache
+D:\mycode\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.csprojResolveAssemblyReference.cache
+D:\mycode\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.csproj.ResolveComReference.cache
+D:\mycode\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.WordPrewview.resources
+D:\mycode\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.csproj.GenerateResource.Cache
+D:\mycode\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.dll
+D:\mycode\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.pdb
+E:\论文\JMapProjects\JMapCheckStation\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\class\Log4Net.config
+E:\论文\JMapProjects\JMapCheckStation\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.dll
+E:\论文\JMapProjects\JMapCheckStation\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.pdb
+E:\论文\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.csprojFakesResolveAssemblyReference.cache
+E:\论文\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.csprojResolveAssemblyReference.cache
+E:\论文\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.csproj.ResolveComReference.cache
+E:\论文\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.WordPrewview.resources
+E:\论文\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.csproj.GenerateResource.Cache
+E:\论文\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.dll
+E:\论文\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.pdb
+E:\JMapProjects\JMapCheckStation\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\class\Log4Net.config
+E:\JMapProjects\JMapCheckStation\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.dll
+E:\JMapProjects\JMapCheckStation\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.pdb
+E:\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.csprojFakesResolveAssemblyReference.cache
+E:\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.csprojResolveAssemblyReference.cache
+E:\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.csproj.ResolveComReference.cache
+E:\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.WordPrewview.resources
+E:\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.csproj.GenerateResource.Cache
+E:\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.dll
+E:\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.pdb
+F:\JMapProjects\JMapCheckStation\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\class\Log4Net.config
+F:\JMapProjects\JMapCheckStation\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.dll
+F:\JMapProjects\JMapCheckStation\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.pdb
+F:\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.csprojFakesResolveAssemblyReference.cache
+F:\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.csprojResolveAssemblyReference.cache
+F:\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.csproj.ResolveComReference.cache
+F:\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.WordPrewview.resources
+F:\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.csproj.GenerateResource.Cache
+F:\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.dll
+F:\JMapProjects\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.pdb
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\class\Log4Net.config
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.pdb
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.csprojFakesResolveAssemblyReference.cache
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.csprojResolveAssemblyReference.cache
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.csproj.ResolveComReference.cache
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.WordPrewview.resources
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.csproj.GenerateResource.Cache
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.pdb
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\class\Log4Net.config
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.pdb
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.csprojFakesResolveAssemblyReference.cache
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.csprojResolveAssemblyReference.cache
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.csproj.ResolveComReference.cache
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.WordPrewview.resources
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.csproj.GenerateResource.Cache
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.pdb
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\class\Log4Net.config
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.pdb
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.csprojFakesResolveAssemblyReference.cache
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.csprojResolveAssemblyReference.cache
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.csproj.ResolveComReference.cache
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.WordPrewview.resources
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.csproj.GenerateResource.Cache
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.pdb
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\class\Log4Net.config
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.pdb
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.csproj.ResolveComReference.cache
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.WordPrewview.resources
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.csproj.GenerateResource.Cache
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.pdb
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.csprojFakesResolveAssemblyReference.cache
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.csprojResolveAssemblyReference.cache
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.csprojFakesResolveAssemblyReference.cache
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.csprojResolveAssemblyReference.cache
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.csproj.ResolveComReference.cache
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.WordPrewview.resources
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.csproj.GenerateResource.Cache
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\ReportPrinter\obj\Debug\ReportPrinter.pdb
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\ReportPrinter\obj\Debug\Interop.Office.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\class\Log4Net.config
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.pdb
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\ReportPrinter\obj\Debug\ReportPrinter.csprojFakesResolveAssemblyReference.cache
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\ReportPrinter\obj\Debug\ReportPrinter.csprojResolveAssemblyReference.cache
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\ReportPrinter\obj\Debug\ReportPrinter.csproj.ResolveComReference.cache
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\ReportPrinter\obj\Debug\ReportPrinter.WordPrewview.resources
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\ReportPrinter\obj\Debug\ReportPrinter.csproj.GenerateResource.Cache
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\ReportPrinter\obj\Debug\ReportPrinter.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\ReportPrinter\obj\Debug\ReportPrinter.pdb
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\class\Log4Net.config
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.dll
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.pdb
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\ReportPrinter\obj\Debug\ReportPrinter.csprojFakesResolveAssemblyReference.cache
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\ReportPrinter\obj\Debug\ReportPrinter.csproj.ResolveComReference.cache
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\ReportPrinter\obj\Debug\ReportPrinter.WordPrewview.resources
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\ReportPrinter\obj\Debug\ReportPrinter.csproj.GenerateResource.Cache
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\ReportPrinter\obj\Debug\ReportPrinter.dll
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\ReportPrinter\obj\Debug\ReportPrinter.pdb
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\ReportPrinter\obj\Debug\ReportPrinter.csprojResolveAssemblyReference.cache
+G:\JMapProjects\JMapWebCheck2.0git\ReportPrinter\obj\Debug\ReportPrinter.csprojFakesResolveAssemblyReference.cache
+G:\JMapProjects\JMapWebCheck2.0git\ReportPrinter\obj\Debug\ReportPrinter.csprojResolveAssemblyReference.cache
+G:\JMapProjects\JMapWebCheck2.0git\ReportPrinter\obj\Debug\ReportPrinter.csproj.ResolveComReference.cache
+G:\JMapProjects\JMapWebCheck2.0git\ReportPrinter\obj\Debug\ReportPrinter.WordPrewview.resources
+G:\JMapProjects\JMapWebCheck2.0git\ReportPrinter\obj\Debug\ReportPrinter.csproj.GenerateResource.Cache
+G:\JMapProjects\JMapWebCheck2.0git\ReportPrinter\obj\Debug\ReportPrinter.dll
+G:\JMapProjects\JMapWebCheck2.0git\ReportPrinter\obj\Debug\ReportPrinter.pdb

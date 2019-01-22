@@ -1,0 +1,507 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C7414201-C04E-4D2C-87CB-268E9BD4DAA2}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PluginUI</RootNamespace>
+    <AssemblyName>PluginUI</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DatabaseDesignPlus, Version=1.0.4.27, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\DatabaseDesignPlus\bin\Debug\DatabaseDesignPlus.dll</HintPath>
+    </Reference>
+    <Reference Include="DevComponents.DotNetBar.SuperGrid, Version=12.7.0.10, Culture=neutral, PublicKeyToken=c39c3242a43eee2b, processorArchitecture=MSIL" />
+    <Reference Include="DevComponents.DotNetBar2, Version=12.7.0.10, Culture=neutral, PublicKeyToken=c39c3242a43eee2b, processorArchitecture=MSIL" />
+    <Reference Include="DevComponents.Instrumentation, Version=12.7.0.10, Culture=neutral, PublicKeyToken=bc4a9d761ea44ef0, processorArchitecture=MSIL" />
+    <Reference Include="ESRI.ArcGIS.AxControls, Version=10.1.0.0, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86, processorArchitecture=MSIL" />
+    <Reference Include="ESRI.ArcGIS.Carto, Version=10.1.0.0, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86, processorArchitecture=MSIL">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="ESRI.ArcGIS.Controls, Version=10.1.0.0, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="ESRI.ArcGIS.DataManagementTools, Version=10.1.0.0, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86, processorArchitecture=MSIL" />
+    <Reference Include="ESRI.ArcGIS.DataSourcesFile, Version=10.1.0.0, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86, processorArchitecture=MSIL">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="ESRI.ArcGIS.DataSourcesGDB, Version=10.1.0.0, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86, processorArchitecture=MSIL">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="ESRI.ArcGIS.Display, Version=10.1.0.0, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86, processorArchitecture=MSIL">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="ESRI.ArcGIS.Geodatabase, Version=10.1.0.0, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86, processorArchitecture=MSIL">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="ESRI.ArcGIS.Geometry, Version=10.1.0.0, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86, processorArchitecture=MSIL">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="ESRI.ArcGIS.System, Version=10.1.0.0, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="gdalconst_csharp">
+      <HintPath>..\..\JMapCheckStation\JMapCheckStation\bin\Debug\gdalconst_csharp.dll</HintPath>
+    </Reference>
+    <Reference Include="gdal_csharp">
+      <HintPath>..\..\JMapCheckStation\JMapCheckStation\bin\Debug\gdal_csharp.dll</HintPath>
+    </Reference>
+    <Reference Include="GeoAPI, Version=1.7.4.0, Culture=neutral, PublicKeyToken=a1a0da7def465678, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Code\SharpMap\2012-05-07\Packages\GeoAPI.1.5.0\lib\net35\GeoAPI.dll</HintPath>
+    </Reference>
+    <Reference Include="Lucene.China, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Lucene.China.dll</HintPath>
+    </Reference>
+    <Reference Include="Lucene.Net, Version=2.0.0.4, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Lucene.Net.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Dynamic, Version=1.1.0.20, Culture=neutral, PublicKeyToken=7f709c5b713576e1, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\JMapCheckStation\JMapCheckStation\bin\Debug\Microsoft.Dynamic.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.QualityTools.Testing.Fakes, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="Microsoft.Scripting, Version=1.1.0.20, Culture=neutral, PublicKeyToken=7f709c5b713576e1, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\JMapCheckStation\JMapCheckStation\bin\Debug\Microsoft.Scripting.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Scripting.AspNet, Version=1.0.0.0, Culture=neutral, PublicKeyToken=7f709c5b713576e1, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\JMapCheckStation\JMapCheckStation\bin\Debug\Microsoft.Scripting.AspNet.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Scripting.Metadata, Version=1.1.0.20, Culture=neutral, PublicKeyToken=7f709c5b713576e1, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\JMapCheckStation\JMapCheckStation\bin\Debug\Microsoft.Scripting.Metadata.dll</HintPath>
+    </Reference>
+    <Reference Include="NetTopologySuite, Version=1.14.0.0, Culture=neutral, PublicKeyToken=f580a05016ebada1, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Code\SharpMap\2012-05-07\Packages\NetTopologySuite.1.11.0\lib\net35\NetTopologySuite.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\DLGQInfoLook\bin\Debug\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="ogr_csharp">
+      <HintPath>..\..\JMapCheckStation\JMapCheckStation\bin\Debug\ogr_csharp.dll</HintPath>
+    </Reference>
+    <Reference Include="osr_csharp">
+      <HintPath>..\..\JMapCheckStation\JMapCheckStation\bin\Debug\osr_csharp.dll</HintPath>
+    </Reference>
+    <Reference Include="SharpMap, Version=0.9.6046.37533, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\CommonModule\SharpMap\2012-05-07\SharpMap.Extensions\bin\Debug\SharpMap.dll</HintPath>
+    </Reference>
+    <Reference Include="SharpMap.Extensions, Version=0.9.6046.37534, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\CommonModule\SharpMap\2012-05-07\SharpMap.Extensions\bin\Debug\SharpMap.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controls\SearchCheckLinesControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\SearchCheckLinesControl.Designer.cs">
+      <DependentUpon>SearchCheckLinesControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frms\ButtonFormProjectImport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frms\ButtonFormProjectImport.Designer.cs">
+      <DependentUpon>ButtonFormProjectImport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CallClass.cs" />
+    <Compile Include="Frms\DataImportButtonForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frms\DataImportButtonForm.Designer.cs">
+      <DependentUpon>DataImportButtonForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frms\FrmAddQualityErrorItems.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frms\FrmAddQualityErrorItems.Designer.cs">
+      <DependentUpon>FrmAddQualityErrorItems.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frms\FrmAddSampleErrorPlus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frms\FrmAddSampleErrorPlus.Designer.cs">
+      <DependentUpon>FrmAddSampleErrorPlus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frms\FrmAddSampleError.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frms\FrmAddSampleError.Designer.cs">
+      <DependentUpon>FrmAddSampleError.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frms\FrmCheckPGDBLayersTopology.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frms\FrmCheckPGDBLayersTopology.Designer.cs">
+      <DependentUpon>FrmCheckPGDBLayersTopology.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frms\FrmCheckPGDBLayersAtributes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frms\FrmCheckPGDBLayersAtributes.Designer.cs">
+      <DependentUpon>FrmCheckPGDBLayersAtributes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frms\FrmInputRelativeValue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frms\FrmInputRelativeValue.Designer.cs">
+      <DependentUpon>FrmInputRelativeValue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frms\FrmJDCCCompanyInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frms\FrmJDCCCompanyInfo.Designer.cs">
+      <DependentUpon>FrmJDCCCompanyInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frms\FrmOpenPGLayer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frms\FrmOpenPGLayer.Designer.cs">
+      <DependentUpon>FrmOpenPGLayer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frms\FrmSampleEveluate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frms\FrmSampleEveluate.Designer.cs">
+      <DependentUpon>FrmSampleEveluate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frms\FrmQualityErrorReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frms\FrmQualityErrorReport.Designer.cs">
+      <DependentUpon>FrmQualityErrorReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frms\FrmPintErrors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frms\FrmPintErrors.Designer.cs">
+      <DependentUpon>FrmPintErrors.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frms\FrmRelativeCheckLines.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frms\FrmRelativeCheckLines.Designer.cs">
+      <DependentUpon>FrmRelativeCheckLines.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frms\FrmSampleCheckStation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frms\FrmSampleCheckStation.Designer.cs">
+      <DependentUpon>FrmSampleCheckStation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frms\FrmSearchCheckLines.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frms\FrmSearchCheckLines.Designer.cs">
+      <DependentUpon>FrmSearchCheckLines.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frms\FrmUpdateScater.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frms\FrmUpdateScater.Designer.cs">
+      <DependentUpon>FrmUpdateScater.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frms\NGram.cs" />
+    <Compile Include="Frms\PorterStemmer.cs" />
+    <Compile Include="Frms\StopWordsHandler.cs" />
+    <Compile Include="Frms\TFIDFMeasure.cs" />
+    <Compile Include="Frms\Tokeniser.cs" />
+    <Compile Include="FrmUpdateMapbindingTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUpdateMapbindingTable.Designer.cs">
+      <DependentUpon>FrmUpdateMapbindingTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUpdateSampleArea.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUpdateSampleArea.Designer.cs">
+      <DependentUpon>FrmUpdateSampleArea.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Frms\ReportPrintButtonForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frms\ReportPrintButtonForm.Designer.cs">
+      <DependentUpon>ReportPrintButtonForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Controls\SearchCheckLinesControl.resx">
+      <DependentUpon>SearchCheckLinesControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frms\ButtonFormProjectImport.resx">
+      <DependentUpon>ButtonFormProjectImport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frms\DataImportButtonForm.resx">
+      <DependentUpon>DataImportButtonForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frms\FrmAddQualityErrorItems.resx">
+      <DependentUpon>FrmAddQualityErrorItems.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frms\FrmAddSampleErrorPlus.resx">
+      <DependentUpon>FrmAddSampleErrorPlus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frms\FrmAddSampleError.resx">
+      <DependentUpon>FrmAddSampleError.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frms\FrmCheckPGDBLayersTopology.resx">
+      <DependentUpon>FrmCheckPGDBLayersTopology.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frms\FrmCheckPGDBLayersAtributes.resx">
+      <DependentUpon>FrmCheckPGDBLayersAtributes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frms\FrmInputRelativeValue.resx">
+      <DependentUpon>FrmInputRelativeValue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frms\FrmJDCCCompanyInfo.resx">
+      <DependentUpon>FrmJDCCCompanyInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frms\FrmOpenPGLayer.resx">
+      <DependentUpon>FrmOpenPGLayer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frms\FrmSampleEveluate.resx">
+      <DependentUpon>FrmSampleEveluate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frms\FrmQualityErrorReport.resx">
+      <DependentUpon>FrmQualityErrorReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frms\FrmPintErrors.resx">
+      <DependentUpon>FrmPintErrors.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frms\FrmRelativeCheckLines.resx">
+      <DependentUpon>FrmRelativeCheckLines.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frms\FrmSampleCheckStation.resx">
+      <DependentUpon>FrmSampleCheckStation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frms\FrmSearchCheckLines.resx">
+      <DependentUpon>FrmSearchCheckLines.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frms\FrmUpdateScater.resx">
+      <DependentUpon>FrmUpdateScater.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frms\ReportPrintButtonForm.resx">
+      <DependentUpon>ReportPrintButtonForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUpdateMapbindingTable.resx">
+      <DependentUpon>FrmUpdateMapbindingTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUpdateSampleArea.resx">
+      <DependentUpon>FrmUpdateSampleArea.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\CommonModule\Authentication\Authentication.csproj">
+      <Project>{709ABE82-E234-4424-A7C3-43937D0A6FB4}</Project>
+      <Name>Authentication</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\CommonModule\GoogleMapDownLoader\GoogleMapDownLoader.csproj">
+      <Project>{455f4c8f-55ac-4cb5-8c21-b65c75cabbb7}</Project>
+      <Name>GoogleMapDownLoader</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DLGCheckLib\DLGCheckLib.csproj">
+      <Project>{675fb2b4-7812-49c3-871a-f1a312fce65f}</Project>
+      <Name>DLGCheckLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PluginCore\PluginCore.csproj">
+      <Project>{6CA13CB4-5F5A-4117-B4EE-DC0CB226E9F3}</Project>
+      <Name>PluginCore</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ReportPrinter\ReportPrinter.csproj">
+      <Project>{77169C0A-7E41-406A-A0D6-0771FBD14CC9}</Project>
+      <Name>ReportPrinter</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Fakes Include="Fakes\IronPython.fakes" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="esriCarto">
+      <Guid>{45AC68FF-DEFF-4884-B3A9-7D882EDCAEF1}</Guid>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="esriDataSourcesNetCDF">
+      <Guid>{28ED84CD-FB06-41A0-9A55-E196441D169A}</Guid>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="esriDataSourcesRaster">
+      <Guid>{8F0541A3-D5BE-4B3F-A8D9-062D5579E19B}</Guid>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="esriGeoDatabaseDistributed">
+      <Guid>{A7C74158-1062-4664-B404-8694D490FCD1}</Guid>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="esriGeoDatabaseExtensions">
+      <Guid>{7BA654FE-F55E-4EE5-8CF2-FAEFFBC04A61}</Guid>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="esriGeometry">
+      <Guid>{C4B094C2-FF32-4FA1-ABCB-7820F8D6FB68}</Guid>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="esriGeoprocessing">
+      <Guid>{C031A050-82C6-4F8F-8836-5692631CFFE6}</Guid>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="esriGISClient">
+      <Guid>{746F6817-89BB-4490-9829-83CA25FD505A}</Guid>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="esriOutput">
+      <Guid>{7DB92CEC-CB65-420A-8737-FCD0722FD436}</Guid>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="esriServer">
+      <Guid>{18F2FC71-6B30-45B9-B101-037A8B868B66}</Guid>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="esriSystem">
+      <Guid>{5E1F7BC3-67C5-4AEE-8EC6-C4B73AAC42ED}</Guid>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="esriSystemUI">
+      <Guid>{4ECCA6E2-B16B-4ACA-BD17-E74CAE4C150A}</Guid>
+      <VersionMajor>10</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Frms\TFIDF\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

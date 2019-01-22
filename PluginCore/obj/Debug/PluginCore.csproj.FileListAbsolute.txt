@@ -1,0 +1,1304 @@
+D:\mycode\trunk\DLGQInfoMS\PluginCore\bin\Debug\PluginCore.dll
+D:\mycode\trunk\DLGQInfoMS\PluginCore\bin\Debug\PluginCore.pdb
+D:\mycode\trunk\DLGQInfoMS\PluginCore\bin\Debug\Authentication.dll
+D:\mycode\trunk\DLGQInfoMS\PluginCore\bin\Debug\Npgsql.dll
+D:\mycode\trunk\DLGQInfoMS\PluginCore\bin\Debug\DatabaseDesignPlus.dll
+D:\mycode\trunk\DLGQInfoMS\PluginCore\bin\Debug\CSoftAutoUpdater.dll
+D:\mycode\trunk\DLGQInfoMS\PluginCore\bin\Debug\Newtonsoft.Json.dll
+D:\mycode\trunk\DLGQInfoMS\PluginCore\bin\Debug\Authentication.pdb
+D:\mycode\trunk\DLGQInfoMS\PluginCore\bin\Debug\DatabaseDesignPlus.pdb
+D:\mycode\trunk\DLGQInfoMS\PluginCore\bin\Debug\CSoftAutoUpdater.pdb
+D:\mycode\trunk\DLGQInfoMS\PluginCore\bin\Debug\Newtonsoft.Json.xml
+D:\mycode\trunk\DLGQInfoMS\PluginCore\obj\Debug\PluginCore.csprojResolveAssemblyReference.cache
+D:\mycode\trunk\DLGQInfoMS\PluginCore\obj\Debug\PluginCore.dll
+D:\mycode\trunk\DLGQInfoMS\PluginCore\obj\Debug\PluginCore.pdb
+D:\mycode\trunk\DLGQInfoMS\PluginCore\bin\Debug\Mono.Security.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\PluginCore\bin\Debug\PluginCore.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\PluginCore\bin\Debug\PluginCore.pdb
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\PluginCore\bin\Debug\Authentication.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\PluginCore\bin\Debug\DatabaseDesignPlus.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\PluginCore\bin\Debug\Npgsql.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\PluginCore\bin\Debug\CSoftAutoUpdater.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\PluginCore\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\PluginCore\bin\Debug\Mono.Security.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\PluginCore\bin\Debug\Authentication.pdb
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\PluginCore\bin\Debug\DatabaseDesignPlus.pdb
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\PluginCore\bin\Debug\CSoftAutoUpdater.pdb
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\PluginCore\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\PluginCore\obj\Debug\PluginCore.csprojResolveAssemblyReference.cache
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\PluginCore\obj\Debug\PluginCore.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\PluginCore\obj\Debug\PluginCore.pdb
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginCore\bin\Debug\PluginCore.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginCore\bin\Debug\PluginCore.pdb
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginCore\bin\Debug\Authentication.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginCore\bin\Debug\DatabaseDesignPlus.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginCore\bin\Debug\Npgsql.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginCore\bin\Debug\CSoftAutoUpdater.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginCore\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginCore\bin\Debug\Mono.Security.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginCore\bin\Debug\Authentication.pdb
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginCore\bin\Debug\DatabaseDesignPlus.pdb
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginCore\bin\Debug\CSoftAutoUpdater.pdb
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginCore\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginCore\obj\Debug\PluginCore.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginCore\obj\Debug\PluginCore.pdb
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.AxControls.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.Controls.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.Carto.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.Geometry.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.SystemUI.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.System.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.Output.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.3DAnalyst.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.GlobeCore.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.Display.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.Version.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginCore\bin\Debug\stdole.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.Geodatabase.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.NetworkAnalyst.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.GeoDatabaseExtensions.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesRaster.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.Server.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.GISClient.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesFile.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.GeoDatabaseDistributed.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.Animation.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.Geoprocessing.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesNetCDF.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.GeoAnalyst.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.Controls.xml
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.Carto.xml
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.Geometry.xml
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.SystemUI.xml
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.System.xml
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.Output.xml
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.3DAnalyst.xml
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.GlobeCore.xml
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.Display.xml
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.Geodatabase.xml
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.NetworkAnalyst.xml
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.GeoDatabaseExtensions.xml
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesRaster.xml
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.Server.xml
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.GISClient.xml
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesFile.xml
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.GeoDatabaseDistributed.xml
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.Animation.xml
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.Geoprocessing.xml
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesNetCDF.xml
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.GeoAnalyst.xml
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginCore\obj\Debug\PluginCore.csprojResolveAssemblyReference.cache
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\PluginCore.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\PluginCore.pdb
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\Authentication.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\DatabaseDesignPlus.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\Npgsql.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\CSoftAutoUpdater.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\Newtonsoft.Json.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\stdole.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\Mono.Security.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\Authentication.pdb
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\DatabaseDesignPlus.pdb
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\CSoftAutoUpdater.pdb
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\Newtonsoft.Json.xml
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\obj\Debug\PluginCore.csprojResolveAssemblyReference.cache
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\obj\Debug\PluginCore.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\obj\Debug\PluginCore.pdb
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\DLGCheckLib.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\NetTopologySuite.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\GeoAPI.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\SharpMap.Extensions.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\ogr_csharp.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\SharpMap.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\osr_csharp.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\gdal_csharp.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\ProjNet.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\Oracle.DataAccess.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\PostgreSql.Data.PostgreSqlClient.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\System.Data.SQLite.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\BruTile.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\DLGCheckLib.pdb
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\SharpMap.Extensions.pdb
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\SharpMap.pdb
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\SharpMap.xml
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\ProjNet.pdb
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\ProjNet.xml
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\System.Data.SQLite.xml
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\DevComponents.DotNetBar2.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\DevComponents.DotNetBar2.xml
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\DevComponents.Instrumentation.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\DevComponents.Instrumentation.xml
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\class\Log4Net.config
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.AxControls.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.Carto.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.Geometry.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.Geodatabase.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.Display.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.Geoprocessor.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.DataManagementTools.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesGDB.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.Controls.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.SystemUI.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.System.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.Output.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.3DAnalyst.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.GlobeCore.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.Version.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.GeoDatabaseExtensions.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesRaster.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.Server.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.GISClient.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesFile.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.GeoDatabaseDistributed.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.Geoprocessing.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.NetworkAnalyst.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.Animation.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesNetCDF.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.GeoAnalyst.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.Carto.xml
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.Geometry.xml
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.Geodatabase.xml
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.Display.xml
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.Geoprocessor.xml
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.DataManagementTools.xml
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesGDB.xml
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.Controls.xml
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.SystemUI.xml
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.System.xml
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.Output.xml
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.3DAnalyst.xml
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.GlobeCore.xml
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.GeoDatabaseExtensions.xml
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesRaster.xml
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.Server.xml
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.GISClient.xml
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesFile.xml
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.GeoDatabaseDistributed.xml
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.Geoprocessing.xml
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.NetworkAnalyst.xml
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.Animation.xml
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesNetCDF.xml
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.GeoAnalyst.xml
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\PluginCore.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\PluginCore.pdb
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\Authentication.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\DLGCheckLib.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.AxControls.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.Geometry.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\NetTopologySuite.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\GeoAPI.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.Carto.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.Display.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.Geodatabase.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\DatabaseDesignPlus.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\osr_csharp.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\SharpMap.Extensions.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\ogr_csharp.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\SharpMap.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.Geoprocessor.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.DataManagementTools.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\DevComponents.DotNetBar2.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesFile.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\gdal_csharp.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesGDB.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\Npgsql.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\CSoftAutoUpdater.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\Newtonsoft.Json.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.Controls.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.SystemUI.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.System.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.Output.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.3DAnalyst.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.GlobeCore.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.Version.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\stdole.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.GeoDatabaseExtensions.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesRaster.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.Server.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.GISClient.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.GeoDatabaseDistributed.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\ProjNet.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\Oracle.DataAccess.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\PostgreSql.Data.PostgreSqlClient.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\System.Data.SQLite.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\BruTile.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.Geoprocessing.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\DevComponents.Instrumentation.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\Mono.Security.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.NetworkAnalyst.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.Animation.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesNetCDF.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.GeoAnalyst.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\DLGCheckLib.pdb
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\Authentication.pdb
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.Geometry.xml
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.Carto.xml
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.Display.xml
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.Geodatabase.xml
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\DatabaseDesignPlus.pdb
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\SharpMap.Extensions.pdb
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\SharpMap.pdb
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\SharpMap.xml
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.Geoprocessor.xml
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.DataManagementTools.xml
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\DevComponents.DotNetBar2.xml
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesFile.xml
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesGDB.xml
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\CSoftAutoUpdater.pdb
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\Newtonsoft.Json.xml
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.Controls.xml
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.SystemUI.xml
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.System.xml
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.Output.xml
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.3DAnalyst.xml
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.GlobeCore.xml
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.GeoDatabaseExtensions.xml
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesRaster.xml
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.Server.xml
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.GISClient.xml
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.GeoDatabaseDistributed.xml
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\ProjNet.pdb
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\ProjNet.xml
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\System.Data.SQLite.xml
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.Geoprocessing.xml
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\DevComponents.Instrumentation.xml
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.NetworkAnalyst.xml
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.Animation.xml
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesNetCDF.xml
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\ESRI.ArcGIS.GeoAnalyst.xml
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\obj\Debug\PluginCore.csprojResolveAssemblyReference.cache
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\obj\Debug\PluginCore.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\obj\Debug\PluginCore.pdb
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginCore\bin\Debug\class\Log4Net.config
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\class\Log4Net.config
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\PluginCore.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\PluginCore.pdb
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\Authentication.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\DatabaseDesignPlus.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\DLGCheckLib.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.AxControls.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\Npgsql.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\CSoftAutoUpdater.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.Geometry.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\NetTopologySuite.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\GeoAPI.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.Carto.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.Display.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.Geodatabase.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\osr_csharp.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\SharpMap.Extensions.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ogr_csharp.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\SharpMap.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.Geoprocessor.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.DataManagementTools.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesFile.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\gdal_csharp.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesGDB.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.Controls.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.SystemUI.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.System.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.Output.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.3DAnalyst.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.GlobeCore.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.Version.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\stdole.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\Mono.Security.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\DevComponents.Instrumentation.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.GeoDatabaseExtensions.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesRaster.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.Server.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.GISClient.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.GeoDatabaseDistributed.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ProjNet.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\Oracle.DataAccess.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\PostgreSql.Data.PostgreSqlClient.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\System.Data.SQLite.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\BruTile.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.Geoprocessing.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.NetworkAnalyst.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.Animation.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesNetCDF.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.GeoAnalyst.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\Authentication.pdb
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\DatabaseDesignPlus.pdb
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\DLGCheckLib.pdb
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\CSoftAutoUpdater.pdb
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.Geometry.xml
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.Carto.xml
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.Display.xml
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.Geodatabase.xml
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\SharpMap.Extensions.pdb
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\SharpMap.pdb
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\SharpMap.xml
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.Geoprocessor.xml
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.DataManagementTools.xml
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesFile.xml
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesGDB.xml
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.Controls.xml
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.SystemUI.xml
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.System.xml
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.Output.xml
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.3DAnalyst.xml
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.GlobeCore.xml
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\DevComponents.Instrumentation.xml
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.GeoDatabaseExtensions.xml
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesRaster.xml
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.Server.xml
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.GISClient.xml
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.GeoDatabaseDistributed.xml
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ProjNet.pdb
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ProjNet.xml
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\System.Data.SQLite.xml
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.Geoprocessing.xml
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.NetworkAnalyst.xml
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.Animation.xml
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesNetCDF.xml
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.GeoAnalyst.xml
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\obj\Debug\PluginCore.csprojResolveAssemblyReference.cache
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\obj\Debug\PluginCore.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginCore\obj\Debug\PluginCore.pdb
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\PluginCore.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\PluginCore.pdb
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\Authentication.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\DatabaseDesignPlus.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\DLGCheckLib.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.AxControls.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\Npgsql.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\CSoftAutoUpdater.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\Newtonsoft.Json.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.Geometry.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\NetTopologySuite.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\GeoAPI.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.Carto.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.Display.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.Geodatabase.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\osr_csharp.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\SharpMap.Extensions.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ogr_csharp.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\SharpMap.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.Geoprocessor.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.DataManagementTools.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\DevComponents.DotNetBar2.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesFile.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\gdal_csharp.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesGDB.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.Controls.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.SystemUI.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.System.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.Output.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.3DAnalyst.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.GlobeCore.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.Version.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\stdole.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\DevComponents.Instrumentation.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.GeoDatabaseExtensions.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesRaster.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.Server.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.GISClient.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.GeoDatabaseDistributed.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ProjNet.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\Oracle.DataAccess.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\PostgreSql.Data.PostgreSqlClient.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\System.Data.SQLite.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\BruTile.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.Geoprocessing.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.NetworkAnalyst.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.Animation.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesNetCDF.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.GeoAnalyst.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\Authentication.pdb
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\DatabaseDesignPlus.pdb
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\DLGCheckLib.pdb
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\CSoftAutoUpdater.pdb
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.Geometry.xml
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.Carto.xml
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.Display.xml
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.Geodatabase.xml
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\SharpMap.Extensions.pdb
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\SharpMap.pdb
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\SharpMap.xml
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.Geoprocessor.xml
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.DataManagementTools.xml
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\DevComponents.DotNetBar2.xml
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesFile.xml
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesGDB.xml
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.Controls.xml
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.SystemUI.xml
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.System.xml
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.Output.xml
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.3DAnalyst.xml
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.GlobeCore.xml
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\DevComponents.Instrumentation.xml
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.GeoDatabaseExtensions.xml
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesRaster.xml
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.Server.xml
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.GISClient.xml
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.GeoDatabaseDistributed.xml
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ProjNet.pdb
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ProjNet.xml
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\System.Data.SQLite.xml
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.Geoprocessing.xml
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.NetworkAnalyst.xml
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.Animation.xml
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesNetCDF.xml
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\ESRI.ArcGIS.GeoAnalyst.xml
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\obj\Debug\PluginCore.csprojResolveAssemblyReference.cache
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\obj\Debug\PluginCore.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\obj\Debug\PluginCore.pdb
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginCore\bin\Debug\class\Log4Net.config
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\PluginCore.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\PluginCore.pdb
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\Authentication.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\DatabaseDesignPlus.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\DLGCheckLib.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\Npgsql.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\CSoftAutoUpdater.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Geometry.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\NetTopologySuite.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\GeoAPI.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Carto.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Display.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Geodatabase.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\osr_csharp.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\SharpMap.Extensions.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ogr_csharp.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\SharpMap.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Geoprocessor.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.DataManagementTools.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\DevComponents.DotNetBar2.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesFile.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\gdal_csharp.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\stdole.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\Mono.Security.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\DevComponents.Instrumentation.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.GeoDatabaseExtensions.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesRaster.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Server.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.GISClient.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.GeoDatabaseDistributed.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ProjNet.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\Oracle.DataAccess.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\PostgreSql.Data.PostgreSqlClient.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\System.Data.SQLite.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\BruTile.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\Authentication.pdb
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\DatabaseDesignPlus.pdb
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\DLGCheckLib.pdb
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\CSoftAutoUpdater.pdb
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Geometry.xml
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Carto.xml
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Display.xml
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Geodatabase.xml
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\SharpMap.Extensions.pdb
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\SharpMap.pdb
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\SharpMap.xml
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Geoprocessor.xml
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.DataManagementTools.xml
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\DevComponents.DotNetBar2.xml
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesFile.xml
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\DevComponents.Instrumentation.xml
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.GeoDatabaseExtensions.xml
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesRaster.xml
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Server.xml
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.GISClient.xml
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.GeoDatabaseDistributed.xml
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ProjNet.pdb
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ProjNet.xml
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\System.Data.SQLite.xml
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\obj\Debug\PluginCore.csprojResolveAssemblyReference.cache
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\obj\Debug\PluginCore.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\obj\Debug\PluginCore.pdb
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\dog_net_windows.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\class\Log4Net.config
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ReportPrinter.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\log4net.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\Microsoft.Office.Interop.Word.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\office.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ReportPrinter.pdb
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\Microsoft.Office.Interop.Word.xml
+C:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\office.xml
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\class\Log4Net.config
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\PluginCore.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\PluginCore.pdb
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\Authentication.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\DatabaseDesignPlus.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\DLGCheckLib.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\dog_net_windows.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.AxControls.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\Npgsql.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\CSoftAutoUpdater.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Geometry.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\NetTopologySuite.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\GeoAPI.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Carto.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Display.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Geodatabase.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\osr_csharp.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\SharpMap.Extensions.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ogr_csharp.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\SharpMap.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ReportPrinter.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Geoprocessor.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.DataManagementTools.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\DevComponents.DotNetBar2.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesFile.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\gdal_csharp.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesGDB.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Controls.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.SystemUI.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.System.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Output.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.3DAnalyst.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.GlobeCore.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Version.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\stdole.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\DevComponents.Instrumentation.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.GeoDatabaseExtensions.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesRaster.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Server.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.GISClient.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.GeoDatabaseDistributed.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ProjNet.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\Oracle.DataAccess.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\PostgreSql.Data.PostgreSqlClient.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\System.Data.SQLite.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\BruTile.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\log4net.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Geoprocessing.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.NetworkAnalyst.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Animation.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\office.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesNetCDF.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.GeoAnalyst.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\Authentication.pdb
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\DatabaseDesignPlus.pdb
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\DLGCheckLib.pdb
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\CSoftAutoUpdater.pdb
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Geometry.xml
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Carto.xml
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Display.xml
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Geodatabase.xml
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\SharpMap.Extensions.pdb
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\SharpMap.pdb
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\SharpMap.xml
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ReportPrinter.pdb
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Geoprocessor.xml
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.DataManagementTools.xml
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\DevComponents.DotNetBar2.xml
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesFile.xml
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesGDB.xml
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Controls.xml
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.SystemUI.xml
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.System.xml
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Output.xml
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.3DAnalyst.xml
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.GlobeCore.xml
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\DevComponents.Instrumentation.xml
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.GeoDatabaseExtensions.xml
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesRaster.xml
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Server.xml
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.GISClient.xml
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.GeoDatabaseDistributed.xml
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ProjNet.pdb
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ProjNet.xml
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\System.Data.SQLite.xml
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\Microsoft.Office.Interop.Word.xml
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Geoprocessing.xml
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.NetworkAnalyst.xml
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Animation.xml
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\office.xml
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesNetCDF.xml
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.GeoAnalyst.xml
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\obj\Debug\PluginCore.csprojResolveAssemblyReference.cache
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\obj\Debug\PluginCore.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginCore\obj\Debug\PluginCore.pdb
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\class\Log4Net.config
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\PluginCore.dll
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\PluginCore.pdb
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\Authentication.dll
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\DatabaseDesignPlus.dll
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\DLGCheckLib.dll
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.AxControls.dll
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\Npgsql.dll
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\CSoftAutoUpdater.dll
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Geometry.dll
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\NetTopologySuite.dll
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\GeoAPI.dll
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Carto.dll
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Display.dll
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Geodatabase.dll
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\osr_csharp.dll
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\SharpMap.Extensions.dll
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ogr_csharp.dll
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\SharpMap.dll
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ReportPrinter.dll
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Geoprocessor.dll
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.DataManagementTools.dll
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\DevComponents.DotNetBar2.dll
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesFile.dll
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\gdal_csharp.dll
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesGDB.dll
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Controls.dll
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.SystemUI.dll
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.System.dll
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Output.dll
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.3DAnalyst.dll
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.GlobeCore.dll
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Version.dll
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\stdole.dll
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\DevComponents.Instrumentation.dll
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.GeoDatabaseExtensions.dll
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesRaster.dll
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Server.dll
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.GISClient.dll
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.GeoDatabaseDistributed.dll
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ProjNet.dll
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\Oracle.DataAccess.dll
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\PostgreSql.Data.PostgreSqlClient.dll
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\System.Data.SQLite.dll
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\BruTile.dll
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\log4net.dll
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\Microsoft.Office.Interop.Word.dll
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Geoprocessing.dll
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.NetworkAnalyst.dll
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Animation.dll
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\office.dll
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesNetCDF.dll
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.GeoAnalyst.dll
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\Authentication.pdb
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\DatabaseDesignPlus.pdb
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\DLGCheckLib.pdb
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\CSoftAutoUpdater.pdb
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Geometry.xml
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Carto.xml
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Display.xml
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Geodatabase.xml
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\SharpMap.Extensions.pdb
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\SharpMap.pdb
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\SharpMap.xml
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ReportPrinter.pdb
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Geoprocessor.xml
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.DataManagementTools.xml
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\DevComponents.DotNetBar2.xml
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesFile.xml
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesGDB.xml
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Controls.xml
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.SystemUI.xml
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.System.xml
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Output.xml
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.3DAnalyst.xml
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.GlobeCore.xml
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\DevComponents.Instrumentation.xml
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.GeoDatabaseExtensions.xml
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesRaster.xml
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Server.xml
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.GISClient.xml
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.GeoDatabaseDistributed.xml
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ProjNet.pdb
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ProjNet.xml
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\System.Data.SQLite.xml
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\Microsoft.Office.Interop.Word.xml
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Geoprocessing.xml
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.NetworkAnalyst.xml
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Animation.xml
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\office.xml
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesNetCDF.xml
+E:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.GeoAnalyst.xml
+E:\JMapProjects\JMapCheckStation\PluginCore\obj\Debug\PluginCore.csprojResolveAssemblyReference.cache
+E:\JMapProjects\JMapCheckStation\PluginCore\obj\Debug\PluginCore.dll
+E:\JMapProjects\JMapCheckStation\PluginCore\obj\Debug\PluginCore.pdb
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\class\Log4Net.config
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\PluginCore.dll
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\PluginCore.pdb
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\Authentication.dll
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\DatabaseDesignPlus.dll
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\DLGCheckLib.dll
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\Npgsql.dll
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\CSoftAutoUpdater.dll
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Geometry.dll
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\NetTopologySuite.dll
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\GeoAPI.dll
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Carto.dll
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Display.dll
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Geodatabase.dll
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\osr_csharp.dll
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\SharpMap.Extensions.dll
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ogr_csharp.dll
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\SharpMap.dll
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ReportPrinter.dll
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Geoprocessor.dll
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.DataManagementTools.dll
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\DevComponents.DotNetBar2.dll
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesFile.dll
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\gdal_csharp.dll
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\stdole.dll
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\DevComponents.Instrumentation.dll
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.GeoDatabaseExtensions.dll
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesRaster.dll
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Server.dll
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.GISClient.dll
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.GeoDatabaseDistributed.dll
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ProjNet.dll
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\Oracle.DataAccess.dll
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\PostgreSql.Data.PostgreSqlClient.dll
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\System.Data.SQLite.dll
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\BruTile.dll
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\log4net.dll
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\Microsoft.Office.Interop.Word.dll
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\office.dll
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\Microsoft.Vbe.Interop.dll
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\Authentication.pdb
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\DatabaseDesignPlus.pdb
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\DLGCheckLib.pdb
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\CSoftAutoUpdater.pdb
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Geometry.xml
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Carto.xml
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Display.xml
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Geodatabase.xml
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\SharpMap.Extensions.pdb
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\SharpMap.pdb
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\SharpMap.xml
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ReportPrinter.pdb
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Geoprocessor.xml
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.DataManagementTools.xml
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\DevComponents.DotNetBar2.xml
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesFile.xml
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\DevComponents.Instrumentation.xml
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.GeoDatabaseExtensions.xml
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesRaster.xml
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Server.xml
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.GISClient.xml
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.GeoDatabaseDistributed.xml
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ProjNet.pdb
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\ProjNet.xml
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\System.Data.SQLite.xml
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\Microsoft.Office.Interop.Word.xml
+F:\JMapProjects\JMapCheckStation\PluginCore\bin\Debug\office.xml
+F:\JMapProjects\JMapCheckStation\PluginCore\obj\Debug\PluginCore.csprojResolveAssemblyReference.cache
+F:\JMapProjects\JMapCheckStation\PluginCore\obj\Debug\PluginCore.dll
+F:\JMapProjects\JMapCheckStation\PluginCore\obj\Debug\PluginCore.pdb
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\class\Log4Net.config
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\PluginCore.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\PluginCore.pdb
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\Authentication.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\DatabaseDesignPlus.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\DLGCheckLib.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\Npgsql.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\CSoftAutoUpdater.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Geometry.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\NetTopologySuite.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\GeoAPI.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Carto.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Display.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Geodatabase.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\osr_csharp.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\SharpMap.Extensions.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\ogr_csharp.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\SharpMap.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\ReportPrinter.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Geoprocessor.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.DataManagementTools.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\DevComponents.DotNetBar2.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesFile.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\gdal_csharp.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\stdole.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\DevComponents.Instrumentation.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.GeoDatabaseExtensions.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesRaster.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Server.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.GISClient.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.GeoDatabaseDistributed.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\ProjNet.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\Oracle.DataAccess.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\PostgreSql.Data.PostgreSqlClient.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\System.Data.SQLite.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\BruTile.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\log4net.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\office.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\Authentication.pdb
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\DatabaseDesignPlus.pdb
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\DLGCheckLib.pdb
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\CSoftAutoUpdater.pdb
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Geometry.xml
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Carto.xml
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Display.xml
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Geodatabase.xml
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\SharpMap.Extensions.pdb
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\SharpMap.pdb
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\SharpMap.xml
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\ReportPrinter.pdb
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Geoprocessor.xml
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.DataManagementTools.xml
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\DevComponents.DotNetBar2.xml
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesFile.xml
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\DevComponents.Instrumentation.xml
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.GeoDatabaseExtensions.xml
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesRaster.xml
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Server.xml
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.GISClient.xml
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.GeoDatabaseDistributed.xml
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\ProjNet.pdb
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\ProjNet.xml
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\System.Data.SQLite.xml
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\Microsoft.Office.Interop.Word.xml
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\office.xml
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\obj\Debug\PluginCore.csprojResolveAssemblyReference.cache
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\obj\Debug\PluginCore.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\obj\Debug\PluginCore.pdb
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\class\Log4Net.config
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\PluginCore.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\PluginCore.pdb
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\Authentication.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\DatabaseDesignPlus.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\DLGCheckLib.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\Npgsql.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\CSoftAutoUpdater.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Geometry.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\NetTopologySuite.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\GeoAPI.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Carto.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Display.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Geodatabase.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\osr_csharp.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\SharpMap.Extensions.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\ogr_csharp.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\SharpMap.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\ReportPrinter.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Geoprocessor.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.DataManagementTools.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\DevComponents.DotNetBar2.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesFile.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\gdal_csharp.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\stdole.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\DevComponents.Instrumentation.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.GeoDatabaseExtensions.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesRaster.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Server.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.GISClient.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.GeoDatabaseDistributed.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\ProjNet.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\Oracle.DataAccess.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\PostgreSql.Data.PostgreSqlClient.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\System.Data.SQLite.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\BruTile.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\log4net.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\office.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\Authentication.pdb
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\DatabaseDesignPlus.pdb
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\DLGCheckLib.pdb
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\CSoftAutoUpdater.pdb
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Geometry.xml
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Carto.xml
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Display.xml
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Geodatabase.xml
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\SharpMap.Extensions.pdb
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\SharpMap.pdb
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\SharpMap.xml
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\ReportPrinter.pdb
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Geoprocessor.xml
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.DataManagementTools.xml
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\DevComponents.DotNetBar2.xml
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesFile.xml
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\DevComponents.Instrumentation.xml
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.GeoDatabaseExtensions.xml
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesRaster.xml
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Server.xml
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.GISClient.xml
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.GeoDatabaseDistributed.xml
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\ProjNet.pdb
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\ProjNet.xml
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\System.Data.SQLite.xml
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\Microsoft.Office.Interop.Word.xml
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\bin\Debug\office.xml
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\obj\Debug\PluginCore.csprojResolveAssemblyReference.cache
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\obj\Debug\PluginCore.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginCore\obj\Debug\PluginCore.pdb
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\class\Log4Net.config
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\PluginCore.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\PluginCore.pdb
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\Authentication.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\DatabaseDesignPlus.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\DLGCheckLib.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\Npgsql.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\CSoftAutoUpdater.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Geometry.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\NetTopologySuite.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\GeoAPI.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Carto.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Display.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Geodatabase.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\osr_csharp.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\SharpMap.Extensions.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ogr_csharp.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\SharpMap.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ReportPrinter.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Geoprocessor.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.DataManagementTools.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\DevComponents.DotNetBar2.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesFile.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\gdal_csharp.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\stdole.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\DevComponents.Instrumentation.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.GeoDatabaseExtensions.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesRaster.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Server.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.GISClient.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.GeoDatabaseDistributed.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ProjNet.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\Oracle.DataAccess.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\PostgreSql.Data.PostgreSqlClient.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\System.Data.SQLite.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\BruTile.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\log4net.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\Microsoft.Office.Interop.Word.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\office.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\Microsoft.Vbe.Interop.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\Authentication.pdb
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\DatabaseDesignPlus.pdb
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\DLGCheckLib.pdb
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\CSoftAutoUpdater.pdb
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Geometry.xml
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Carto.xml
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Display.xml
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Geodatabase.xml
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\SharpMap.Extensions.pdb
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\SharpMap.pdb
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\SharpMap.xml
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ReportPrinter.pdb
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Geoprocessor.xml
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.DataManagementTools.xml
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\DevComponents.DotNetBar2.xml
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesFile.xml
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\DevComponents.Instrumentation.xml
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.GeoDatabaseExtensions.xml
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesRaster.xml
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Server.xml
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.GISClient.xml
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.GeoDatabaseDistributed.xml
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ProjNet.pdb
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ProjNet.xml
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\System.Data.SQLite.xml
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\Microsoft.Office.Interop.Word.xml
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\office.xml
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\obj\Debug\PluginCore.csprojResolveAssemblyReference.cache
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\obj\Debug\PluginCore.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\obj\Debug\PluginCore.pdb
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\PluginCore.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\PluginCore.pdb
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\Authentication.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\DatabaseDesignPlus.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\DLGCheckLib.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\Npgsql.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\CSoftAutoUpdater.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Geometry.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\NetTopologySuite.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\GeoAPI.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Carto.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Display.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Geodatabase.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\osr_csharp.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\SharpMap.Extensions.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ogr_csharp.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\SharpMap.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ReportPrinter.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Geoprocessor.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.DataManagementTools.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\DevComponents.DotNetBar2.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesFile.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\gdal_csharp.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\stdole.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\DevComponents.Instrumentation.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.GeoDatabaseExtensions.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesRaster.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Server.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.GISClient.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.GeoDatabaseDistributed.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ProjNet.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\Oracle.DataAccess.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\PostgreSql.Data.PostgreSqlClient.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\System.Data.SQLite.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\BruTile.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\log4net.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\Microsoft.Office.Interop.Word.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\Microsoft.Vbe.Interop.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\Authentication.pdb
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\DatabaseDesignPlus.pdb
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\DLGCheckLib.pdb
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\CSoftAutoUpdater.pdb
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Geometry.xml
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Carto.xml
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Display.xml
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Geodatabase.xml
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\SharpMap.Extensions.pdb
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\SharpMap.pdb
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\SharpMap.xml
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ReportPrinter.pdb
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Geoprocessor.xml
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.DataManagementTools.xml
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\DevComponents.DotNetBar2.xml
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesFile.xml
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\DevComponents.Instrumentation.xml
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.GeoDatabaseExtensions.xml
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesRaster.xml
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Server.xml
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.GISClient.xml
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.GeoDatabaseDistributed.xml
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ProjNet.pdb
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ProjNet.xml
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\System.Data.SQLite.xml
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\Microsoft.Office.Interop.Word.xml
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\obj\Debug\PluginCore.csprojResolveAssemblyReference.cache
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\obj\Debug\PluginCore.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\obj\Debug\PluginCore.pdb
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\class\Log4Net.config
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\class\Log4Net.config
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\PluginCore.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\PluginCore.pdb
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\Authentication.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\DatabaseDesignPlus.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\DLGCheckLib.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\Npgsql.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\CSoftAutoUpdater.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Geometry.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\NetTopologySuite.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\GeoAPI.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Carto.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Display.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Geodatabase.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\osr_csharp.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\SharpMap.Extensions.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ogr_csharp.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\SharpMap.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ReportPrinter.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Geoprocessor.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.DataManagementTools.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\DevComponents.DotNetBar2.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesFile.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\gdal_csharp.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\stdole.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\DevComponents.Instrumentation.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.GeoDatabaseExtensions.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesRaster.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Server.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.GISClient.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.GeoDatabaseDistributed.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ProjNet.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\Oracle.DataAccess.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\PostgreSql.Data.PostgreSqlClient.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\System.Data.SQLite.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\BruTile.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\log4net.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\Microsoft.Office.Interop.Word.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\Microsoft.Vbe.Interop.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\Authentication.pdb
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\DatabaseDesignPlus.pdb
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\DLGCheckLib.pdb
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\CSoftAutoUpdater.pdb
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Geometry.xml
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Carto.xml
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Display.xml
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Geodatabase.xml
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\SharpMap.Extensions.pdb
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\SharpMap.pdb
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\SharpMap.xml
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ReportPrinter.pdb
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Geoprocessor.xml
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.DataManagementTools.xml
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\DevComponents.DotNetBar2.xml
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesFile.xml
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\DevComponents.Instrumentation.xml
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.GeoDatabaseExtensions.xml
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesRaster.xml
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.Server.xml
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.GISClient.xml
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ESRI.ArcGIS.GeoDatabaseDistributed.xml
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ProjNet.pdb
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\ProjNet.xml
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\System.Data.SQLite.xml
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\bin\Debug\Microsoft.Office.Interop.Word.xml
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\obj\Debug\PluginCore.csprojResolveAssemblyReference.cache
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\obj\Debug\PluginCore.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginCore\obj\Debug\PluginCore.pdb
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\PluginCore.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\PluginCore.pdb
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\Authentication.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\DatabaseDesignPlus.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\DLGCheckLib.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\Npgsql.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\CSoftAutoUpdater.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\ESRI.ArcGIS.Geometry.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\NetTopologySuite.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\GeoAPI.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\ESRI.ArcGIS.Carto.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\ESRI.ArcGIS.Display.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\ESRI.ArcGIS.Geodatabase.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\osr_csharp.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\SharpMap.Extensions.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\ogr_csharp.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\SharpMap.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\ReportPrinter.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\ESRI.ArcGIS.Geoprocessor.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\ESRI.ArcGIS.DataManagementTools.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\DevComponents.DotNetBar2.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesFile.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\gdal_csharp.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\stdole.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\DevComponents.Instrumentation.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\ESRI.ArcGIS.GeoDatabaseExtensions.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesRaster.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\ESRI.ArcGIS.Server.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\ESRI.ArcGIS.GISClient.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\ESRI.ArcGIS.GeoDatabaseDistributed.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\ProjNet.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\Oracle.DataAccess.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\PostgreSql.Data.PostgreSqlClient.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\System.Data.SQLite.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\BruTile.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\log4net.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\Microsoft.Office.Interop.Word.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\Microsoft.Vbe.Interop.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\Authentication.pdb
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\DatabaseDesignPlus.pdb
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\DLGCheckLib.pdb
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\CSoftAutoUpdater.pdb
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\ESRI.ArcGIS.Geometry.xml
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\ESRI.ArcGIS.Carto.xml
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\ESRI.ArcGIS.Display.xml
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\ESRI.ArcGIS.Geodatabase.xml
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\SharpMap.Extensions.pdb
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\SharpMap.pdb
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\SharpMap.xml
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\ReportPrinter.pdb
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\ESRI.ArcGIS.Geoprocessor.xml
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\ESRI.ArcGIS.DataManagementTools.xml
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\DevComponents.DotNetBar2.xml
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesFile.xml
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\DevComponents.Instrumentation.xml
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\ESRI.ArcGIS.GeoDatabaseExtensions.xml
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesRaster.xml
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\ESRI.ArcGIS.Server.xml
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\ESRI.ArcGIS.GISClient.xml
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\ESRI.ArcGIS.GeoDatabaseDistributed.xml
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\ProjNet.pdb
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\ProjNet.xml
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\System.Data.SQLite.xml
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\Microsoft.Office.Interop.Word.xml
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\obj\Debug\PluginCore.csprojResolveAssemblyReference.cache
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\obj\Debug\PluginCore.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\obj\Debug\PluginCore.pdb
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\class\Log4Net.config
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\Newtonsoft.Json.dll
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\PluginCore.dll
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\PluginCore.pdb
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\Authentication.dll
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\DatabaseDesignPlus.dll
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\DLGCheckLib.dll
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\Npgsql.dll
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\CSoftAutoUpdater.dll
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\Newtonsoft.Json.dll
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\ESRI.ArcGIS.Geometry.dll
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\NetTopologySuite.dll
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\GeoAPI.dll
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\ESRI.ArcGIS.Carto.dll
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\ESRI.ArcGIS.Display.dll
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\ESRI.ArcGIS.Geodatabase.dll
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\osr_csharp.dll
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\SharpMap.Extensions.dll
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\ogr_csharp.dll
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\SharpMap.dll
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\ReportPrinter.dll
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\ESRI.ArcGIS.Geoprocessor.dll
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\ESRI.ArcGIS.DataManagementTools.dll
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\DevComponents.DotNetBar2.dll
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesFile.dll
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\gdal_csharp.dll
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\stdole.dll
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\DevComponents.Instrumentation.dll
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\ESRI.ArcGIS.GeoDatabaseExtensions.dll
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesRaster.dll
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\ESRI.ArcGIS.Server.dll
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\ESRI.ArcGIS.GISClient.dll
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\ESRI.ArcGIS.GeoDatabaseDistributed.dll
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\ProjNet.dll
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\Oracle.DataAccess.dll
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\PostgreSql.Data.PostgreSqlClient.dll
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\System.Data.SQLite.dll
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\BruTile.dll
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\log4net.dll
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\Microsoft.Office.Interop.Word.dll
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\Microsoft.Vbe.Interop.dll
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\Authentication.pdb
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\DatabaseDesignPlus.pdb
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\DLGCheckLib.pdb
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\CSoftAutoUpdater.pdb
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\ESRI.ArcGIS.Geometry.xml
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\ESRI.ArcGIS.Carto.xml
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\ESRI.ArcGIS.Display.xml
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\ESRI.ArcGIS.Geodatabase.xml
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\SharpMap.Extensions.pdb
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\SharpMap.pdb
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\SharpMap.xml
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\ReportPrinter.pdb
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\ESRI.ArcGIS.Geoprocessor.xml
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\ESRI.ArcGIS.DataManagementTools.xml
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\DevComponents.DotNetBar2.xml
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesFile.xml
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\DevComponents.Instrumentation.xml
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\ESRI.ArcGIS.GeoDatabaseExtensions.xml
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\ESRI.ArcGIS.DataSourcesRaster.xml
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\ESRI.ArcGIS.Server.xml
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\ESRI.ArcGIS.GISClient.xml
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\ESRI.ArcGIS.GeoDatabaseDistributed.xml
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\ProjNet.pdb
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\ProjNet.xml
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\System.Data.SQLite.xml
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\Microsoft.Office.Interop.Word.xml
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\obj\Debug\PluginCore.csprojResolveAssemblyReference.cache
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\obj\Debug\PluginCore.dll
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\obj\Debug\PluginCore.pdb
+G:\JMapProjects\JMapWebCheck2.0\JMapCheckStation（webcheck2.0）\PluginCore\bin\Debug\class\Log4Net.config
+G:\JMapProjects\JMapWebCheck2.0git\PluginCore\obj\Debug\PluginCore.csprojResolveAssemblyReference.cache
+G:\JMapProjects\JMapWebCheck2.0git\PluginCore\obj\Debug\PluginCore.dll
+G:\JMapProjects\JMapWebCheck2.0git\PluginCore\obj\Debug\PluginCore.pdb

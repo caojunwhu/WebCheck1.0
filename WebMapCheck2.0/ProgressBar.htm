@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" id="mainWindow">
+<head>
+     <script language="javascript" type="text/javascript">
+        function SetPorgressBar(pos,status) {
+            //设置进度条居中
+            var screenHeight = document.body.clientHeight;
+            var screenWidth = document.body.clientWidth;
+            document.getElementById("ProgressBarSide").style.width = Math.round(screenWidth / 2)+"px";
+            document.getElementById("ProgressBarSide").style.left = Math.round(screenWidth / 4)+"px";
+            document.getElementById("ProgressBarSide").style.top = Math.round(screenHeight  / 3) + "px";
+            document.getElementById("ProgressBarSide").style.height = "41px";
+            document.getElementById("ProgressBarSide").style.display = "";
+
+            //设置进度条百分比                       
+            document.getElementById("ProgressBar").style.width = pos + "%";
+            document.getElementById("ProgressText").innerHTML = status;
+        }
+
+        //完成后隐藏进度条
+        function SetCompleted() {
+            document.getElementById("ProgressBarSide").style.display = "none";
+        }
+     </script>  
+</head>
+    <body>
+    <div id="ProgressBarSide" style="position:absolute;height:41px;width:300px;color:Silver;border-width:1px;border-style:Solid;display:none">
+        <div id="ProgressBar" style="position:absolute;height:41px;width:0%;background-color: green"></div>
+        <div id="ProgressText" style="position:absolute;height:41px;width:100%;text-align:center"></div>
+    </div>
+    </body>
+</html>

@@ -1,0 +1,1374 @@
+D:\mycode\trunk\DLGQInfoMS\Code\SharpMap\2012-05-07\PluginUI\obj\Debug\PluginUI.csprojResolveAssemblyReference.cache
+D:\mycode\trunk\DLGQInfoMS\Code\SharpMap\2012-05-07\PluginUI\obj\Debug\DatabaseDesignPlus.DataTableImportButtonForm.resources
+D:\mycode\trunk\DLGQInfoMS\Code\SharpMap\2012-05-07\PluginUI\obj\Debug\ReportPrinter.ReportPrintButtonForm.resources
+D:\mycode\trunk\DLGQInfoMS\Code\SharpMap\2012-05-07\PluginUI\obj\Debug\PluginUI.csproj.GenerateResource.Cache
+D:\mycode\trunk\DLGQInfoMS\PluginUI\bin\Debug\class\Log4Net.config
+D:\mycode\trunk\DLGQInfoMS\PluginUI\bin\Debug\PluginUI.dll
+D:\mycode\trunk\DLGQInfoMS\PluginUI\bin\Debug\PluginUI.pdb
+D:\mycode\trunk\DLGQInfoMS\PluginUI\bin\Debug\Authentication.dll
+D:\mycode\trunk\DLGQInfoMS\PluginUI\bin\Debug\DataBaseDesign.dll
+D:\mycode\trunk\DLGQInfoMS\PluginUI\bin\Debug\DatabaseDesignPlus.dll
+D:\mycode\trunk\DLGQInfoMS\PluginUI\bin\Debug\Newtonsoft.Json.dll
+D:\mycode\trunk\DLGQInfoMS\PluginUI\bin\Debug\PluginCore.dll
+D:\mycode\trunk\DLGQInfoMS\PluginUI\bin\Debug\ReportPrinter.dll
+D:\mycode\trunk\DLGQInfoMS\PluginUI\bin\Debug\Npgsql.dll
+D:\mycode\trunk\DLGQInfoMS\PluginUI\bin\Debug\CSoftAutoUpdater.dll
+D:\mycode\trunk\DLGQInfoMS\PluginUI\bin\Debug\log4net.dll
+D:\mycode\trunk\DLGQInfoMS\PluginUI\bin\Debug\Authentication.pdb
+D:\mycode\trunk\DLGQInfoMS\PluginUI\bin\Debug\DatabaseDesignPlus.pdb
+D:\mycode\trunk\DLGQInfoMS\PluginUI\bin\Debug\DataBaseDesign.pdb
+D:\mycode\trunk\DLGQInfoMS\PluginUI\bin\Debug\PluginCore.pdb
+D:\mycode\trunk\DLGQInfoMS\PluginUI\bin\Debug\ReportPrinter.pdb
+D:\mycode\trunk\DLGQInfoMS\PluginUI\bin\Debug\Newtonsoft.Json.xml
+D:\mycode\trunk\DLGQInfoMS\PluginUI\bin\Debug\CSoftAutoUpdater.pdb
+D:\mycode\trunk\DLGQInfoMS\PluginUI\obj\Debug\PluginUI.csprojResolveAssemblyReference.cache
+D:\mycode\trunk\DLGQInfoMS\PluginUI\obj\Debug\PluginUI.ButtonFormProjectImport.resources
+D:\mycode\trunk\DLGQInfoMS\PluginUI\obj\Debug\PluginUI.DataTableImportButtonForm.resources
+D:\mycode\trunk\DLGQInfoMS\PluginUI\obj\Debug\PluginUI.ReportPrintButtonForm.resources
+D:\mycode\trunk\DLGQInfoMS\PluginUI\obj\Debug\PluginUI.csproj.GenerateResource.Cache
+D:\mycode\trunk\DLGQInfoMS\PluginUI\obj\Debug\PluginUI.dll
+D:\mycode\trunk\DLGQInfoMS\PluginUI\obj\Debug\PluginUI.pdb
+D:\mycode\trunk\DLGQInfoMS\PluginUI\bin\Debug\Mono.Security.dll
+D:\mycode\trunk\DLGQInfoMS\PluginUI\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\mycode\trunk\DLGQInfoMS\PluginUI\bin\Debug\office.dll
+D:\mycode\trunk\DLGQInfoMS\PluginUI\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\mycode\trunk\DLGQInfoMS\PluginUI\bin\Debug\Microsoft.Office.Interop.Word.xml
+D:\mycode\trunk\DLGQInfoMS\PluginUI\bin\Debug\office.xml
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\PluginUI\bin\Debug\class\Log4Net.config
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\PluginUI\bin\Debug\PluginUI.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\PluginUI\bin\Debug\PluginUI.pdb
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\PluginUI\bin\Debug\Authentication.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\PluginUI\bin\Debug\DataBaseDesign.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\PluginUI\bin\Debug\DatabaseDesignPlus.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\PluginUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\PluginUI\bin\Debug\PluginCore.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\PluginUI\bin\Debug\ReportPrinter.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\PluginUI\bin\Debug\Npgsql.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\PluginUI\bin\Debug\CSoftAutoUpdater.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\PluginUI\bin\Debug\log4net.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\PluginUI\bin\Debug\Microsoft.Office.Interop.Word.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\PluginUI\bin\Debug\Mono.Security.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\PluginUI\bin\Debug\office.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\PluginUI\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\PluginUI\bin\Debug\stdole.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\PluginUI\bin\Debug\Authentication.pdb
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\PluginUI\bin\Debug\DatabaseDesignPlus.pdb
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\PluginUI\bin\Debug\DataBaseDesign.pdb
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\PluginUI\bin\Debug\PluginCore.pdb
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\PluginUI\bin\Debug\ReportPrinter.pdb
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\PluginUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\PluginUI\bin\Debug\CSoftAutoUpdater.pdb
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\PluginUI\bin\Debug\Microsoft.Office.Interop.Word.xml
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\PluginUI\bin\Debug\office.xml
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\PluginUI\obj\Debug\PluginUI.csprojResolveAssemblyReference.cache
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\PluginUI\obj\Debug\PluginUI.ButtonFormProjectImport.resources
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\PluginUI\obj\Debug\PluginUI.DataTableImportButtonForm.resources
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\PluginUI\obj\Debug\PluginUI.ReportPrintButtonForm.resources
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\PluginUI\obj\Debug\PluginUI.csproj.GenerateResource.Cache
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\PluginUI\obj\Debug\PluginUI.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\PluginUI\obj\Debug\PluginUI.pdb
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\obj\Debug\PluginUI.csprojResolveAssemblyReference.cache
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\obj\Debug\PluginUI.ButtonFormProjectImport.resources
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\obj\Debug\PluginUI.DataTableImportButtonForm.resources
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\obj\Debug\PluginUI.ReportPrintButtonForm.resources
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\obj\Debug\PluginUI.csproj.GenerateResource.Cache
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\class\Log4Net.config
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\PluginUI.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\PluginUI.pdb
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\Authentication.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\DataBaseDesign.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\DatabaseDesignPlus.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\IronPython.Modules.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\Microsoft.Scripting.AspNet.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\Microsoft.Scripting.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\PluginCore.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\ReportPrinter.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\Npgsql.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\CSoftAutoUpdater.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\log4net.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\Microsoft.Office.Interop.Word.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\Mono.Security.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\office.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\stdole.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\PluginCore.pdb
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\Authentication.pdb
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\DatabaseDesignPlus.pdb
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\DataBaseDesign.pdb
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\ReportPrinter.pdb
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\IronPython.Modules.xml
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\CSoftAutoUpdater.pdb
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\Microsoft.Office.Interop.Word.xml
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\office.xml
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\obj\Debug\PluginUI.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\obj\Debug\PluginUI.pdb
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\IronPython.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\gdalconst_csharp.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\ogr_csharp.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\osr_csharp.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.AxControls.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.Controls.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.Carto.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.SystemUI.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.Output.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.3DAnalyst.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.GlobeCore.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.Display.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.Version.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.Geodatabase.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.NetworkAnalyst.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.GeoDatabaseExtensions.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.DataSourcesRaster.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.Server.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.GISClient.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.DataSourcesFile.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.GeoDatabaseDistributed.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.Animation.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.Geoprocessing.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.DataSourcesNetCDF.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.GeoAnalyst.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.Controls.xml
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.Carto.xml
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.SystemUI.xml
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.Output.xml
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.3DAnalyst.xml
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.GlobeCore.xml
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.Display.xml
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.Geodatabase.xml
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.NetworkAnalyst.xml
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.GeoDatabaseExtensions.xml
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.DataSourcesRaster.xml
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.Server.xml
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.GISClient.xml
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.DataSourcesFile.xml
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.GeoDatabaseDistributed.xml
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.Animation.xml
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.Geoprocessing.xml
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.DataSourcesNetCDF.xml
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.GeoAnalyst.xml
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.DataSourcesGDB.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.DataSourcesGDB.xml
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\GeoAPI.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\NetTopologySuite.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\obj\Debug\PluginUI.FrmOpenPGLayer.resources
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.Geometry.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.Geometry.xml
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\PowerCollections.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\gdal_csharp.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\GoogleMapDownLoader.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\PluginUI\bin\Debug\GoogleMapDownLoader.pdb
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\class\Log4Net.config
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\PluginUI.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\PluginUI.pdb
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\Authentication.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\DatabaseDesignPlus.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\gdalconst_csharp.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\GeoAPI.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\GoogleMapDownLoader.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\Microsoft.Dynamic.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\Microsoft.Scripting.AspNet.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\Microsoft.Scripting.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\Microsoft.Scripting.Metadata.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\NetTopologySuite.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\Newtonsoft.Json.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\PluginCore.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\ReportPrinter.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\Npgsql.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\CSoftAutoUpdater.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\log4net.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\Microsoft.Office.Interop.Word.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\stdole.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\PowerCollections.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\Mono.Security.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\office.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\GoogleMapDownLoader.pdb
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\PluginCore.pdb
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\Authentication.pdb
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\ReportPrinter.pdb
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\DatabaseDesignPlus.pdb
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\Newtonsoft.Json.xml
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\CSoftAutoUpdater.pdb
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\Microsoft.Office.Interop.Word.xml
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\office.xml
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\obj\Debug\PluginUI.csprojResolveAssemblyReference.cache
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\obj\Debug\PluginUI.ButtonFormProjectImport.resources
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\obj\Debug\PluginUI.DataTableImportButtonForm.resources
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\obj\Debug\PluginUI.FrmOpenPGLayer.resources
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\obj\Debug\PluginUI.ReportPrintButtonForm.resources
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\obj\Debug\PluginUI.csproj.GenerateResource.Cache
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\obj\Debug\PluginUI.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\obj\Debug\PluginUI.pdb
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\DLGCheckLib.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\SharpMap.Extensions.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\SharpMap.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\ProjNet.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\Oracle.DataAccess.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\PostgreSql.Data.PostgreSqlClient.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\System.Data.SQLite.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\BruTile.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\DLGCheckLib.pdb
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\SharpMap.Extensions.pdb
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\SharpMap.pdb
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\SharpMap.xml
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\ProjNet.pdb
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\ProjNet.xml
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\System.Data.SQLite.xml
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\obj\Debug\PluginUI.csprojFakesResolveAssemblyReference.cache
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\gdal_csharp.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\ogr_csharp.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\osr_csharp.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\DevComponents.DotNetBar2.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\DevComponents.DotNetBar2.xml
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\DevComponents.Instrumentation.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\DevComponents.Instrumentation.xml
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\obj\Debug\PluginUI.Frms.FrmSearchCheckLines.resources
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\obj\Debug\PluginUI.Frms.FrmUpdateScater.resources
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\obj\Debug\PluginUI.FrmUpdateSampleArea.resources
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\obj\Debug\PluginUI.FrmUpdateMapbindingTable.resources
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\obj\Debug\PluginUI.Frms.FrmAddSampleError.resources
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\obj\Debug\PluginUI.Frms.FrmQualityErrorReport.resources
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\obj\Debug\PluginUI.Frms.FrmRelativeCheckLines.resources
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\obj\Debug\PluginUI.Frms.FrmInputRelativeValue.resources
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\obj\Debug\PluginUI.Frms.FrmAddQualityErrorItems.resources
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\obj\Debug\PluginUI.csproj.ResolveComReference.cache
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.AxControls.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.Carto.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.DataManagementTools.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.DataSourcesFile.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.DataSourcesGDB.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.Display.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.Geodatabase.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.Geometry.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.Geoprocessor.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.SystemUI.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.Output.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.3DAnalyst.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.GlobeCore.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.Version.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.GeoDatabaseExtensions.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.DataSourcesRaster.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.Server.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.GISClient.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.GeoDatabaseDistributed.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.Geoprocessing.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.Animation.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.DataSourcesNetCDF.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.GeoAnalyst.dll
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.Carto.xml
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.DataManagementTools.xml
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.DataSourcesFile.xml
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.DataSourcesGDB.xml
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.Display.xml
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.Geodatabase.xml
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.Geometry.xml
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.Geoprocessor.xml
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.SystemUI.xml
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.Output.xml
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.3DAnalyst.xml
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.GlobeCore.xml
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.GeoDatabaseExtensions.xml
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.DataSourcesRaster.xml
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.Server.xml
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.GISClient.xml
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.GeoDatabaseDistributed.xml
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.Geoprocessing.xml
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.Animation.xml
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.DataSourcesNetCDF.xml
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.GeoAnalyst.xml
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\obj\Debug\PluginUI.Frms.FrmSampleCheckStation.resources
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\obj\Debug\PluginUI.Frms.FrmCheckPGDBLayersAtributes.resources
+E:\code\Projects-JMapCheckStation0814\DLGQInfoMSVS2015\PluginUI\obj\Debug\PluginUI.Frms.FrmCheckPGDBLayersTopology.resources
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\class\Log4Net.config
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\PluginUI.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\PluginUI.pdb
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\Authentication.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\DatabaseDesignPlus.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\DevComponents.DotNetBar2.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\DevComponents.Instrumentation.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\DLGCheckLib.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.AxControls.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.Carto.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.DataManagementTools.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.DataSourcesFile.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.DataSourcesGDB.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.Display.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.Geodatabase.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.Geometry.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\GeoAPI.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\GoogleMapDownLoader.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\Microsoft.Dynamic.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\Microsoft.Scripting.AspNet.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\Microsoft.Scripting.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\Microsoft.Scripting.Metadata.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\NetTopologySuite.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\Newtonsoft.Json.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\PluginCore.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\ReportPrinter.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\SharpMap.Extensions.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\SharpMap.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.Geoprocessor.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\log4net.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\Microsoft.Office.Interop.Word.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\Npgsql.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\CSoftAutoUpdater.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.SystemUI.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.Output.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.3DAnalyst.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.GlobeCore.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.Version.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\stdole.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.GeoDatabaseExtensions.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.DataSourcesRaster.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.Server.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.GISClient.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.GeoDatabaseDistributed.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\PowerCollections.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\ProjNet.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\Oracle.DataAccess.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\PostgreSql.Data.PostgreSqlClient.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\System.Data.SQLite.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\BruTile.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.Geoprocessing.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\office.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\Mono.Security.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.Animation.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.DataSourcesNetCDF.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.GeoAnalyst.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\DLGCheckLib.pdb
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\PluginCore.pdb
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\ReportPrinter.pdb
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\GoogleMapDownLoader.pdb
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\Authentication.pdb
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\DatabaseDesignPlus.pdb
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\DevComponents.DotNetBar2.xml
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\DevComponents.Instrumentation.xml
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.Carto.xml
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.DataManagementTools.xml
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.DataSourcesFile.xml
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.DataSourcesGDB.xml
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.Display.xml
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.Geodatabase.xml
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.Geometry.xml
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\Newtonsoft.Json.xml
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\SharpMap.Extensions.pdb
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\SharpMap.pdb
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\SharpMap.xml
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.Geoprocessor.xml
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\Microsoft.Office.Interop.Word.xml
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\CSoftAutoUpdater.pdb
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.SystemUI.xml
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.Output.xml
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.3DAnalyst.xml
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.GlobeCore.xml
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.GeoDatabaseExtensions.xml
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.DataSourcesRaster.xml
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.Server.xml
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.GISClient.xml
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.GeoDatabaseDistributed.xml
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\ProjNet.pdb
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\ProjNet.xml
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\System.Data.SQLite.xml
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.Geoprocessing.xml
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\office.xml
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.Animation.xml
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.DataSourcesNetCDF.xml
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\ESRI.ArcGIS.GeoAnalyst.xml
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\obj\Debug\PluginUI.csprojFakesResolveAssemblyReference.cache
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\obj\Debug\PluginUI.csproj.ResolveComReference.cache
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\obj\Debug\PluginUI.ButtonFormProjectImport.resources
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\obj\Debug\PluginUI.DataTableImportButtonForm.resources
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\obj\Debug\PluginUI.Frms.FrmAddQualityErrorItems.resources
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\obj\Debug\PluginUI.Frms.FrmAddSampleError.resources
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\obj\Debug\PluginUI.Frms.FrmCheckPGDBLayersTopology.resources
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\obj\Debug\PluginUI.Frms.FrmCheckPGDBLayersAtributes.resources
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\obj\Debug\PluginUI.Frms.FrmInputRelativeValue.resources
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\obj\Debug\PluginUI.FrmOpenPGLayer.resources
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\obj\Debug\PluginUI.Frms.FrmQualityErrorReport.resources
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\obj\Debug\PluginUI.Frms.FrmRelativeCheckLines.resources
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\obj\Debug\PluginUI.Frms.FrmSampleCheckStation.resources
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\obj\Debug\PluginUI.Frms.FrmSearchCheckLines.resources
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\obj\Debug\PluginUI.Frms.FrmUpdateScater.resources
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\obj\Debug\PluginUI.ReportPrintButtonForm.resources
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\obj\Debug\PluginUI.FrmUpdateMapbindingTable.resources
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\obj\Debug\PluginUI.FrmUpdateSampleArea.resources
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\obj\Debug\PluginUI.csproj.GenerateResource.Cache
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\obj\Debug\PluginUI.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\obj\Debug\PluginUI.pdb
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\obj\Debug\DLGCheckLib.Controls.SearchCheckLinesControl.resources
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\obj\Debug\PluginUI.csprojResolveAssemblyReference.cache
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\gdalconst_csharp.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\gdal_csharp.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\ogr_csharp.dll
+E:\code\MerchandiseVersion-JMapCheckStation\Projects-JMapCheckStation0211\DLGQInfoMSVS2015\PluginUI\bin\Debug\osr_csharp.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginUI\obj\Debug\PluginUI.csprojFakesResolveAssemblyReference.cache
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginUI\obj\Debug\PluginUI.csprojResolveAssemblyReference.cache
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginUI\obj\Debug\PluginUI.csproj.ResolveComReference.cache
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginUI\obj\Debug\DLGCheckLib.Controls.SearchCheckLinesControl.resources
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginUI\obj\Debug\PluginUI.ButtonFormProjectImport.resources
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginUI\obj\Debug\PluginUI.DataTableImportButtonForm.resources
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginUI\obj\Debug\PluginUI.Frms.FrmAddQualityErrorItems.resources
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginUI\obj\Debug\PluginUI.Frms.FrmAddSampleError.resources
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginUI\obj\Debug\PluginUI.Frms.FrmCheckPGDBLayersTopology.resources
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginUI\obj\Debug\PluginUI.Frms.FrmCheckPGDBLayersAtributes.resources
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginUI\obj\Debug\PluginUI.Frms.FrmInputRelativeValue.resources
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginUI\obj\Debug\PluginUI.FrmOpenPGLayer.resources
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginUI\obj\Debug\PluginUI.Frms.FrmQualityErrorReport.resources
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginUI\obj\Debug\PluginUI.Frms.FrmRelativeCheckLines.resources
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginUI\obj\Debug\PluginUI.Frms.FrmSampleCheckStation.resources
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginUI\obj\Debug\PluginUI.Frms.FrmSearchCheckLines.resources
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginUI\obj\Debug\PluginUI.Frms.FrmUpdateScater.resources
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginUI\obj\Debug\PluginUI.ReportPrintButtonForm.resources
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginUI\obj\Debug\PluginUI.FrmUpdateMapbindingTable.resources
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginUI\obj\Debug\PluginUI.FrmUpdateSampleArea.resources
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginUI\obj\Debug\PluginUI.csproj.GenerateResource.Cache
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginUI\obj\Debug\PluginUI.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\JMapCheckStationIntegration1.0\PluginUI\obj\Debug\PluginUI.pdb
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\class\Log4Net.config
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\PluginUI.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\PluginUI.pdb
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\Authentication.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\DevComponents.DotNetBar2.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\DevComponents.Instrumentation.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\DLGCheckLib.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\ESRI.ArcGIS.AxControls.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\ESRI.ArcGIS.Carto.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\ESRI.ArcGIS.DataManagementTools.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\ESRI.ArcGIS.DataSourcesFile.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\ESRI.ArcGIS.DataSourcesGDB.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\ESRI.ArcGIS.Display.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\ESRI.ArcGIS.Geodatabase.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\ESRI.ArcGIS.Geometry.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\GoogleMapDownLoader.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\PluginCore.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\ReportPrinter.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\Npgsql.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\CSoftAutoUpdater.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\SharpMap.Extensions.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\SharpMap.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\ESRI.ArcGIS.Geoprocessor.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\log4net.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\ESRI.ArcGIS.SystemUI.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\ESRI.ArcGIS.Output.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\ESRI.ArcGIS.3DAnalyst.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\ESRI.ArcGIS.GlobeCore.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\ESRI.ArcGIS.Version.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\stdole.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\ESRI.ArcGIS.GeoDatabaseExtensions.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\ESRI.ArcGIS.DataSourcesRaster.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\ESRI.ArcGIS.Server.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\ESRI.ArcGIS.GISClient.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\ESRI.ArcGIS.GeoDatabaseDistributed.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\ProjNet.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\Oracle.DataAccess.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\PostgreSql.Data.PostgreSqlClient.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\System.Data.SQLite.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\BruTile.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\ESRI.ArcGIS.Geoprocessing.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\office.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\ESRI.ArcGIS.Animation.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\ESRI.ArcGIS.DataSourcesNetCDF.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\ESRI.ArcGIS.GeoAnalyst.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\Authentication.pdb
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\DLGCheckLib.pdb
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\PluginCore.pdb
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\ReportPrinter.pdb
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\GoogleMapDownLoader.pdb
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\DevComponents.DotNetBar2.xml
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\DevComponents.Instrumentation.xml
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\ESRI.ArcGIS.Carto.xml
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\ESRI.ArcGIS.DataManagementTools.xml
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\ESRI.ArcGIS.DataSourcesFile.xml
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\ESRI.ArcGIS.DataSourcesGDB.xml
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\ESRI.ArcGIS.Display.xml
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\ESRI.ArcGIS.Geodatabase.xml
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\ESRI.ArcGIS.Geometry.xml
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\CSoftAutoUpdater.pdb
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\SharpMap.Extensions.pdb
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\SharpMap.pdb
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\SharpMap.xml
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\ESRI.ArcGIS.Geoprocessor.xml
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\Microsoft.Office.Interop.Word.xml
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\ESRI.ArcGIS.SystemUI.xml
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\ESRI.ArcGIS.Output.xml
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\ESRI.ArcGIS.3DAnalyst.xml
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\ESRI.ArcGIS.GlobeCore.xml
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\ESRI.ArcGIS.GeoDatabaseExtensions.xml
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\ESRI.ArcGIS.DataSourcesRaster.xml
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\ESRI.ArcGIS.Server.xml
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\ESRI.ArcGIS.GISClient.xml
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\ESRI.ArcGIS.GeoDatabaseDistributed.xml
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\ProjNet.pdb
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\ProjNet.xml
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\System.Data.SQLite.xml
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\ESRI.ArcGIS.Geoprocessing.xml
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\office.xml
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\ESRI.ArcGIS.Animation.xml
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\ESRI.ArcGIS.DataSourcesNetCDF.xml
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\ESRI.ArcGIS.GeoAnalyst.xml
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\obj\Debug\PluginUI.csprojFakesResolveAssemblyReference.cache
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\obj\Debug\PluginUI.csproj.ResolveComReference.cache
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\obj\Debug\DLGCheckLib.Controls.SearchCheckLinesControl.resources
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\obj\Debug\PluginUI.ButtonFormProjectImport.resources
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\obj\Debug\PluginUI.DataTableImportButtonForm.resources
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\obj\Debug\PluginUI.Frms.FrmAddQualityErrorItems.resources
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\obj\Debug\PluginUI.Frms.FrmAddSampleError.resources
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\obj\Debug\PluginUI.Frms.FrmCheckPGDBLayersTopology.resources
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\obj\Debug\PluginUI.Frms.FrmCheckPGDBLayersAtributes.resources
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\obj\Debug\PluginUI.Frms.FrmInputRelativeValue.resources
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\obj\Debug\PluginUI.FrmOpenPGLayer.resources
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\obj\Debug\PluginUI.Frms.FrmQualityErrorReport.resources
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\obj\Debug\PluginUI.Frms.FrmRelativeCheckLines.resources
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\obj\Debug\PluginUI.Frms.FrmSampleCheckStation.resources
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\obj\Debug\PluginUI.Frms.FrmSearchCheckLines.resources
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\obj\Debug\PluginUI.Frms.FrmUpdateScater.resources
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\obj\Debug\PluginUI.ReportPrintButtonForm.resources
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\obj\Debug\PluginUI.FrmUpdateMapbindingTable.resources
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\obj\Debug\PluginUI.FrmUpdateSampleArea.resources
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\obj\Debug\PluginUI.csproj.GenerateResource.Cache
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\obj\Debug\PluginUI.dll
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\obj\Debug\PluginUI.pdb
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\obj\Debug\PluginUI.Properties.Resources.resources
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\obj\Debug\PluginUI.Frms.FrmJDCCCompanyInfo.resources
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\obj\Debug\PluginUI.Frms.FrmPintErrors.resources
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\obj\Debug\PluginUI.Frms.FrmAddSampleErrorPlus.resources
+D:\mycode\JMapProjects\JMapCheckStationIntegration1.0\PluginUI\obj\Debug\PluginUI.csprojResolveAssemblyReference.cache
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.csprojFakesResolveAssemblyReference.cache
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.csprojResolveAssemblyReference.cache
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.csproj.ResolveComReference.cache
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.pdb
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\class\Log4Net.config
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\PluginUI.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\PluginUI.pdb
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\Authentication.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\DevComponents.DotNetBar2.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\DevComponents.Instrumentation.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\DLGCheckLib.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\GoogleMapDownLoader.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\PluginCore.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ReportPrinter.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\SharpMap.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\SharpMap.Extensions.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\Npgsql.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\CSoftAutoUpdater.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.Geoprocessor.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\log4net.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\Microsoft.Office.Interop.Word.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\stdole.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\PowerCollections.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ProjNet.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\BruTile.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\Oracle.DataAccess.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\PostgreSql.Data.PostgreSqlClient.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\System.Data.SQLite.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\Mono.Security.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\office.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\Authentication.pdb
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\DLGCheckLib.pdb
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\PluginCore.pdb
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ReportPrinter.pdb
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\GoogleMapDownLoader.pdb
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\DatabaseDesignPlus.pdb
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\DevComponents.DotNetBar2.xml
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\DevComponents.Instrumentation.xml
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\Newtonsoft.Json.xml
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\SharpMap.pdb
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\SharpMap.xml
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\SharpMap.Extensions.pdb
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\CSoftAutoUpdater.pdb
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.Geoprocessor.xml
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\Microsoft.Office.Interop.Word.xml
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ProjNet.pdb
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ProjNet.xml
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\System.Data.SQLite.xml
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\office.xml
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\DLGCheckLib.Controls.SearchCheckLinesControl.resources
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.ButtonFormProjectImport.resources
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.DataTableImportButtonForm.resources
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmAddQualityErrorItems.resources
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmAddSampleErrorPlus.resources
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmAddSampleError.resources
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmCheckPGDBLayersTopology.resources
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmCheckPGDBLayersAtributes.resources
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmInputRelativeValue.resources
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmJDCCCompanyInfo.resources
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.FrmOpenPGLayer.resources
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmQualityErrorReport.resources
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmPintErrors.resources
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmRelativeCheckLines.resources
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmSampleCheckStation.resources
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmSearchCheckLines.resources
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmUpdateScater.resources
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.ReportPrintButtonForm.resources
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.FrmUpdateMapbindingTable.resources
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.FrmUpdateSampleArea.resources
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Properties.Resources.resources
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.csproj.GenerateResource.Cache
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmSampleEveluate.resources
+C:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\dog_net_windows.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\class\Log4Net.config
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\PluginUI.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\PluginUI.pdb
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\Authentication.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\DevComponents.DotNetBar2.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\DevComponents.Instrumentation.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\DLGCheckLib.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.AxControls.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.Carto.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.DataManagementTools.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.DataSourcesFile.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.DataSourcesGDB.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.Display.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.Geodatabase.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.Geometry.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\GoogleMapDownLoader.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\PluginCore.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ReportPrinter.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\SharpMap.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\SharpMap.Extensions.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\Npgsql.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\CSoftAutoUpdater.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\dog_net_windows.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.Geoprocessor.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\log4net.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.SystemUI.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.Output.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.3DAnalyst.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.GlobeCore.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.Version.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\stdole.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.GeoDatabaseExtensions.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.DataSourcesRaster.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.Server.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.GISClient.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.GeoDatabaseDistributed.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ProjNet.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\BruTile.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\Oracle.DataAccess.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\PostgreSql.Data.PostgreSqlClient.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\System.Data.SQLite.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.Geoprocessing.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\office.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.Animation.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.DataSourcesNetCDF.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.GeoAnalyst.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\Authentication.pdb
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\DLGCheckLib.pdb
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\PluginCore.pdb
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ReportPrinter.pdb
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\GoogleMapDownLoader.pdb
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\DevComponents.DotNetBar2.xml
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\DevComponents.Instrumentation.xml
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.Carto.xml
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.DataManagementTools.xml
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.DataSourcesFile.xml
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.DataSourcesGDB.xml
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.Display.xml
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.Geodatabase.xml
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.Geometry.xml
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\SharpMap.pdb
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\SharpMap.xml
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\SharpMap.Extensions.pdb
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\CSoftAutoUpdater.pdb
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.Geoprocessor.xml
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\Microsoft.Office.Interop.Word.xml
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.SystemUI.xml
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.Output.xml
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.3DAnalyst.xml
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.GlobeCore.xml
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.GeoDatabaseExtensions.xml
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.DataSourcesRaster.xml
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.Server.xml
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.GISClient.xml
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.GeoDatabaseDistributed.xml
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ProjNet.pdb
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ProjNet.xml
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\System.Data.SQLite.xml
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.Geoprocessing.xml
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\office.xml
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.Animation.xml
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.DataSourcesNetCDF.xml
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.GeoAnalyst.xml
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.csprojFakesResolveAssemblyReference.cache
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.csproj.ResolveComReference.cache
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\DLGCheckLib.Controls.SearchCheckLinesControl.resources
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.ButtonFormProjectImport.resources
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.DataTableImportButtonForm.resources
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmAddQualityErrorItems.resources
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmAddSampleErrorPlus.resources
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmAddSampleError.resources
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmCheckPGDBLayersTopology.resources
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmCheckPGDBLayersAtributes.resources
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmInputRelativeValue.resources
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmJDCCCompanyInfo.resources
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.FrmOpenPGLayer.resources
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmSampleEveluate.resources
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmQualityErrorReport.resources
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmPintErrors.resources
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmRelativeCheckLines.resources
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmSampleCheckStation.resources
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmSearchCheckLines.resources
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmUpdateScater.resources
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.ReportPrintButtonForm.resources
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.FrmUpdateMapbindingTable.resources
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.FrmUpdateSampleArea.resources
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Properties.Resources.resources
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.csproj.GenerateResource.Cache
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.dll
+D:\mycode\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.pdb
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\class\Log4Net.config
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\PluginUI.dll
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\PluginUI.pdb
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\Authentication.dll
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\DevComponents.DotNetBar2.dll
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\DevComponents.Instrumentation.dll
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\DLGCheckLib.dll
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.AxControls.dll
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.Carto.dll
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.DataManagementTools.dll
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.DataSourcesFile.dll
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.DataSourcesGDB.dll
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.Display.dll
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.Geodatabase.dll
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.Geometry.dll
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\GoogleMapDownLoader.dll
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\PluginCore.dll
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ReportPrinter.dll
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\SharpMap.dll
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\SharpMap.Extensions.dll
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\Npgsql.dll
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\CSoftAutoUpdater.dll
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\dog_net_windows.dll
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.Geoprocessor.dll
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\log4net.dll
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\Microsoft.Office.Interop.Word.dll
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.SystemUI.dll
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.Output.dll
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.3DAnalyst.dll
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.GlobeCore.dll
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.Version.dll
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\stdole.dll
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.GeoDatabaseExtensions.dll
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.DataSourcesRaster.dll
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.Server.dll
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.GISClient.dll
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.GeoDatabaseDistributed.dll
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ProjNet.dll
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\BruTile.dll
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\Oracle.DataAccess.dll
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\PostgreSql.Data.PostgreSqlClient.dll
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\System.Data.SQLite.dll
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.Geoprocessing.dll
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\office.dll
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.Animation.dll
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.DataSourcesNetCDF.dll
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.GeoAnalyst.dll
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\Authentication.pdb
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\DLGCheckLib.pdb
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\PluginCore.pdb
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ReportPrinter.pdb
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\GoogleMapDownLoader.pdb
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\DevComponents.DotNetBar2.xml
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\DevComponents.Instrumentation.xml
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.Carto.xml
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.DataManagementTools.xml
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.DataSourcesFile.xml
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.DataSourcesGDB.xml
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.Display.xml
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.Geodatabase.xml
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.Geometry.xml
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\SharpMap.pdb
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\SharpMap.xml
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\SharpMap.Extensions.pdb
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\CSoftAutoUpdater.pdb
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.Geoprocessor.xml
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\Microsoft.Office.Interop.Word.xml
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.SystemUI.xml
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.Output.xml
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.3DAnalyst.xml
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.GlobeCore.xml
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.GeoDatabaseExtensions.xml
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.DataSourcesRaster.xml
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.Server.xml
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.GISClient.xml
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.GeoDatabaseDistributed.xml
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ProjNet.pdb
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ProjNet.xml
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\System.Data.SQLite.xml
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.Geoprocessing.xml
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\office.xml
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.Animation.xml
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.DataSourcesNetCDF.xml
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.GeoAnalyst.xml
+E:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.csprojFakesResolveAssemblyReference.cache
+E:\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.csproj.ResolveComReference.cache
+E:\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\DLGCheckLib.Controls.SearchCheckLinesControl.resources
+E:\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.ButtonFormProjectImport.resources
+E:\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.DataTableImportButtonForm.resources
+E:\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmAddQualityErrorItems.resources
+E:\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmAddSampleErrorPlus.resources
+E:\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmAddSampleError.resources
+E:\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmCheckPGDBLayersTopology.resources
+E:\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmCheckPGDBLayersAtributes.resources
+E:\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmInputRelativeValue.resources
+E:\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmJDCCCompanyInfo.resources
+E:\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.FrmOpenPGLayer.resources
+E:\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmSampleEveluate.resources
+E:\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmQualityErrorReport.resources
+E:\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmPintErrors.resources
+E:\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmRelativeCheckLines.resources
+E:\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmSampleCheckStation.resources
+E:\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmSearchCheckLines.resources
+E:\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmUpdateScater.resources
+E:\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.ReportPrintButtonForm.resources
+E:\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.FrmUpdateMapbindingTable.resources
+E:\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.FrmUpdateSampleArea.resources
+E:\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Properties.Resources.resources
+E:\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.csproj.GenerateResource.Cache
+E:\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.dll
+E:\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.pdb
+F:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\class\Log4Net.config
+F:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\PluginUI.dll
+F:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\PluginUI.pdb
+F:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\Authentication.dll
+F:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\DLGCheckLib.dll
+F:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\GoogleMapDownLoader.dll
+F:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+F:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\PluginCore.dll
+F:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ReportPrinter.dll
+F:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\SharpMap.dll
+F:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\SharpMap.Extensions.dll
+F:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\Npgsql.dll
+F:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\CSoftAutoUpdater.dll
+F:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\dog_net_windows.dll
+F:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.Geoprocessor.dll
+F:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\log4net.dll
+F:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\Microsoft.Office.Interop.Word.dll
+F:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\stdole.dll
+F:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ProjNet.dll
+F:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\BruTile.dll
+F:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\Oracle.DataAccess.dll
+F:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\PostgreSql.Data.PostgreSqlClient.dll
+F:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\System.Data.SQLite.dll
+F:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\office.dll
+F:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\Microsoft.Vbe.Interop.dll
+F:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\Authentication.pdb
+F:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\DLGCheckLib.pdb
+F:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\PluginCore.pdb
+F:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ReportPrinter.pdb
+F:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\GoogleMapDownLoader.pdb
+F:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+F:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\DevComponents.DotNetBar2.xml
+F:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\DevComponents.Instrumentation.xml
+F:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\SharpMap.pdb
+F:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\SharpMap.xml
+F:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\SharpMap.Extensions.pdb
+F:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\CSoftAutoUpdater.pdb
+F:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.Geoprocessor.xml
+F:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\Microsoft.Office.Interop.Word.xml
+F:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ProjNet.pdb
+F:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\ProjNet.xml
+F:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\System.Data.SQLite.xml
+F:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\office.xml
+F:\JMapProjects\JMapCheckStation\PluginUI\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+F:\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.csprojFakesResolveAssemblyReference.cache
+F:\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.csprojResolveAssemblyReference.cache
+F:\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.csproj.ResolveComReference.cache
+F:\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\DLGCheckLib.Controls.SearchCheckLinesControl.resources
+F:\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.ButtonFormProjectImport.resources
+F:\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.DataTableImportButtonForm.resources
+F:\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmAddQualityErrorItems.resources
+F:\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmAddSampleErrorPlus.resources
+F:\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmAddSampleError.resources
+F:\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmCheckPGDBLayersTopology.resources
+F:\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmCheckPGDBLayersAtributes.resources
+F:\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmInputRelativeValue.resources
+F:\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmJDCCCompanyInfo.resources
+F:\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.FrmOpenPGLayer.resources
+F:\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmSampleEveluate.resources
+F:\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmQualityErrorReport.resources
+F:\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmPintErrors.resources
+F:\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmRelativeCheckLines.resources
+F:\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmSampleCheckStation.resources
+F:\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmSearchCheckLines.resources
+F:\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmUpdateScater.resources
+F:\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.ReportPrintButtonForm.resources
+F:\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.FrmUpdateMapbindingTable.resources
+F:\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.FrmUpdateSampleArea.resources
+F:\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Properties.Resources.resources
+F:\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.csproj.GenerateResource.Cache
+F:\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.dll
+F:\JMapProjects\JMapCheckStation\PluginUI\obj\Debug\PluginUI.pdb
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\class\Log4Net.config
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\PluginUI.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\PluginUI.pdb
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\Authentication.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\DevComponents.DotNetBar2.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\DevComponents.Instrumentation.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\DLGCheckLib.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\GoogleMapDownLoader.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\PluginCore.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\ReportPrinter.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\SharpMap.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\SharpMap.Extensions.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\Npgsql.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\CSoftAutoUpdater.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\dog_net_windows.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.Geoprocessor.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\log4net.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\stdole.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\ProjNet.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\BruTile.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\Oracle.DataAccess.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\PostgreSql.Data.PostgreSqlClient.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\System.Data.SQLite.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\office.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\Authentication.pdb
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\DLGCheckLib.pdb
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\PluginCore.pdb
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\ReportPrinter.pdb
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\GoogleMapDownLoader.pdb
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\DevComponents.DotNetBar2.xml
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\DevComponents.Instrumentation.xml
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\SharpMap.pdb
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\SharpMap.xml
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\SharpMap.Extensions.pdb
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\CSoftAutoUpdater.pdb
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.Geoprocessor.xml
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\Microsoft.Office.Interop.Word.xml
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\ProjNet.pdb
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\ProjNet.xml
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\System.Data.SQLite.xml
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\office.xml
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.csprojFakesResolveAssemblyReference.cache
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.csprojResolveAssemblyReference.cache
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.csproj.ResolveComReference.cache
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\obj\Debug\DLGCheckLib.Controls.SearchCheckLinesControl.resources
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.ButtonFormProjectImport.resources
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.DataTableImportButtonForm.resources
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmAddQualityErrorItems.resources
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmAddSampleErrorPlus.resources
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmAddSampleError.resources
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmCheckPGDBLayersTopology.resources
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmCheckPGDBLayersAtributes.resources
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmInputRelativeValue.resources
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmJDCCCompanyInfo.resources
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.FrmOpenPGLayer.resources
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmSampleEveluate.resources
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmQualityErrorReport.resources
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmPintErrors.resources
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmRelativeCheckLines.resources
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmSampleCheckStation.resources
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmSearchCheckLines.resources
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmUpdateScater.resources
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.ReportPrintButtonForm.resources
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.FrmUpdateMapbindingTable.resources
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.FrmUpdateSampleArea.resources
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Properties.Resources.resources
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.csproj.GenerateResource.Cache
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.dll
+D:\源代码\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.pdb
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\class\Log4Net.config
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\PluginUI.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\PluginUI.pdb
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\Authentication.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\DevComponents.DotNetBar2.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\DevComponents.Instrumentation.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\DLGCheckLib.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\GoogleMapDownLoader.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\PluginCore.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\ReportPrinter.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\SharpMap.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\SharpMap.Extensions.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\Npgsql.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\CSoftAutoUpdater.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\dog_net_windows.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.Geoprocessor.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\log4net.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\stdole.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\ProjNet.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\BruTile.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\Oracle.DataAccess.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\PostgreSql.Data.PostgreSqlClient.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\System.Data.SQLite.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\office.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\Authentication.pdb
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\DLGCheckLib.pdb
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\PluginCore.pdb
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\ReportPrinter.pdb
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\GoogleMapDownLoader.pdb
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\DevComponents.DotNetBar2.xml
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\DevComponents.Instrumentation.xml
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\SharpMap.pdb
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\SharpMap.xml
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\SharpMap.Extensions.pdb
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\CSoftAutoUpdater.pdb
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.Geoprocessor.xml
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\Microsoft.Office.Interop.Word.xml
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\ProjNet.pdb
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\ProjNet.xml
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\System.Data.SQLite.xml
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\office.xml
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.csprojFakesResolveAssemblyReference.cache
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.csprojResolveAssemblyReference.cache
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.csproj.ResolveComReference.cache
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\obj\Debug\DLGCheckLib.Controls.SearchCheckLinesControl.resources
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.ButtonFormProjectImport.resources
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.DataTableImportButtonForm.resources
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmAddQualityErrorItems.resources
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmAddSampleErrorPlus.resources
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmAddSampleError.resources
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmCheckPGDBLayersTopology.resources
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmCheckPGDBLayersAtributes.resources
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmInputRelativeValue.resources
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmJDCCCompanyInfo.resources
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.FrmOpenPGLayer.resources
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmSampleEveluate.resources
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmQualityErrorReport.resources
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmPintErrors.resources
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmRelativeCheckLines.resources
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmSampleCheckStation.resources
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmSearchCheckLines.resources
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmUpdateScater.resources
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.ReportPrintButtonForm.resources
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.FrmUpdateMapbindingTable.resources
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.FrmUpdateSampleArea.resources
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Properties.Resources.resources
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.csproj.GenerateResource.Cache
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.dll
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.pdb
+D:\SOURCECODE\JMapCheckStation(pg0615src)\JMapCheckStation\PluginUI\bin\Debug\PluginUI.dll.config
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\class\Log4Net.config
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\PluginUI.dll.config
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\PluginUI.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\PluginUI.pdb
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\Authentication.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\DevComponents.DotNetBar2.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\DevComponents.Instrumentation.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\DLGCheckLib.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\GoogleMapDownLoader.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\PluginCore.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\ReportPrinter.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\SharpMap.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\SharpMap.Extensions.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\Npgsql.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\CSoftAutoUpdater.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\dog_net_windows.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.Geoprocessor.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\log4net.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\Microsoft.Office.Interop.Word.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\stdole.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\ProjNet.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\BruTile.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\Oracle.DataAccess.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\PostgreSql.Data.PostgreSqlClient.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\System.Data.SQLite.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\office.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\Microsoft.Vbe.Interop.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\Authentication.pdb
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\DLGCheckLib.pdb
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\PluginCore.pdb
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\ReportPrinter.pdb
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\GoogleMapDownLoader.pdb
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\DevComponents.DotNetBar2.xml
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\DevComponents.Instrumentation.xml
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\SharpMap.pdb
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\SharpMap.xml
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\SharpMap.Extensions.pdb
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\CSoftAutoUpdater.pdb
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.Geoprocessor.xml
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\Microsoft.Office.Interop.Word.xml
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\ProjNet.pdb
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\ProjNet.xml
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\System.Data.SQLite.xml
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\office.xml
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.csprojFakesResolveAssemblyReference.cache
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.csprojResolveAssemblyReference.cache
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.csproj.ResolveComReference.cache
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\DLGCheckLib.Controls.SearchCheckLinesControl.resources
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.ButtonFormProjectImport.resources
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.DataTableImportButtonForm.resources
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmAddQualityErrorItems.resources
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmAddSampleErrorPlus.resources
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmAddSampleError.resources
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmCheckPGDBLayersTopology.resources
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmCheckPGDBLayersAtributes.resources
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmInputRelativeValue.resources
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmJDCCCompanyInfo.resources
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.FrmOpenPGLayer.resources
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmSampleEveluate.resources
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmQualityErrorReport.resources
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmPintErrors.resources
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmRelativeCheckLines.resources
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmSampleCheckStation.resources
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmSearchCheckLines.resources
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmUpdateScater.resources
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.ReportPrintButtonForm.resources
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.FrmUpdateMapbindingTable.resources
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.FrmUpdateSampleArea.resources
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Properties.Resources.resources
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.csproj.GenerateResource.Cache
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.pdb
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\class\Log4Net.config
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\PluginUI.dll.config
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\PluginUI.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\PluginUI.pdb
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\Authentication.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\DevComponents.DotNetBar2.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\DevComponents.Instrumentation.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\DLGCheckLib.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\GoogleMapDownLoader.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\PluginCore.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\ReportPrinter.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\SharpMap.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\SharpMap.Extensions.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\Npgsql.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\CSoftAutoUpdater.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\dog_net_windows.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.Geoprocessor.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\log4net.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\Microsoft.Office.Interop.Word.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\stdole.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\ProjNet.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\BruTile.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\Oracle.DataAccess.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\PostgreSql.Data.PostgreSqlClient.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\System.Data.SQLite.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\Microsoft.Vbe.Interop.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\Authentication.pdb
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\DLGCheckLib.pdb
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\PluginCore.pdb
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\ReportPrinter.pdb
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\GoogleMapDownLoader.pdb
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\DevComponents.DotNetBar2.xml
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\DevComponents.Instrumentation.xml
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\SharpMap.pdb
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\SharpMap.xml
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\SharpMap.Extensions.pdb
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\CSoftAutoUpdater.pdb
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.Geoprocessor.xml
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\Microsoft.Office.Interop.Word.xml
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\ProjNet.pdb
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\ProjNet.xml
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\System.Data.SQLite.xml
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.csprojFakesResolveAssemblyReference.cache
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.csproj.ResolveComReference.cache
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\DLGCheckLib.Controls.SearchCheckLinesControl.resources
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.ButtonFormProjectImport.resources
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.DataTableImportButtonForm.resources
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmAddQualityErrorItems.resources
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmAddSampleErrorPlus.resources
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmAddSampleError.resources
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmCheckPGDBLayersTopology.resources
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmCheckPGDBLayersAtributes.resources
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmInputRelativeValue.resources
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmJDCCCompanyInfo.resources
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.FrmOpenPGLayer.resources
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmSampleEveluate.resources
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmQualityErrorReport.resources
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmPintErrors.resources
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmRelativeCheckLines.resources
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmSampleCheckStation.resources
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmSearchCheckLines.resources
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmUpdateScater.resources
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.ReportPrintButtonForm.resources
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.FrmUpdateMapbindingTable.resources
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.FrmUpdateSampleArea.resources
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Properties.Resources.resources
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.csproj.GenerateResource.Cache
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.dll
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.pdb
+F:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.csprojResolveAssemblyReference.cache
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\class\Log4Net.config
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\PluginUI.dll.config
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\PluginUI.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\PluginUI.pdb
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\Authentication.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\DLGCheckLib.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\GoogleMapDownLoader.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\PluginCore.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\ReportPrinter.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\SharpMap.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\SharpMap.Extensions.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\Npgsql.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\CSoftAutoUpdater.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\dog_net_windows.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.Geoprocessor.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\log4net.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\Microsoft.Office.Interop.Word.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\stdole.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\ProjNet.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\BruTile.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\Oracle.DataAccess.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\PostgreSql.Data.PostgreSqlClient.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\System.Data.SQLite.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\Microsoft.Vbe.Interop.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\Authentication.pdb
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\DLGCheckLib.pdb
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\PluginCore.pdb
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\ReportPrinter.pdb
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\GoogleMapDownLoader.pdb
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\SharpMap.pdb
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\SharpMap.xml
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\SharpMap.Extensions.pdb
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\CSoftAutoUpdater.pdb
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\ESRI.ArcGIS.Geoprocessor.xml
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\Microsoft.Office.Interop.Word.xml
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\ProjNet.pdb
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\ProjNet.xml
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\System.Data.SQLite.xml
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.csprojFakesResolveAssemblyReference.cache
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.csprojResolveAssemblyReference.cache
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.csproj.ResolveComReference.cache
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\DLGCheckLib.Controls.SearchCheckLinesControl.resources
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.ButtonFormProjectImport.resources
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.DataTableImportButtonForm.resources
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmAddQualityErrorItems.resources
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmAddSampleErrorPlus.resources
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmAddSampleError.resources
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmCheckPGDBLayersTopology.resources
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmCheckPGDBLayersAtributes.resources
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmInputRelativeValue.resources
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmJDCCCompanyInfo.resources
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.FrmOpenPGLayer.resources
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmSampleEveluate.resources
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmQualityErrorReport.resources
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmPintErrors.resources
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmRelativeCheckLines.resources
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmSampleCheckStation.resources
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmSearchCheckLines.resources
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Frms.FrmUpdateScater.resources
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.ReportPrintButtonForm.resources
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.FrmUpdateMapbindingTable.resources
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.FrmUpdateSampleArea.resources
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.Properties.Resources.resources
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.csproj.GenerateResource.Cache
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn)\JMapCheckStation\PluginUI\obj\Debug\PluginUI.pdb
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\bin\Debug\class\Log4Net.config
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\bin\Debug\PluginUI.dll.config
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\bin\Debug\PluginUI.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\bin\Debug\PluginUI.pdb
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\bin\Debug\Authentication.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\bin\Debug\DLGCheckLib.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\bin\Debug\GoogleMapDownLoader.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\bin\Debug\PluginCore.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\bin\Debug\ReportPrinter.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\bin\Debug\SharpMap.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\bin\Debug\SharpMap.Extensions.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\bin\Debug\Npgsql.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\bin\Debug\CSoftAutoUpdater.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\bin\Debug\dog_net_windows.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\bin\Debug\ESRI.ArcGIS.Geoprocessor.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\bin\Debug\log4net.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\bin\Debug\Microsoft.Office.Interop.Word.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\bin\Debug\stdole.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\bin\Debug\ProjNet.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\bin\Debug\BruTile.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\bin\Debug\Oracle.DataAccess.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\bin\Debug\PostgreSql.Data.PostgreSqlClient.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\bin\Debug\System.Data.SQLite.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\bin\Debug\Microsoft.Vbe.Interop.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\bin\Debug\Authentication.pdb
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\bin\Debug\DLGCheckLib.pdb
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\bin\Debug\PluginCore.pdb
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\bin\Debug\ReportPrinter.pdb
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\bin\Debug\GoogleMapDownLoader.pdb
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\bin\Debug\SharpMap.pdb
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\bin\Debug\SharpMap.xml
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\bin\Debug\SharpMap.Extensions.pdb
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\bin\Debug\CSoftAutoUpdater.pdb
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\bin\Debug\ESRI.ArcGIS.Geoprocessor.xml
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\bin\Debug\Microsoft.Office.Interop.Word.xml
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\bin\Debug\ProjNet.pdb
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\bin\Debug\ProjNet.xml
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\bin\Debug\System.Data.SQLite.xml
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\obj\Debug\PluginUI.csprojFakesResolveAssemblyReference.cache
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\obj\Debug\PluginUI.csprojResolveAssemblyReference.cache
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\obj\Debug\PluginUI.csproj.ResolveComReference.cache
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\obj\Debug\DLGCheckLib.Controls.SearchCheckLinesControl.resources
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\obj\Debug\PluginUI.ButtonFormProjectImport.resources
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\obj\Debug\PluginUI.DataTableImportButtonForm.resources
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\obj\Debug\PluginUI.Frms.FrmAddQualityErrorItems.resources
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\obj\Debug\PluginUI.Frms.FrmAddSampleErrorPlus.resources
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\obj\Debug\PluginUI.Frms.FrmAddSampleError.resources
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\obj\Debug\PluginUI.Frms.FrmCheckPGDBLayersTopology.resources
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\obj\Debug\PluginUI.Frms.FrmCheckPGDBLayersAtributes.resources
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\obj\Debug\PluginUI.Frms.FrmInputRelativeValue.resources
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\obj\Debug\PluginUI.Frms.FrmJDCCCompanyInfo.resources
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\obj\Debug\PluginUI.FrmOpenPGLayer.resources
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\obj\Debug\PluginUI.Frms.FrmSampleEveluate.resources
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\obj\Debug\PluginUI.Frms.FrmQualityErrorReport.resources
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\obj\Debug\PluginUI.Frms.FrmPintErrors.resources
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\obj\Debug\PluginUI.Frms.FrmRelativeCheckLines.resources
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\obj\Debug\PluginUI.Frms.FrmSampleCheckStation.resources
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\obj\Debug\PluginUI.Frms.FrmSearchCheckLines.resources
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\obj\Debug\PluginUI.Frms.FrmUpdateScater.resources
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\obj\Debug\PluginUI.ReportPrintButtonForm.resources
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\obj\Debug\PluginUI.FrmUpdateMapbindingTable.resources
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\obj\Debug\PluginUI.FrmUpdateSampleArea.resources
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\obj\Debug\PluginUI.Properties.Resources.resources
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\obj\Debug\PluginUI.csproj.GenerateResource.Cache
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\obj\Debug\PluginUI.dll
+G:\JMapProjects\JMapCheckStation(pg0615src not svn webcheck2.0)\JMapCheckStation（webcheck2.0）\PluginUI\obj\Debug\PluginUI.pdb

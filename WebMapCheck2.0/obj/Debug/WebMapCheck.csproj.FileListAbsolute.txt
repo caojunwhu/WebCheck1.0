@@ -1,0 +1,15 @@
+D:\mycode\trunk\DLGQInfoMS\WebMapCheck\bin\WebMapCheck.dll
+D:\mycode\trunk\DLGQInfoMS\WebMapCheck\bin\WebMapCheck.pdb
+D:\mycode\trunk\DLGQInfoMS\WebMapCheck\bin\Authentication.dll
+D:\mycode\trunk\DLGQInfoMS\WebMapCheck\bin\DatabaseDesignPlus.dll
+D:\mycode\trunk\DLGQInfoMS\WebMapCheck\bin\Npgsql.dll
+D:\mycode\trunk\DLGQInfoMS\WebMapCheck\bin\CSoftAutoUpdater.dll
+D:\mycode\trunk\DLGQInfoMS\WebMapCheck\bin\Newtonsoft.Json.dll
+D:\mycode\trunk\DLGQInfoMS\WebMapCheck\bin\Mono.Security.dll
+D:\mycode\trunk\DLGQInfoMS\WebMapCheck\bin\Authentication.pdb
+D:\mycode\trunk\DLGQInfoMS\WebMapCheck\bin\DatabaseDesignPlus.pdb
+D:\mycode\trunk\DLGQInfoMS\WebMapCheck\bin\CSoftAutoUpdater.pdb
+D:\mycode\trunk\DLGQInfoMS\WebMapCheck\bin\Newtonsoft.Json.xml
+D:\mycode\trunk\DLGQInfoMS\WebMapCheck\obj\Debug\WebMapCheck.csprojResolveAssemblyReference.cache
+D:\mycode\trunk\DLGQInfoMS\WebMapCheck\obj\Debug\WebMapCheck.dll
+D:\mycode\trunk\DLGQInfoMS\WebMapCheck\obj\Debug\WebMapCheck.pdb
