@@ -1367,3 +1367,4 @@ G:\JMapProjects\JMapWebCheck2.0git\PluginCore\bin\Debug\ESRI.ArcGIS.GeoDatabaseD
 G:\JMapProjects\JMapWebCheck2.0git\PluginCore\bin\Debug\ProjNet.pdb
 G:\JMapProjects\JMapWebCheck2.0git\PluginCore\bin\Debug\ProjNet.xml
 G:\JMapProjects\JMapWebCheck2.0git\PluginCore\bin\Debug\System.Data.SQLite.xml
+G:\JMapProjects\JMapWebCheck2.0git\PluginCore\bin\Debug\class\Log4Net.config
