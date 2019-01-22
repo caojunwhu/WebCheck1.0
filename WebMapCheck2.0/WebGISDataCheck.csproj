@@ -312,6 +312,14 @@
     <Content Include="Site.Master" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Authentication\Authentication.csproj">
+      <Project>{709abe82-e234-4424-a7c3-43937d0a6fb4}</Project>
+      <Name>Authentication</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DatabaseDesignPlus\DatabaseDesignPlus.csproj">
+      <Project>{b72a02c2-bf14-4232-8bcb-2f18af5779b9}</Project>
+      <Name>DatabaseDesignPlus</Name>
+    </ProjectReference>
     <ProjectReference Include="..\PluginCore\PluginCore.csproj">
       <Project>{6ca13cb4-5f5a-4117-b4ee-dc0cb226e9f3}</Project>
       <Name>PluginCore</Name>

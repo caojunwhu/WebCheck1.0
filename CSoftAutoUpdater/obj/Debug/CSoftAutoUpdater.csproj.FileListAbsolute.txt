@@ -1,0 +1,185 @@
+D:\gdal3.23\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.6\SurveryProductCheckWorkSpace3.30\SurveryProductCheckWorkSpace\CSoftAutoUpdater\bin\Debug\CSoftAutoUpdater.dll
+D:\gdal3.23\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.6\SurveryProductCheckWorkSpace3.30\SurveryProductCheckWorkSpace\CSoftAutoUpdater\bin\Debug\CSoftAutoUpdater.pdb
+D:\gdal3.23\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.6\SurveryProductCheckWorkSpace3.30\SurveryProductCheckWorkSpace\CSoftAutoUpdater\obj\Debug\CSoftAutoUpdater.dll
+D:\gdal3.23\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.6\SurveryProductCheckWorkSpace3.30\SurveryProductCheckWorkSpace\CSoftAutoUpdater\obj\Debug\CSoftAutoUpdater.pdb
+D:\gdal3.23\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.6\SurveryProductCheckWorkSpace3.30\SurveryProductCheckWorkSpace\CSoftAutoUpdater\bin\Debug\DatabaseDesignPlus.dll
+D:\gdal3.23\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.6\SurveryProductCheckWorkSpace3.30\SurveryProductCheckWorkSpace\CSoftAutoUpdater\bin\Debug\Newtonsoft.Json.dll
+D:\gdal3.23\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.6\SurveryProductCheckWorkSpace3.30\SurveryProductCheckWorkSpace\CSoftAutoUpdater\bin\Debug\Npgsql.dll
+D:\gdal3.23\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.6\SurveryProductCheckWorkSpace3.30\SurveryProductCheckWorkSpace\CSoftAutoUpdater\bin\Debug\Mono.Security.dll
+D:\gdal3.23\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.6\SurveryProductCheckWorkSpace3.30\SurveryProductCheckWorkSpace\CSoftAutoUpdater\bin\Debug\DatabaseDesignPlus.pdb
+D:\gdal3.23\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.6\SurveryProductCheckWorkSpace3.30\SurveryProductCheckWorkSpace\CSoftAutoUpdater\bin\Debug\Newtonsoft.Json.xml
+D:\gdal3.23\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.6\SurveryProductCheckWorkSpace3.30\SurveryProductCheckWorkSpace\CSoftAutoUpdater\bin\Debug\Npgsql.pdb
+D:\gdal3.23\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.6\SurveryProductCheckWorkSpace3.30\SurveryProductCheckWorkSpace\CSoftAutoUpdater\bin\Debug\Npgsql.xml
+D:\gdal3.23\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.6\SurveryProductCheckWorkSpace3.30\SurveryProductCheckWorkSpace\CSoftAutoUpdater\obj\Debug\CSoftAutoUpdater.csprojResolveAssemblyReference.cache
+C:\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.17\SurveryProductCheckWorkSpace\CSoftAutoUpdater\bin\Debug\CSoftAutoUpdater.dll
+C:\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.17\SurveryProductCheckWorkSpace\CSoftAutoUpdater\bin\Debug\CSoftAutoUpdater.pdb
+C:\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.17\SurveryProductCheckWorkSpace\CSoftAutoUpdater\bin\Debug\DatabaseDesignPlus.dll
+C:\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.17\SurveryProductCheckWorkSpace\CSoftAutoUpdater\bin\Debug\Npgsql.dll
+C:\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.17\SurveryProductCheckWorkSpace\CSoftAutoUpdater\bin\Debug\Newtonsoft.Json.dll
+C:\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.17\SurveryProductCheckWorkSpace\CSoftAutoUpdater\bin\Debug\Mono.Security.dll
+C:\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.17\SurveryProductCheckWorkSpace\CSoftAutoUpdater\bin\Debug\DatabaseDesignPlus.pdb
+C:\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.17\SurveryProductCheckWorkSpace\CSoftAutoUpdater\bin\Debug\Npgsql.pdb
+C:\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.17\SurveryProductCheckWorkSpace\CSoftAutoUpdater\bin\Debug\Npgsql.xml
+C:\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.17\SurveryProductCheckWorkSpace\CSoftAutoUpdater\bin\Debug\Newtonsoft.Json.xml
+C:\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.17\SurveryProductCheckWorkSpace\CSoftAutoUpdater\obj\Debug\CSoftAutoUpdater.csprojResolveAssemblyReference.cache
+C:\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.17\SurveryProductCheckWorkSpace\CSoftAutoUpdater\obj\Debug\CSoftAutoUpdater.dll
+C:\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.17\SurveryProductCheckWorkSpace\CSoftAutoUpdater\obj\Debug\CSoftAutoUpdater.pdb
+D:\gdal3.23\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.26\SurveryProductCheckWorkSpace\CSoftAutoUpdater\bin\Debug\CSoftAutoUpdater.dll
+D:\gdal3.23\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.26\SurveryProductCheckWorkSpace\CSoftAutoUpdater\bin\Debug\CSoftAutoUpdater.pdb
+D:\gdal3.23\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.26\SurveryProductCheckWorkSpace\CSoftAutoUpdater\bin\Debug\DatabaseDesignPlus.dll
+D:\gdal3.23\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.26\SurveryProductCheckWorkSpace\CSoftAutoUpdater\bin\Debug\Newtonsoft.Json.dll
+D:\gdal3.23\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.26\SurveryProductCheckWorkSpace\CSoftAutoUpdater\bin\Debug\Npgsql.dll
+D:\gdal3.23\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.26\SurveryProductCheckWorkSpace\CSoftAutoUpdater\bin\Debug\Mono.Security.dll
+D:\gdal3.23\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.26\SurveryProductCheckWorkSpace\CSoftAutoUpdater\bin\Debug\DatabaseDesignPlus.pdb
+D:\gdal3.23\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.26\SurveryProductCheckWorkSpace\CSoftAutoUpdater\bin\Debug\Newtonsoft.Json.xml
+D:\gdal3.23\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.26\SurveryProductCheckWorkSpace\CSoftAutoUpdater\bin\Debug\Npgsql.pdb
+D:\gdal3.23\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.26\SurveryProductCheckWorkSpace\CSoftAutoUpdater\bin\Debug\Npgsql.xml
+D:\gdal3.23\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.26\SurveryProductCheckWorkSpace\CSoftAutoUpdater\obj\Debug\CSoftAutoUpdater.csprojResolveAssemblyReference.cache
+D:\gdal3.23\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.26\SurveryProductCheckWorkSpace\CSoftAutoUpdater\obj\Debug\CSoftAutoUpdater.dll
+D:\gdal3.23\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.26\SurveryProductCheckWorkSpace\CSoftAutoUpdater\obj\Debug\CSoftAutoUpdater.pdb
+C:\快盘\湖北省测绘质检站\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.26\SurveryProductCheckWorkSpace\CSoftAutoUpdater\bin\Debug\CSoftAutoUpdater.dll
+C:\快盘\湖北省测绘质检站\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.26\SurveryProductCheckWorkSpace\CSoftAutoUpdater\bin\Debug\CSoftAutoUpdater.pdb
+C:\快盘\湖北省测绘质检站\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.26\SurveryProductCheckWorkSpace\CSoftAutoUpdater\bin\Debug\DatabaseDesignPlus.dll
+C:\快盘\湖北省测绘质检站\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.26\SurveryProductCheckWorkSpace\CSoftAutoUpdater\bin\Debug\Npgsql.dll
+C:\快盘\湖北省测绘质检站\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.26\SurveryProductCheckWorkSpace\CSoftAutoUpdater\bin\Debug\Newtonsoft.Json.dll
+C:\快盘\湖北省测绘质检站\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.26\SurveryProductCheckWorkSpace\CSoftAutoUpdater\bin\Debug\Mono.Security.dll
+C:\快盘\湖北省测绘质检站\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.26\SurveryProductCheckWorkSpace\CSoftAutoUpdater\bin\Debug\DatabaseDesignPlus.pdb
+C:\快盘\湖北省测绘质检站\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.26\SurveryProductCheckWorkSpace\CSoftAutoUpdater\bin\Debug\Npgsql.pdb
+C:\快盘\湖北省测绘质检站\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.26\SurveryProductCheckWorkSpace\CSoftAutoUpdater\bin\Debug\Npgsql.xml
+C:\快盘\湖北省测绘质检站\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.26\SurveryProductCheckWorkSpace\CSoftAutoUpdater\bin\Debug\Newtonsoft.Json.xml
+C:\快盘\湖北省测绘质检站\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.26\SurveryProductCheckWorkSpace\CSoftAutoUpdater\obj\Debug\CSoftAutoUpdater.csprojResolveAssemblyReference.cache
+C:\快盘\湖北省测绘质检站\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.26\SurveryProductCheckWorkSpace\CSoftAutoUpdater\obj\Debug\CSoftAutoUpdater.dll
+C:\快盘\湖北省测绘质检站\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.26\SurveryProductCheckWorkSpace\CSoftAutoUpdater\obj\Debug\CSoftAutoUpdater.pdb
+C:\快盘\湖北省测绘质检站\SOFT1.0\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.26\SurveryProductCheckWorkSpace\CSoftAutoUpdater\bin\Debug\CSoftAutoUpdater.dll
+C:\快盘\湖北省测绘质检站\SOFT1.0\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.26\SurveryProductCheckWorkSpace\CSoftAutoUpdater\bin\Debug\CSoftAutoUpdater.pdb
+C:\快盘\湖北省测绘质检站\SOFT1.0\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.26\SurveryProductCheckWorkSpace\CSoftAutoUpdater\bin\Debug\DatabaseDesignPlus.dll
+C:\快盘\湖北省测绘质检站\SOFT1.0\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.26\SurveryProductCheckWorkSpace\CSoftAutoUpdater\bin\Debug\Npgsql.dll
+C:\快盘\湖北省测绘质检站\SOFT1.0\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.26\SurveryProductCheckWorkSpace\CSoftAutoUpdater\bin\Debug\Newtonsoft.Json.dll
+C:\快盘\湖北省测绘质检站\SOFT1.0\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.26\SurveryProductCheckWorkSpace\CSoftAutoUpdater\bin\Debug\Mono.Security.dll
+C:\快盘\湖北省测绘质检站\SOFT1.0\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.26\SurveryProductCheckWorkSpace\CSoftAutoUpdater\bin\Debug\DatabaseDesignPlus.pdb
+C:\快盘\湖北省测绘质检站\SOFT1.0\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.26\SurveryProductCheckWorkSpace\CSoftAutoUpdater\bin\Debug\Npgsql.pdb
+C:\快盘\湖北省测绘质检站\SOFT1.0\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.26\SurveryProductCheckWorkSpace\CSoftAutoUpdater\bin\Debug\Npgsql.xml
+C:\快盘\湖北省测绘质检站\SOFT1.0\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.26\SurveryProductCheckWorkSpace\CSoftAutoUpdater\bin\Debug\Newtonsoft.Json.xml
+C:\快盘\湖北省测绘质检站\SOFT1.0\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.26\SurveryProductCheckWorkSpace\CSoftAutoUpdater\obj\Debug\CSoftAutoUpdater.csprojResolveAssemblyReference.cache
+C:\快盘\湖北省测绘质检站\SOFT1.0\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.26\SurveryProductCheckWorkSpace\CSoftAutoUpdater\obj\Debug\CSoftAutoUpdater.dll
+C:\快盘\湖北省测绘质检站\SOFT1.0\GDAL2.28\GDAL\SurveryProductCheckWorkSpace4.26\SurveryProductCheckWorkSpace\CSoftAutoUpdater\obj\Debug\CSoftAutoUpdater.pdb
+C:\Users\zjz\Desktop\DLGQInfoMS\CSoftAutoUpdater\bin\Debug\CSoftAutoUpdater.dll
+C:\Users\zjz\Desktop\DLGQInfoMS\CSoftAutoUpdater\bin\Debug\CSoftAutoUpdater.pdb
+C:\Users\zjz\Desktop\DLGQInfoMS\CSoftAutoUpdater\bin\Debug\DatabaseDesignPlus.dll
+C:\Users\zjz\Desktop\DLGQInfoMS\CSoftAutoUpdater\bin\Debug\Newtonsoft.Json.dll
+C:\Users\zjz\Desktop\DLGQInfoMS\CSoftAutoUpdater\bin\Debug\Npgsql.dll
+C:\Users\zjz\Desktop\DLGQInfoMS\CSoftAutoUpdater\bin\Debug\Mono.Security.dll
+C:\Users\zjz\Desktop\DLGQInfoMS\CSoftAutoUpdater\bin\Debug\DatabaseDesignPlus.pdb
+C:\Users\zjz\Desktop\DLGQInfoMS\CSoftAutoUpdater\bin\Debug\Newtonsoft.Json.xml
+C:\Users\zjz\Desktop\DLGQInfoMS\CSoftAutoUpdater\bin\Debug\Npgsql.pdb
+C:\Users\zjz\Desktop\DLGQInfoMS\CSoftAutoUpdater\bin\Debug\Npgsql.xml
+C:\Users\zjz\Desktop\DLGQInfoMS\CSoftAutoUpdater\obj\Debug\CSoftAutoUpdater.csprojResolveAssemblyReference.cache
+C:\Users\zjz\Desktop\DLGQInfoMS\CSoftAutoUpdater\obj\Debug\CSoftAutoUpdater.dll
+C:\Users\zjz\Desktop\DLGQInfoMS\CSoftAutoUpdater\obj\Debug\CSoftAutoUpdater.pdb
+C:\Users\zjz\Desktop\Code\DLGQInfoMS\CSoftAutoUpdater\bin\Debug\CSoftAutoUpdater.dll
+C:\Users\zjz\Desktop\Code\DLGQInfoMS\CSoftAutoUpdater\bin\Debug\CSoftAutoUpdater.pdb
+C:\Users\zjz\Desktop\Code\DLGQInfoMS\CSoftAutoUpdater\bin\Debug\DatabaseDesignPlus.dll
+C:\Users\zjz\Desktop\Code\DLGQInfoMS\CSoftAutoUpdater\bin\Debug\Newtonsoft.Json.dll
+C:\Users\zjz\Desktop\Code\DLGQInfoMS\CSoftAutoUpdater\bin\Debug\Npgsql.dll
+C:\Users\zjz\Desktop\Code\DLGQInfoMS\CSoftAutoUpdater\bin\Debug\Mono.Security.dll
+C:\Users\zjz\Desktop\Code\DLGQInfoMS\CSoftAutoUpdater\bin\Debug\DatabaseDesignPlus.pdb
+C:\Users\zjz\Desktop\Code\DLGQInfoMS\CSoftAutoUpdater\bin\Debug\Newtonsoft.Json.xml
+C:\Users\zjz\Desktop\Code\DLGQInfoMS\CSoftAutoUpdater\bin\Debug\Npgsql.pdb
+C:\Users\zjz\Desktop\Code\DLGQInfoMS\CSoftAutoUpdater\bin\Debug\Npgsql.xml
+C:\Users\zjz\Desktop\Code\DLGQInfoMS\CSoftAutoUpdater\obj\Debug\CSoftAutoUpdater.csprojResolveAssemblyReference.cache
+C:\Users\zjz\Desktop\Code\DLGQInfoMS\CSoftAutoUpdater\obj\Debug\CSoftAutoUpdater.dll
+C:\Users\zjz\Desktop\Code\DLGQInfoMS\CSoftAutoUpdater\obj\Debug\CSoftAutoUpdater.pdb
+D:\mycode\trunk\DLGQInfoMS\CSoftAutoUpdater\bin\Debug\CSoftAutoUpdater.dll
+D:\mycode\trunk\DLGQInfoMS\CSoftAutoUpdater\bin\Debug\CSoftAutoUpdater.pdb
+D:\mycode\trunk\DLGQInfoMS\CSoftAutoUpdater\bin\Debug\DatabaseDesignPlus.dll
+D:\mycode\trunk\DLGQInfoMS\CSoftAutoUpdater\bin\Debug\Npgsql.dll
+D:\mycode\trunk\DLGQInfoMS\CSoftAutoUpdater\bin\Debug\Newtonsoft.Json.dll
+D:\mycode\trunk\DLGQInfoMS\CSoftAutoUpdater\bin\Debug\Mono.Security.dll
+D:\mycode\trunk\DLGQInfoMS\CSoftAutoUpdater\bin\Debug\DatabaseDesignPlus.pdb
+D:\mycode\trunk\DLGQInfoMS\CSoftAutoUpdater\bin\Debug\Npgsql.pdb
+D:\mycode\trunk\DLGQInfoMS\CSoftAutoUpdater\bin\Debug\Npgsql.xml
+D:\mycode\trunk\DLGQInfoMS\CSoftAutoUpdater\bin\Debug\Newtonsoft.Json.xml
+D:\mycode\trunk\DLGQInfoMS\CSoftAutoUpdater\obj\Debug\CSoftAutoUpdater.dll
+D:\mycode\trunk\DLGQInfoMS\CSoftAutoUpdater\obj\Debug\CSoftAutoUpdater.pdb
+D:\mycode\trunk\DLGQInfoMS\CSoftAutoUpdater\obj\Debug\CSoftAutoUpdater.csprojResolveAssemblyReference.cache
+C:\DLGQInfoMS\CSoftAutoUpdater\bin\Debug\CSoftAutoUpdater.dll
+C:\DLGQInfoMS\CSoftAutoUpdater\bin\Debug\CSoftAutoUpdater.pdb
+C:\DLGQInfoMS\CSoftAutoUpdater\bin\Debug\DatabaseDesignPlus.dll
+C:\DLGQInfoMS\CSoftAutoUpdater\bin\Debug\Newtonsoft.Json.dll
+C:\DLGQInfoMS\CSoftAutoUpdater\bin\Debug\Npgsql.dll
+C:\DLGQInfoMS\CSoftAutoUpdater\bin\Debug\Mono.Security.dll
+C:\DLGQInfoMS\CSoftAutoUpdater\bin\Debug\DatabaseDesignPlus.pdb
+C:\DLGQInfoMS\CSoftAutoUpdater\bin\Debug\Newtonsoft.Json.xml
+C:\DLGQInfoMS\CSoftAutoUpdater\bin\Debug\Npgsql.pdb
+C:\DLGQInfoMS\CSoftAutoUpdater\bin\Debug\Npgsql.xml
+C:\DLGQInfoMS\CSoftAutoUpdater\obj\Debug\CSoftAutoUpdater.csprojResolveAssemblyReference.cache
+C:\DLGQInfoMS\CSoftAutoUpdater\obj\Debug\CSoftAutoUpdater.dll
+C:\DLGQInfoMS\CSoftAutoUpdater\obj\Debug\CSoftAutoUpdater.pdb
+C:\Users\cjun.whu\Desktop\DLGQInfoMS\CSoftAutoUpdater\bin\Debug\CSoftAutoUpdater.dll
+C:\Users\cjun.whu\Desktop\DLGQInfoMS\CSoftAutoUpdater\bin\Debug\CSoftAutoUpdater.pdb
+C:\Users\cjun.whu\Desktop\DLGQInfoMS\CSoftAutoUpdater\bin\Debug\DatabaseDesignPlus.dll
+C:\Users\cjun.whu\Desktop\DLGQInfoMS\CSoftAutoUpdater\bin\Debug\Npgsql.dll
+C:\Users\cjun.whu\Desktop\DLGQInfoMS\CSoftAutoUpdater\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cjun.whu\Desktop\DLGQInfoMS\CSoftAutoUpdater\bin\Debug\Mono.Security.dll
+C:\Users\cjun.whu\Desktop\DLGQInfoMS\CSoftAutoUpdater\bin\Debug\DatabaseDesignPlus.pdb
+C:\Users\cjun.whu\Desktop\DLGQInfoMS\CSoftAutoUpdater\bin\Debug\Npgsql.pdb
+C:\Users\cjun.whu\Desktop\DLGQInfoMS\CSoftAutoUpdater\bin\Debug\Npgsql.xml
+C:\Users\cjun.whu\Desktop\DLGQInfoMS\CSoftAutoUpdater\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cjun.whu\Desktop\DLGQInfoMS\CSoftAutoUpdater\obj\Debug\CSoftAutoUpdater.csprojResolveAssemblyReference.cache
+C:\Users\cjun.whu\Desktop\DLGQInfoMS\CSoftAutoUpdater\obj\Debug\CSoftAutoUpdater.dll
+C:\Users\cjun.whu\Desktop\DLGQInfoMS\CSoftAutoUpdater\obj\Debug\CSoftAutoUpdater.pdb
+D:\mycode\CSoftAutoUpdater\bin\Debug\CSoftAutoUpdater.dll
+D:\mycode\CSoftAutoUpdater\bin\Debug\CSoftAutoUpdater.pdb
+D:\mycode\CSoftAutoUpdater\bin\Debug\DatabaseDesignPlus.dll
+D:\mycode\CSoftAutoUpdater\bin\Debug\Npgsql.dll
+D:\mycode\CSoftAutoUpdater\bin\Debug\Newtonsoft.Json.dll
+D:\mycode\CSoftAutoUpdater\bin\Debug\Mono.Security.dll
+D:\mycode\CSoftAutoUpdater\bin\Debug\DatabaseDesignPlus.pdb
+D:\mycode\CSoftAutoUpdater\bin\Debug\Npgsql.pdb
+D:\mycode\CSoftAutoUpdater\bin\Debug\Npgsql.xml
+D:\mycode\CSoftAutoUpdater\bin\Debug\Newtonsoft.Json.xml
+D:\mycode\CSoftAutoUpdater\obj\Debug\CSoftAutoUpdater.csprojResolveAssemblyReference.cache
+D:\mycode\CSoftAutoUpdater\obj\Debug\CSoftAutoUpdater.dll
+D:\mycode\CSoftAutoUpdater\obj\Debug\CSoftAutoUpdater.pdb
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\CSoftAutoUpdater\bin\Debug\CSoftAutoUpdater.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\CSoftAutoUpdater\bin\Debug\CSoftAutoUpdater.pdb
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\CSoftAutoUpdater\bin\Debug\DatabaseDesignPlus.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\CSoftAutoUpdater\bin\Debug\Npgsql.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\CSoftAutoUpdater\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\CSoftAutoUpdater\bin\Debug\Mono.Security.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\CSoftAutoUpdater\bin\Debug\DatabaseDesignPlus.pdb
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\CSoftAutoUpdater\bin\Debug\Npgsql.pdb
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\CSoftAutoUpdater\bin\Debug\Npgsql.xml
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\CSoftAutoUpdater\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\CSoftAutoUpdater\obj\Debug\CSoftAutoUpdater.csprojResolveAssemblyReference.cache
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\CSoftAutoUpdater\obj\Debug\CSoftAutoUpdater.dll
+C:\Users\cjun\Documents\Visual Studio 2015\Projects\DLGQInfoMS\CSoftAutoUpdater\obj\Debug\CSoftAutoUpdater.pdb
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\CSoftAutoUpdater\bin\Debug\CSoftAutoUpdater.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\CSoftAutoUpdater\bin\Debug\CSoftAutoUpdater.pdb
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\CSoftAutoUpdater\bin\Debug\DatabaseDesignPlus.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\CSoftAutoUpdater\bin\Debug\Npgsql.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\CSoftAutoUpdater\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\CSoftAutoUpdater\bin\Debug\Mono.Security.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\CSoftAutoUpdater\bin\Debug\DatabaseDesignPlus.pdb
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\CSoftAutoUpdater\bin\Debug\Npgsql.pdb
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\CSoftAutoUpdater\bin\Debug\Npgsql.xml
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\CSoftAutoUpdater\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\CSoftAutoUpdater\obj\Debug\CSoftAutoUpdater.csprojResolveAssemblyReference.cache
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\CSoftAutoUpdater\obj\Debug\CSoftAutoUpdater.dll
+C:\Users\cjun.whu\Documents\Visual Studio 2015\Projects\DLGQInfoMSVS2015\CSoftAutoUpdater\obj\Debug\CSoftAutoUpdater.pdb
+G:\JMapProjects\JMapWebCheck2.0git\CSoftAutoUpdater\bin\Debug\CSoftAutoUpdater.dll
+G:\JMapProjects\JMapWebCheck2.0git\CSoftAutoUpdater\bin\Debug\CSoftAutoUpdater.pdb
+G:\JMapProjects\JMapWebCheck2.0git\CSoftAutoUpdater\bin\Debug\DatabaseDesignPlus.dll
+G:\JMapProjects\JMapWebCheck2.0git\CSoftAutoUpdater\bin\Debug\Npgsql.dll
+G:\JMapProjects\JMapWebCheck2.0git\CSoftAutoUpdater\bin\Debug\Newtonsoft.Json.dll
+G:\JMapProjects\JMapWebCheck2.0git\CSoftAutoUpdater\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+G:\JMapProjects\JMapWebCheck2.0git\CSoftAutoUpdater\bin\Debug\Mono.Security.dll
+G:\JMapProjects\JMapWebCheck2.0git\CSoftAutoUpdater\bin\Debug\DevComponents.DotNetBar2.dll
+G:\JMapProjects\JMapWebCheck2.0git\CSoftAutoUpdater\bin\Debug\DevComponents.Instrumentation.dll
+G:\JMapProjects\JMapWebCheck2.0git\CSoftAutoUpdater\bin\Debug\DatabaseDesignPlus.pdb
+G:\JMapProjects\JMapWebCheck2.0git\CSoftAutoUpdater\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+G:\JMapProjects\JMapWebCheck2.0git\CSoftAutoUpdater\bin\Debug\DevComponents.DotNetBar2.xml
+G:\JMapProjects\JMapWebCheck2.0git\CSoftAutoUpdater\bin\Debug\DevComponents.Instrumentation.xml
+G:\JMapProjects\JMapWebCheck2.0git\CSoftAutoUpdater\obj\Debug\CSoftAutoUpdater.csprojResolveAssemblyReference.cache
+G:\JMapProjects\JMapWebCheck2.0git\CSoftAutoUpdater\obj\Debug\CSoftAutoUpdater.dll
+G:\JMapProjects\JMapWebCheck2.0git\CSoftAutoUpdater\obj\Debug\CSoftAutoUpdater.pdb

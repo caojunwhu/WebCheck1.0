@@ -403,3 +403,6 @@ G:\JMapProjects\JMapWebCheck2.0git\ReportPrinter\obj\Debug\ReportPrinter.WordPre
 G:\JMapProjects\JMapWebCheck2.0git\ReportPrinter\obj\Debug\ReportPrinter.csproj.GenerateResource.Cache
 G:\JMapProjects\JMapWebCheck2.0git\ReportPrinter\obj\Debug\ReportPrinter.dll
 G:\JMapProjects\JMapWebCheck2.0git\ReportPrinter\obj\Debug\ReportPrinter.pdb
+G:\JMapProjects\JMapWebCheck2.0git\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\class\Log4Net.config
+G:\JMapProjects\JMapWebCheck2.0git\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.dll
+G:\JMapProjects\JMapWebCheck2.0git\SurveryProductCheckWorkSpace\YGJCProjWorkSpace\bin\Debug\ReportPrinter.pdb

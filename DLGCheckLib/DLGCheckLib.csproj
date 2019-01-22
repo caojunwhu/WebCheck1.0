@@ -263,6 +263,10 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\DatabaseDesignPlus\DatabaseDesignPlus.csproj">
+      <Project>{b72a02c2-bf14-4232-8bcb-2f18af5779b9}</Project>
+      <Name>DatabaseDesignPlus</Name>
+    </ProjectReference>
     <ProjectReference Include="..\ReportPrinter\ReportPrinter.csproj">
       <Project>{77169c0a-7e41-406a-a0d6-0771fbd14cc9}</Project>
       <Name>ReportPrinter</Name>

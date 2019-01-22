@@ -308,3 +308,15 @@ G:\JMapProjects\JMapWebCheck2.0git\Authentication\obj\Debug\Authentication.SysLo
 G:\JMapProjects\JMapWebCheck2.0git\Authentication\obj\Debug\Authentication.csproj.GenerateResource.Cache
 G:\JMapProjects\JMapWebCheck2.0git\Authentication\obj\Debug\Authentication.dll
 G:\JMapProjects\JMapWebCheck2.0git\Authentication\obj\Debug\Authentication.pdb
+G:\JMapProjects\JMapWebCheck2.0git\Authentication\bin\Debug\Authentication.dll
+G:\JMapProjects\JMapWebCheck2.0git\Authentication\bin\Debug\Authentication.pdb
+G:\JMapProjects\JMapWebCheck2.0git\Authentication\bin\Debug\CSoftAutoUpdater.dll
+G:\JMapProjects\JMapWebCheck2.0git\Authentication\bin\Debug\DatabaseDesignPlus.dll
+G:\JMapProjects\JMapWebCheck2.0git\Authentication\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+G:\JMapProjects\JMapWebCheck2.0git\Authentication\bin\Debug\DevComponents.DotNetBar2.dll
+G:\JMapProjects\JMapWebCheck2.0git\Authentication\bin\Debug\DevComponents.Instrumentation.dll
+G:\JMapProjects\JMapWebCheck2.0git\Authentication\bin\Debug\CSoftAutoUpdater.pdb
+G:\JMapProjects\JMapWebCheck2.0git\Authentication\bin\Debug\DatabaseDesignPlus.pdb
+G:\JMapProjects\JMapWebCheck2.0git\Authentication\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+G:\JMapProjects\JMapWebCheck2.0git\Authentication\bin\Debug\DevComponents.DotNetBar2.xml
+G:\JMapProjects\JMapWebCheck2.0git\Authentication\bin\Debug\DevComponents.Instrumentation.xml
